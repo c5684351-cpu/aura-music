@@ -1,6 +1,6 @@
 {
     "app":  "Aura",
-    "updated":  "2026-10-24T08:45:14.8535714Z",
+    "updated":  "2026-10-24T12:00:46.2125683Z",
     "tracks":  [
                    {
                        "id":  "u_solace_in_the_grove_06a4e8",
@@ -16,7 +16,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  12486,
-                       "file":  "songs/u_solace_in_the_grove_06a4e8.mp3"
+                       "file":  "songs/u_solace_in_the_grove_06a4e8.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  7056240
                    },
                    {
                        "id":  "u_the_morning_canopy_72f6d3",
@@ -32,7 +35,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  64241,
-                       "file":  "songs/u_the_morning_canopy_72f6d3.mp3"
+                       "file":  "songs/u_the_morning_canopy_72f6d3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  6960109
                    },
                    {
                        "id":  "u_where_the_water_rests_72a14b",
@@ -48,7 +54,10 @@
                                    ],
                        "coverStyle":  1,
                        "seed":  64716,
-                       "file":  "songs/u_where_the_water_rests_72a14b.mp3"
+                       "file":  "songs/u_where_the_water_rests_72a14b.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  6918313
                    },
                    {
                        "id":  "u_stillness_at_daybreak_ab7211",
@@ -64,7 +73,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  64182,
-                       "file":  "songs/u_stillness_at_daybreak_ab7211.mp3"
+                       "file":  "songs/u_stillness_at_daybreak_ab7211.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4323850
                    },
                    {
                        "id":  "u_light_through_the_canopy_87f641",
@@ -80,7 +92,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  16035,
-                       "file":  "songs/u_light_through_the_canopy_87f641.mp3"
+                       "file":  "songs/u_light_through_the_canopy_87f641.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4266799
                    },
                    {
                        "id":  "u_dawn_in_the_tall_pines_ce5894",
@@ -96,7 +111,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  22183,
-                       "file":  "songs/u_dawn_in_the_tall_pines_ce5894.mp3"
+                       "file":  "songs/u_dawn_in_the_tall_pines_ce5894.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4165861
                    },
                    {
                        "id":  "u_breath_of_the_ancient_grove_9e1aac",
@@ -112,7 +130,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  195,
-                       "file":  "songs/u_breath_of_the_ancient_grove_9e1aac.mp3"
+                       "file":  "songs/u_breath_of_the_ancient_grove_9e1aac.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4327612
                    },
                    {
                        "id":  "u_dawn_in_the_high_valley_bb8c6a",
@@ -128,7 +149,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  62009,
-                       "file":  "songs/u_dawn_in_the_high_valley_bb8c6a.mp3"
+                       "file":  "songs/u_dawn_in_the_high_valley_bb8c6a.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4291249
                    },
                    {
                        "id":  "u_where_the_river_bends_5f92f3",
@@ -144,7 +168,10 @@
                                    ],
                        "coverStyle":  1,
                        "seed":  51193,
-                       "file":  "songs/u_where_the_river_bends_5f92f3.mp3"
+                       "file":  "songs/u_where_the_river_bends_5f92f3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4272441
                    },
                    {
                        "id":  "u_where_the_river_meets_stone_ab3fe3",
@@ -160,7 +187,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  40780,
-                       "file":  "songs/u_where_the_river_meets_stone_ab3fe3.mp3"
+                       "file":  "songs/u_where_the_river_meets_stone_ab3fe3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4305669
                    },
                    {
                        "id":  "u_canopy_at_dawn_ad5f29",
@@ -176,7 +206,10 @@
                                    ],
                        "coverStyle":  3,
                        "seed":  58133,
-                       "file":  "songs/u_canopy_at_dawn_ad5f29.mp3"
+                       "file":  "songs/u_canopy_at_dawn_ad5f29.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4174639
                    },
                    {
                        "id":  "u_where_the_stream_bends_8c677d",
@@ -192,7 +225,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  52503,
-                       "file":  "songs/u_where_the_stream_bends_8c677d.mp3"
+                       "file":  "songs/u_where_the_stream_bends_8c677d.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4174639
                    },
                    {
                        "id":  "u_where_the_light_meets_water_19d646",
@@ -208,7 +244,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  17133,
-                       "file":  "songs/u_where_the_light_meets_water_19d646.mp3"
+                       "file":  "songs/u_where_the_light_meets_water_19d646.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4158338
                    },
                    {
                        "id":  "u_canopy_awakening_a708e7",
@@ -224,7 +263,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  45804,
-                       "file":  "songs/u_canopy_awakening_a708e7.mp3"
+                       "file":  "songs/u_canopy_awakening_a708e7.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3879350
                    },
                    {
                        "id":  "u_first_light_in_the_canopy_63bdd3",
@@ -240,7 +282,10 @@
                                    ],
                        "coverStyle":  1,
                        "seed":  46806,
-                       "file":  "songs/u_first_light_in_the_canopy_63bdd3.mp3"
+                       "file":  "songs/u_first_light_in_the_canopy_63bdd3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4317581
                    },
                    {
                        "id":  "u_derin_bir_nefes_d2b427",
@@ -256,7 +301,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  13406,
-                       "file":  "songs/u_derin_bir_nefes_d2b427.mp3"
+                       "file":  "songs/u_derin_bir_nefes_d2b427.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4350181
                    },
                    {
                        "id":  "u_rare_sea_friends_c07689",
@@ -272,7 +320,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  21740,
-                       "file":  "songs/u_rare_sea_friends_c07689.mp3"
+                       "file":  "songs/u_rare_sea_friends_c07689.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4295638
                    },
                    {
                        "id":  "u_anin_siginagi_9c509a",
@@ -288,7 +339,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  32058,
-                       "file":  "songs/u_anin_siginagi_9c509a.mp3"
+                       "file":  "songs/u_anin_siginagi_9c509a.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  6785611
                    },
                    {
                        "id":  "u_morning_at_the_forest_edge_99d99f",
@@ -304,7 +358,10 @@
                                    ],
                        "coverStyle":  3,
                        "seed":  37144,
-                       "file":  "songs/u_morning_at_the_forest_edge_99d99f.mp3"
+                       "file":  "songs/u_morning_at_the_forest_edge_99d99f.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  7105350
                    },
                    {
                        "id":  "u_breath_of_the_horizon_d2a176",
@@ -320,7 +377,10 @@
                                    ],
                        "coverStyle":  1,
                        "seed":  25775,
-                       "file":  "songs/u_breath_of_the_horizon_d2a176.mp3"
+                       "file":  "songs/u_breath_of_the_horizon_d2a176.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  6975782
                    },
                    {
                        "id":  "u_sonsuz_dinginlik_9e7fc5",
@@ -336,7 +396,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  36885,
-                       "file":  "songs/u_sonsuz_dinginlik_9e7fc5.mp3"
+                       "file":  "songs/u_sonsuz_dinginlik_9e7fc5.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  7028027
                    },
                    {
                        "id":  "u_before_the_world_wakes_5d8163",
@@ -352,7 +415,10 @@
                                    ],
                        "coverStyle":  2,
                        "seed":  25314,
-                       "file":  "songs/u_before_the_world_wakes_5d8163.mp3"
+                       "file":  "songs/u_before_the_world_wakes_5d8163.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  7123113
                    },
                    {
                        "id":  "u_beneath_the_alpine_canopy_caa4fa",
@@ -368,7 +434,10 @@
                                    ],
                        "coverStyle":  1,
                        "seed":  49500,
-                       "file":  "songs/u_beneath_the_alpine_canopy_caa4fa.mp3"
+                       "file":  "songs/u_beneath_the_alpine_canopy_caa4fa.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4191566
                    },
                    {
                        "id":  "u_where_the_pines_sigh_a601de",
@@ -384,7 +453,10 @@
                                    ],
                        "coverStyle":  3,
                        "seed":  57292,
-                       "file":  "songs/u_where_the_pines_sigh_a601de.mp3"
+                       "file":  "songs/u_where_the_pines_sigh_a601de.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4146426
                    },
                    {
                        "id":  "u_where_moss_meets_water_b5d720",
@@ -400,7 +472,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  50627,
-                       "file":  "songs/u_where_moss_meets_water_b5d720.mp3"
+                       "file":  "songs/u_where_moss_meets_water_b5d720.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3878096
                    },
                    {
                        "id":  "u_slow_tide_rising_efaca4",
@@ -416,7 +491,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  46693,
-                       "file":  "songs/u_slow_tide_rising_efaca4.mp3"
+                       "file":  "songs/u_slow_tide_rising_efaca4.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4157711
                    },
                    {
                        "id":  "u_blue_hour_drift_5bc9fd",
@@ -432,7 +510,10 @@
                                    ],
                        "coverStyle":  0,
                        "seed":  17228,
-                       "file":  "songs/u_blue_hour_drift_5bc9fd.mp3"
+                       "file":  "songs/u_blue_hour_drift_5bc9fd.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4336389
                    }
                ]
 }
