@@ -1,0 +1,438 @@
+{
+    "app":  "Aura",
+    "updated":  "2026-10-24T08:33:36.4134711Z",
+    "tracks":  [
+                   {
+                       "id":  "u_solace_in_the_grove_06a4e8",
+                       "title":  "Solace in the Grove",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  176,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFF3D6BFF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  12486,
+                       "file":  "songs/u_solace_in_the_grove_06a4e8.mp3"
+                   },
+                   {
+                       "id":  "u_the_morning_canopy_72f6d3",
+                       "title":  "The Morning Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFB14DFF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  64241,
+                       "file":  "songs/u_the_morning_canopy_72f6d3.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_water_rests_72a14b",
+                       "title":  "Where the Water Rests",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  173,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  64716,
+                       "file":  "songs/u_where_the_water_rests_72a14b.mp3"
+                   },
+                   {
+                       "id":  "u_stillness_at_daybreak_ab7211",
+                       "title":  "Stillness at Daybreak",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFF3D6BFF",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  64182,
+                       "file":  "songs/u_stillness_at_daybreak_ab7211.mp3"
+                   },
+                   {
+                       "id":  "u_light_through_the_canopy_87f641",
+                       "title":  "Light Through The Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  16035,
+                       "file":  "songs/u_light_through_the_canopy_87f641.mp3"
+                   },
+                   {
+                       "id":  "u_dawn_in_the_tall_pines_ce5894",
+                       "title":  "Dawn in the Tall Pines",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  173,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF7AD9",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  22183,
+                       "file":  "songs/u_dawn_in_the_tall_pines_ce5894.mp3"
+                   },
+                   {
+                       "id":  "u_breath_of_the_ancient_grove_9e1aac",
+                       "title":  "Breath of the Ancient Grove",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFB14DFF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  195,
+                       "file":  "songs/u_breath_of_the_ancient_grove_9e1aac.mp3"
+                   },
+                   {
+                       "id":  "u_dawn_in_the_high_valley_bb8c6a",
+                       "title":  "Dawn in the High Valley",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFFF2E88",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  62009,
+                       "file":  "songs/u_dawn_in_the_high_valley_bb8c6a.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_river_bends_5f92f3",
+                       "title":  "Where the River Bends",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  51193,
+                       "file":  "songs/u_where_the_river_bends_5f92f3.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_river_meets_stone_ab3fe3",
+                       "title":  "Where the River Meets Stone",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFF00F0D8",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  40780,
+                       "file":  "songs/u_where_the_river_meets_stone_ab3fe3.mp3"
+                   },
+                   {
+                       "id":  "u_canopy_at_dawn_ad5f29",
+                       "title":  "Canopy at Dawn",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  58133,
+                       "file":  "songs/u_canopy_at_dawn_ad5f29.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_stream_bends_8c677d",
+                       "title":  "Where the Stream Bends",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  52503,
+                       "file":  "songs/u_where_the_stream_bends_8c677d.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_light_meets_water_19d646",
+                       "title":  "Where the Light Meets Water",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  173,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  17133,
+                       "file":  "songs/u_where_the_light_meets_water_19d646.mp3"
+                   },
+                   {
+                       "id":  "u_canopy_awakening_a708e7",
+                       "title":  "Canopy Awakening",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  161,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFFF7AD9",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  45804,
+                       "file":  "songs/u_canopy_awakening_a708e7.mp3"
+                   },
+                   {
+                       "id":  "u_first_light_in_the_canopy_63bdd3",
+                       "title":  "First Light In The Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  46806,
+                       "file":  "songs/u_first_light_in_the_canopy_63bdd3.mp3"
+                   },
+                   {
+                       "id":  "u_derin_bir_nefes_d2b427",
+                       "title":  "Derin Bir Nefes",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFF3DF5FF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  13406,
+                       "file":  "songs/u_derin_bir_nefes_d2b427.mp3"
+                   },
+                   {
+                       "id":  "u_rare_sea_friends_c07689",
+                       "title":  "Rare Sea Friends",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF7AD9",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  21740,
+                       "file":  "songs/u_rare_sea_friends_c07689.mp3"
+                   },
+                   {
+                       "id":  "u_anin_siginagi_9c509a",
+                       "title":  "Anin Siginagi",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  170,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF2E88",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  32058,
+                       "file":  "songs/u_anin_siginagi_9c509a.mp3"
+                   },
+                   {
+                       "id":  "u_morning_at_the_forest_edge_99d99f",
+                       "title":  "Morning At The Forest Edge",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFF4FD8FF",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  37144,
+                       "file":  "songs/u_morning_at_the_forest_edge_99d99f.mp3"
+                   },
+                   {
+                       "id":  "u_breath_of_the_horizon_d2a176",
+                       "title":  "Breath of the Horizon",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFFF8A00",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  25775,
+                       "file":  "songs/u_breath_of_the_horizon_d2a176.mp3"
+                   },
+                   {
+                       "id":  "u_sonsuz_dinginlik_9e7fc5",
+                       "title":  "Sonsuz Dinginlik",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  176,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFF4FD8FF",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  36885,
+                       "file":  "songs/u_sonsuz_dinginlik_9e7fc5.mp3"
+                   },
+                   {
+                       "id":  "u_before_the_world_wakes_5d8163",
+                       "title":  "Before the World Wakes",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFF3DF5FF",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  25314,
+                       "file":  "songs/u_before_the_world_wakes_5d8163.mp3"
+                   },
+                   {
+                       "id":  "u_beneath_the_alpine_canopy_caa4fa",
+                       "title":  "Beneath the Alpine Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  49500,
+                       "file":  "songs/u_beneath_the_alpine_canopy_caa4fa.mp3"
+                   },
+                   {
+                       "id":  "u_where_the_pines_sigh_a601de",
+                       "title":  "Where the Pines Sigh",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  173,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF8A00",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  57292,
+                       "file":  "songs/u_where_the_pines_sigh_a601de.mp3"
+                   },
+                   {
+                       "id":  "u_where_moss_meets_water_b5d720",
+                       "title":  "Where Moss Meets Water",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  161,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  50627,
+                       "file":  "songs/u_where_moss_meets_water_b5d720.mp3"
+                   },
+                   {
+                       "id":  "u_slow_tide_rising_efaca4",
+                       "title":  "Slow Tide Rising",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  173,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  46693,
+                       "file":  "songs/u_slow_tide_rising_efaca4.mp3"
+                   },
+                   {
+                       "id":  "u_blue_hour_drift_5bc9fd",
+                       "title":  "Blue Hour Drift",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFF00F0D8",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  17228,
+                       "file":  "songs/u_blue_hour_drift_5bc9fd.mp3"
+                   }
+               ]
+}
