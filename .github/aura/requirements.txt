@@ -1,0 +1,6 @@
+transformers==4.44.2
+librosa==0.10.2.post1
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.13.1
+numba==0.60.0
