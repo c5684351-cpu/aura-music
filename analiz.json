@@ -2130,6 +2130,586 @@
       "size": 4375887,
       "title": "Velvet Midnight",
       "analysed": "2026-10-24 12:37"
+    },
+    "u_o_kalabalikta_a88601": {
+      "genre": "World",
+      "genreConfidence": 0.066,
+      "genreTop": [
+        [
+          "World",
+          0.066
+        ],
+        [
+          "Dance",
+          0.066
+        ],
+        [
+          "Pop",
+          0.042
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.58,
+        "Energize": 0.515,
+        "Party": 0.473,
+        "Focus": 0.423,
+        "Happy": 0.326
+      },
+      "bpm": 123,
+      "tempo": 123.06,
+      "beatOffset": 0.422,
+      "hasBeat": true,
+      "energy": 0.769,
+      "key": "G minor",
+      "vocals": 0.048,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 178.939,
+        "db": -15.191,
+        "dynamics": 10.311,
+        "perc": 0.208,
+        "onsetRate": 4.991,
+        "pulse": 0.632,
+        "beatiness": 0.632,
+        "tempo": 123.055,
+        "beatOffset": 0.422,
+        "centroid": 2634.104,
+        "flatness": 0.048,
+        "energy": 0.769,
+        "major": 0.487,
+        "key": "G minor",
+        "keyConf": 0.406
+      },
+      "v": 4,
+      "size": 4310224,
+      "title": "O Kalabalıkta",
+      "analysed": "2026-10-24 13:50"
+    },
+    "u_heat_in_the_cold_617ca0": {
+      "genre": "Pop",
+      "genreConfidence": 0.095,
+      "genreTop": [
+        [
+          "Pop",
+          0.095
+        ],
+        [
+          "Dance",
+          0.065
+        ],
+        [
+          "Electronic",
+          0.044
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.538,
+        "Energize": 0.496,
+        "Focus": 0.461,
+        "Party": 0.453,
+        "Happy": 0.374
+      },
+      "bpm": 123,
+      "tempo": 123.01,
+      "beatOffset": 0.111,
+      "hasBeat": true,
+      "energy": 0.725,
+      "key": "A# major",
+      "vocals": 0.048,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 178.625,
+        "db": -15.398,
+        "dynamics": 10.719,
+        "perc": 0.18,
+        "onsetRate": 4.871,
+        "pulse": 0.614,
+        "beatiness": 0.552,
+        "tempo": 123.014,
+        "beatOffset": 0.111,
+        "centroid": 2639.63,
+        "flatness": 0.046,
+        "energy": 0.725,
+        "major": 0.645,
+        "key": "A# major",
+        "keyConf": 0.67
+      },
+      "v": 4,
+      "size": 4293131,
+      "title": "Heat in the Cold",
+      "analysed": "2026-10-24 13:51"
+    },
+    "u_haloes_in_the_blue_hour_ca4202": {
+      "genre": "Pop",
+      "genreConfidence": 0.059,
+      "genreTop": [
+        [
+          "Pop",
+          0.059
+        ],
+        [
+          "R&B",
+          0.03
+        ],
+        [
+          "Ambient",
+          0.028
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.577,
+        "Happy": 0.473,
+        "Energize": 0.416,
+        "Party": 0.353,
+        "Chill": 0.339
+      },
+      "bpm": 120,
+      "tempo": 120.11,
+      "beatOffset": 0.112,
+      "hasBeat": true,
+      "energy": 0.61,
+      "key": "F major",
+      "vocals": 0.052,
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 175.203,
+        "db": -15.523,
+        "dynamics": 10.988,
+        "perc": 0.131,
+        "onsetRate": 3.887,
+        "pulse": 0.668,
+        "beatiness": 0.437,
+        "tempo": 120.108,
+        "beatOffset": 0.112,
+        "centroid": 2191.319,
+        "flatness": 0.017,
+        "energy": 0.61,
+        "major": 1.0,
+        "key": "F major",
+        "keyConf": 0.948
+      },
+      "v": 4,
+      "size": 4211002,
+      "title": "Haloes in the Blue Hour",
+      "analysed": "2026-10-24 13:51"
+    },
+    "u_electric_fire_7cd2be": {
+      "genre": "Dance",
+      "genreConfidence": 0.12,
+      "genreTop": [
+        [
+          "Dance",
+          0.12
+        ],
+        [
+          "Pop",
+          0.084
+        ],
+        [
+          "Electronic",
+          0.064
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.604,
+        "Party": 0.561,
+        "Energize": 0.532,
+        "Late night": 0.447,
+        "Focus": 0.415
+      },
+      "bpm": 123,
+      "tempo": 123.05,
+      "beatOffset": 0.202,
+      "hasBeat": true,
+      "energy": 0.797,
+      "key": "G minor",
+      "vocals": 0.043,
+      "nature": 0.005,
+      "model": true,
+      "features": {
+        "seconds": 180.114,
+        "db": -15.408,
+        "dynamics": 8.864,
+        "perc": 0.213,
+        "onsetRate": 5.191,
+        "pulse": 0.674,
+        "beatiness": 0.674,
+        "tempo": 123.053,
+        "beatOffset": 0.202,
+        "centroid": 3199.848,
+        "flatness": 0.063,
+        "energy": 0.797,
+        "major": 0.0,
+        "key": "G minor",
+        "keyConf": 0.793
+      },
+      "v": 4,
+      "size": 4328866,
+      "title": "Electric Fire",
+      "analysed": "2026-10-24 13:51"
+    },
+    "u_bogaz_da_bir_gece_f93dba": {
+      "genre": "Dance",
+      "genreConfidence": 0.092,
+      "genreTop": [
+        [
+          "Dance",
+          0.092
+        ],
+        [
+          "Pop",
+          0.075
+        ],
+        [
+          "World",
+          0.071
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.635,
+        "Party": 0.551,
+        "Energize": 0.544,
+        "Late night": 0.44,
+        "Focus": 0.415
+      },
+      "bpm": 123,
+      "tempo": 123.02,
+      "beatOffset": 0.153,
+      "hasBeat": true,
+      "energy": 0.822,
+      "key": "G minor",
+      "vocals": 0.042,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 181.185,
+        "db": -15.3,
+        "dynamics": 9.478,
+        "perc": 0.238,
+        "onsetRate": 5.624,
+        "pulse": 0.744,
+        "beatiness": 0.744,
+        "tempo": 123.022,
+        "beatOffset": 0.153,
+        "centroid": 2949.549,
+        "flatness": 0.056,
+        "energy": 0.822,
+        "major": 0.02,
+        "key": "G minor",
+        "keyConf": 0.592
+      },
+      "v": 4,
+      "size": 4354571,
+      "title": "Boğaz da Bir Gece",
+      "analysed": "2026-10-24 13:52"
+    },
+    "u_song_b67421": {
+      "genre": "R&B",
+      "genreConfidence": 0.09,
+      "genreTop": [
+        [
+          "R&B",
+          0.09
+        ],
+        [
+          "Pop",
+          0.084
+        ],
+        [
+          "Electronic",
+          0.053
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.525,
+        "Energize": 0.489,
+        "Focus": 0.481,
+        "Late night": 0.468,
+        "Party": 0.432
+      },
+      "bpm": 123,
+      "tempo": 123.02,
+      "beatOffset": 0.183,
+      "hasBeat": true,
+      "energy": 0.706,
+      "key": "D minor",
+      "vocals": 0.043,
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.48,
+        "db": -15.479,
+        "dynamics": 11.186,
+        "perc": 0.174,
+        "onsetRate": 4.582,
+        "pulse": 0.615,
+        "beatiness": 0.535,
+        "tempo": 123.024,
+        "beatOffset": 0.183,
+        "centroid": 2595.007,
+        "flatness": 0.032,
+        "energy": 0.706,
+        "major": 0.158,
+        "key": "D minor",
+        "keyConf": 0.635
+      },
+      "v": 4,
+      "size": 4337644,
+      "title": "В свете фар",
+      "analysed": "2026-10-24 13:52"
+    },
+    "u_burning_paradise_408bcb": {
+      "genre": "Pop",
+      "genreConfidence": 0.11,
+      "genreTop": [
+        [
+          "Pop",
+          0.11
+        ],
+        [
+          "World",
+          0.078
+        ],
+        [
+          "Hip-Hop",
+          0.038
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.548,
+        "Energize": 0.495,
+        "Party": 0.493,
+        "Focus": 0.424,
+        "Late night": 0.322
+      },
+      "bpm": 120,
+      "tempo": 120.3,
+      "beatOffset": 0.21,
+      "hasBeat": true,
+      "energy": 0.754,
+      "key": "G minor",
+      "vocals": 0.076,
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.95,
+        "db": -15.307,
+        "dynamics": 8.734,
+        "perc": 0.216,
+        "onsetRate": 3.686,
+        "pulse": 0.612,
+        "beatiness": 0.612,
+        "tempo": 120.302,
+        "beatOffset": 0.21,
+        "centroid": 2968.553,
+        "flatness": 0.049,
+        "energy": 0.754,
+        "major": 0.391,
+        "key": "G minor",
+        "keyConf": 0.726
+      },
+      "v": 4,
+      "size": 4348929,
+      "title": "Burning Paradise",
+      "analysed": "2026-10-24 13:52"
+    },
+    "u_permanent_threat_29f3e4": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.09,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.09
+        ],
+        [
+          "R&B",
+          0.036
+        ],
+        [
+          "Pop",
+          0.025
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.524,
+        "Late night": 0.482,
+        "Chill": 0.37,
+        "Energize": 0.353,
+        "Melancholy": 0.341
+      },
+      "bpm": 97,
+      "tempo": 97.46,
+      "beatOffset": 0.216,
+      "hasBeat": true,
+      "energy": 0.746,
+      "key": "D minor",
+      "vocals": 0.09,
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 161.672,
+        "db": -15.211,
+        "dynamics": 10.73,
+        "perc": 0.214,
+        "onsetRate": 3.928,
+        "pulse": 0.489,
+        "beatiness": 0.489,
+        "tempo": 97.457,
+        "beatOffset": 0.216,
+        "centroid": 2652.747,
+        "flatness": 0.05,
+        "energy": 0.746,
+        "major": 0.0,
+        "key": "D minor",
+        "keyConf": 0.904
+      },
+      "v": 4,
+      "size": 3886248,
+      "title": "Permanent Threat",
+      "analysed": "2026-10-24 13:52"
+    },
+    "u_song_179492": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.146,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.146
+        ],
+        [
+          "Pop",
+          0.042
+        ],
+        [
+          "Electronic",
+          0.031
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.421,
+        "Energize": 0.402,
+        "Chill": 0.346,
+        "Happy": 0.326,
+        "Late night": 0.264
+      },
+      "bpm": 94,
+      "tempo": 93.94,
+      "beatOffset": 0.1,
+      "hasBeat": true,
+      "energy": 0.838,
+      "key": "G minor",
+      "vocals": 0.202,
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 181.629,
+        "db": -15.427,
+        "dynamics": 11.95,
+        "perc": 0.272,
+        "onsetRate": 4.113,
+        "pulse": 0.488,
+        "beatiness": 0.488,
+        "tempo": 93.944,
+        "beatOffset": 0.1,
+        "centroid": 2943.064,
+        "flatness": 0.054,
+        "energy": 0.838,
+        "major": 0.493,
+        "key": "G minor",
+        "keyConf": 0.607
+      },
+      "v": 4,
+      "size": 4365229,
+      "title": "Московский холод",
+      "analysed": "2026-10-24 13:53"
+    },
+    "u_song_fb2199": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.172,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.172
+        ],
+        [
+          "R&B",
+          0.032
+        ],
+        [
+          "Ambient",
+          0.022
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.554,
+        "Party": 0.54,
+        "Late night": 0.464,
+        "Melancholy": 0.328,
+        "Focus": 0.262
+      },
+      "bpm": 123,
+      "tempo": 122.99,
+      "beatOffset": 0.015,
+      "hasBeat": true,
+      "energy": 0.844,
+      "key": "D# minor",
+      "vocals": 0.246,
+      "nature": 0.015,
+      "model": true,
+      "features": {
+        "seconds": 126.642,
+        "db": -15.399,
+        "dynamics": 13.29,
+        "perc": 0.31,
+        "onsetRate": 3.727,
+        "pulse": 0.441,
+        "beatiness": 0.441,
+        "tempo": 122.995,
+        "beatOffset": 0.015,
+        "centroid": 2463.759,
+        "flatness": 0.049,
+        "energy": 0.844,
+        "major": 0.0,
+        "key": "D# minor",
+        "keyConf": 0.821
+      },
+      "v": 4,
+      "size": 3045523,
+      "title": "Закон бетона",
+      "analysed": "2026-10-24 13:53"
     }
   }
 }
