@@ -1,0 +1,1614 @@
+{
+  "version": 4,
+  "model": "MIT/ast-finetuned-audioset-10-10-0.4593",
+  "tracks": {
+    "u_solace_in_the_grove_06a4e8": {
+      "genre": "Ambient",
+      "genreConfidence": 0.355,
+      "genreTop": [
+        [
+          "Ambient",
+          0.355
+        ],
+        [
+          "Soundtrack",
+          0.038
+        ],
+        [
+          "Classical",
+          0.005
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.97,
+        "Chill": 0.693,
+        "Sleep": 0.652,
+        "Melancholy": 0.487,
+        "Happy": 0.36
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.348,
+      "key": "A# major",
+      "vocals": 0.002,
+      "nature": 0.006,
+      "model": true,
+      "features": {
+        "seconds": 176.353,
+        "db": -16.592,
+        "dynamics": 18.673,
+        "perc": 0.034,
+        "onsetRate": 1.741,
+        "pulse": 0.218,
+        "beatiness": 0.037,
+        "tempo": 132.549,
+        "beatOffset": 0.074,
+        "centroid": 945.752,
+        "flatness": 0.006,
+        "energy": 0.348,
+        "major": 1.0,
+        "key": "A# major",
+        "keyConf": 0.916
+      },
+      "v": 4,
+      "size": 7056240,
+      "title": "Solace in the Grove",
+      "analysed": "2026-10-24 12:25"
+    },
+    "u_the_morning_canopy_72f6d3": {
+      "genre": "Ambient",
+      "genreConfidence": 0.199,
+      "genreTop": [
+        [
+          "Ambient",
+          0.199
+        ],
+        [
+          "Soundtrack",
+          0.022
+        ],
+        [
+          "Classical",
+          0.016
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.981,
+        "Chill": 0.655,
+        "Sleep": 0.633,
+        "Happy": 0.366,
+        "Late night": 0.333
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.367,
+      "key": "A# major",
+      "vocals": 0.009,
+      "nature": 0.033,
+      "model": true,
+      "features": {
+        "seconds": 173.949,
+        "db": -17.091,
+        "dynamics": 18.865,
+        "perc": 0.034,
+        "onsetRate": 2.403,
+        "pulse": 0.226,
+        "beatiness": 0.038,
+        "tempo": 135.94,
+        "beatOffset": 0.397,
+        "centroid": 1086.629,
+        "flatness": 0.003,
+        "energy": 0.367,
+        "major": 1.0,
+        "key": "A# major",
+        "keyConf": 0.944
+      },
+      "v": 4,
+      "size": 6960109,
+      "title": "The Morning Canopy",
+      "analysed": "2026-10-24 12:26"
+    },
+    "u_where_the_water_rests_72a14b": {
+      "genre": "Ambient",
+      "genreConfidence": 0.461,
+      "genreTop": [
+        [
+          "Ambient",
+          0.461
+        ],
+        [
+          "Soundtrack",
+          0.014
+        ],
+        [
+          "Electronic",
+          0.005
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.969,
+        "Chill": 0.677,
+        "Sleep": 0.649,
+        "Happy": 0.371,
+        "Late night": 0.321
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.347,
+      "key": "A# major",
+      "vocals": 0.002,
+      "nature": 0.021,
+      "model": true,
+      "features": {
+        "seconds": 172.904,
+        "db": -16.641,
+        "dynamics": 18.995,
+        "perc": 0.024,
+        "onsetRate": 1.874,
+        "pulse": 0.273,
+        "beatiness": 0.033,
+        "tempo": 132.5,
+        "beatOffset": 0.425,
+        "centroid": 1145.894,
+        "flatness": 0.007,
+        "energy": 0.347,
+        "major": 1.0,
+        "key": "A# major",
+        "keyConf": 0.928
+      },
+      "v": 4,
+      "size": 6918313,
+      "title": "Where the Water Rests",
+      "analysed": "2026-10-24 12:26"
+    },
+    "u_stillness_at_daybreak_ab7211": {
+      "genre": "Ambient",
+      "genreConfidence": 0.148,
+      "genreTop": [
+        [
+          "Ambient",
+          0.148
+        ],
+        [
+          "Classical",
+          0.028
+        ],
+        [
+          "Folk",
+          0.01
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Late night"
+      ],
+      "moodScores": {
+        "Focus": 0.992,
+        "Late night": 0.68,
+        "Chill": 0.652,
+        "Sleep": 0.645,
+        "Melancholy": 0.49
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.372,
+      "key": "D# minor",
+      "vocals": 0.002,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 179.905,
+        "db": -16.774,
+        "dynamics": 19.849,
+        "perc": 0.033,
+        "onsetRate": 2.801,
+        "pulse": 0.239,
+        "beatiness": 0.039,
+        "tempo": 147.699,
+        "beatOffset": 0.069,
+        "centroid": 854.909,
+        "flatness": 0.001,
+        "energy": 0.372,
+        "major": 0.065,
+        "key": "D# minor",
+        "keyConf": 0.911
+      },
+      "v": 4,
+      "size": 4323850,
+      "title": "Stillness at Daybreak",
+      "analysed": "2026-10-24 12:26"
+    },
+    "u_light_through_the_canopy_87f641": {
+      "genre": "Ambient",
+      "genreConfidence": 0.411,
+      "genreTop": [
+        [
+          "Ambient",
+          0.411
+        ],
+        [
+          "Soundtrack",
+          0.012
+        ],
+        [
+          "Electronic",
+          0.005
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.959,
+        "Chill": 0.674,
+        "Sleep": 0.597,
+        "Happy": 0.37,
+        "Romantic": 0.364
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.418,
+      "key": "A# major",
+      "vocals": 0.01,
+      "nature": 0.035,
+      "model": true,
+      "features": {
+        "seconds": 177.528,
+        "db": -16.075,
+        "dynamics": 14.198,
+        "perc": 0.045,
+        "onsetRate": 3.132,
+        "pulse": 0.502,
+        "beatiness": 0.113,
+        "tempo": 143.572,
+        "beatOffset": 0.027,
+        "centroid": 1102.472,
+        "flatness": 0.002,
+        "energy": 0.418,
+        "major": 1.0,
+        "key": "A# major",
+        "keyConf": 0.943
+      },
+      "v": 4,
+      "size": 4266799,
+      "title": "Light Through The Canopy",
+      "analysed": "2026-10-24 12:26"
+    },
+    "u_dawn_in_the_tall_pines_ce5894": {
+      "genre": "Ambient",
+      "genreConfidence": 0.174,
+      "genreTop": [
+        [
+          "Ambient",
+          0.174
+        ],
+        [
+          "Classical",
+          0.021
+        ],
+        [
+          "Soundtrack",
+          0.018
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.965,
+        "Chill": 0.68,
+        "Sleep": 0.663,
+        "Happy": 0.356,
+        "Late night": 0.338
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.342,
+      "key": "F major",
+      "vocals": 0.002,
+      "nature": 0.009,
+      "model": true,
+      "features": {
+        "seconds": 173.322,
+        "db": -17.24,
+        "dynamics": 27.821,
+        "perc": 0.023,
+        "onsetRate": 2.389,
+        "pulse": 0.222,
+        "beatiness": 0.025,
+        "tempo": 151.957,
+        "beatOffset": 0.028,
+        "centroid": 895.307,
+        "flatness": 0.003,
+        "energy": 0.342,
+        "major": 1.0,
+        "key": "F major",
+        "keyConf": 0.924
+      },
+      "v": 4,
+      "size": 4165861,
+      "title": "Dawn in the Tall Pines",
+      "analysed": "2026-10-24 12:27"
+    },
+    "u_breath_of_the_ancient_grove_9e1aac": {
+      "genre": "Ambient",
+      "genreConfidence": 0.37,
+      "genreTop": [
+        [
+          "Ambient",
+          0.37
+        ],
+        [
+          "Soundtrack",
+          0.016
+        ],
+        [
+          "Electronic",
+          0.014
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.945,
+        "Chill": 0.678,
+        "Sleep": 0.665,
+        "Happy": 0.373,
+        "Late night": 0.312
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.329,
+      "key": "A# major",
+      "vocals": 0.013,
+      "nature": 0.006,
+      "model": true,
+      "features": {
+        "seconds": 180.062,
+        "db": -16.573,
+        "dynamics": 19.617,
+        "perc": 0.024,
+        "onsetRate": 1.116,
+        "pulse": 0.187,
+        "beatiness": 0.023,
+        "tempo": 114.887,
+        "beatOffset": 0.25,
+        "centroid": 1232.871,
+        "flatness": 0.003,
+        "energy": 0.329,
+        "major": 1.0,
+        "key": "A# major",
+        "keyConf": 0.958
+      },
+      "v": 4,
+      "size": 4327612,
+      "title": "Breath of the Ancient Grove",
+      "analysed": "2026-10-24 12:27"
+    },
+    "u_dawn_in_the_high_valley_bb8c6a": {
+      "genre": "Ambient",
+      "genreConfidence": 0.157,
+      "genreTop": [
+        [
+          "Ambient",
+          0.157
+        ],
+        [
+          "Soundtrack",
+          0.059
+        ],
+        [
+          "Classical",
+          0.013
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.97,
+        "Chill": 0.688,
+        "Sleep": 0.658,
+        "Melancholy": 0.648,
+        "Happy": 0.36
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.348,
+      "key": "G major",
+      "vocals": 0.001,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 178.547,
+        "db": -16.858,
+        "dynamics": 19.162,
+        "perc": 0.032,
+        "onsetRate": 1.893,
+        "pulse": 0.293,
+        "beatiness": 0.047,
+        "tempo": 114.802,
+        "beatOffset": 0.493,
+        "centroid": 966.417,
+        "flatness": 0.003,
+        "energy": 0.348,
+        "major": 1.0,
+        "key": "G major",
+        "keyConf": 0.836
+      },
+      "v": 4,
+      "size": 4291249,
+      "title": "Dawn in the High Valley",
+      "analysed": "2026-10-24 12:27"
+    },
+    "u_where_the_river_bends_5f92f3": {
+      "genre": "Ambient",
+      "genreConfidence": 0.071,
+      "genreTop": [
+        [
+          "Ambient",
+          0.071
+        ],
+        [
+          "Classical",
+          0.021
+        ],
+        [
+          "Soundtrack",
+          0.018
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.996,
+        "Chill": 0.671,
+        "Sleep": 0.628,
+        "Late night": 0.445,
+        "Melancholy": 0.444
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.379,
+      "key": "G major",
+      "vocals": 0.004,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 177.763,
+        "db": -16.192,
+        "dynamics": 18.65,
+        "perc": 0.018,
+        "onsetRate": 2.925,
+        "pulse": 0.384,
+        "beatiness": 0.034,
+        "tempo": 147.598,
+        "beatOffset": 0.027,
+        "centroid": 1211.955,
+        "flatness": 0.003,
+        "energy": 0.379,
+        "major": 0.652,
+        "key": "G major",
+        "keyConf": 0.9
+      },
+      "v": 4,
+      "size": 4272441,
+      "title": "Where the River Bends",
+      "analysed": "2026-10-24 12:27"
+    },
+    "u_where_the_river_meets_stone_ab3fe3": {
+      "genre": "Ambient",
+      "genreConfidence": 0.226,
+      "genreTop": [
+        [
+          "Ambient",
+          0.226
+        ],
+        [
+          "Soundtrack",
+          0.018
+        ],
+        [
+          "Folk",
+          0.007
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.973,
+        "Chill": 0.659,
+        "Sleep": 0.605,
+        "Happy": 0.372,
+        "Late night": 0.343
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.407,
+      "key": "D major",
+      "vocals": 0.004,
+      "nature": 0.009,
+      "model": true,
+      "features": {
+        "seconds": 179.148,
+        "db": -16.529,
+        "dynamics": 20.987,
+        "perc": 0.047,
+        "onsetRate": 2.88,
+        "pulse": 0.356,
+        "beatiness": 0.084,
+        "tempo": 101.332,
+        "beatOffset": 0.09,
+        "centroid": 1094.763,
+        "flatness": 0.001,
+        "energy": 0.407,
+        "major": 1.0,
+        "key": "D major",
+        "keyConf": 0.855
+      },
+      "v": 4,
+      "size": 4305669,
+      "title": "Where the River Meets Stone",
+      "analysed": "2026-10-24 12:28"
+    },
+    "u_canopy_at_dawn_ad5f29": {
+      "genre": "Ambient",
+      "genreConfidence": 0.469,
+      "genreTop": [
+        [
+          "Ambient",
+          0.469
+        ],
+        [
+          "Soundtrack",
+          0.016
+        ],
+        [
+          "Electronic",
+          0.007
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.932,
+        "Chill": 0.632,
+        "Late night": 0.404,
+        "Happy": 0.334,
+        "Romantic": 0.293
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.451,
+      "key": "G major",
+      "vocals": 0.007,
+      "nature": 0.014,
+      "model": true,
+      "features": {
+        "seconds": 173.688,
+        "db": -15.886,
+        "dynamics": 9.75,
+        "perc": 0.044,
+        "onsetRate": 4.191,
+        "pulse": 0.386,
+        "beatiness": 0.085,
+        "tempo": 107.676,
+        "beatOffset": 0.086,
+        "centroid": 1105.859,
+        "flatness": 0.001,
+        "energy": 0.451,
+        "major": 0.869,
+        "key": "G major",
+        "keyConf": 0.836
+      },
+      "v": 4,
+      "size": 4174639,
+      "title": "Canopy at Dawn",
+      "analysed": "2026-10-24 12:28"
+    },
+    "u_where_the_stream_bends_8c677d": {
+      "genre": "Ambient",
+      "genreConfidence": 0.27,
+      "genreTop": [
+        [
+          "Ambient",
+          0.27
+        ],
+        [
+          "Soundtrack",
+          0.029
+        ],
+        [
+          "Classical",
+          0.012
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.992,
+        "Chill": 0.677,
+        "Sleep": 0.638,
+        "Happy": 0.374,
+        "Late night": 0.323
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.375,
+      "key": "C major",
+      "vocals": 0.005,
+      "nature": 0.018,
+      "model": true,
+      "features": {
+        "seconds": 173.688,
+        "db": -16.246,
+        "dynamics": 16.308,
+        "perc": 0.022,
+        "onsetRate": 2.66,
+        "pulse": 0.232,
+        "beatiness": 0.025,
+        "tempo": 107.699,
+        "beatOffset": 0.107,
+        "centroid": 1214.181,
+        "flatness": 0.002,
+        "energy": 0.375,
+        "major": 1.0,
+        "key": "C major",
+        "keyConf": 0.935
+      },
+      "v": 4,
+      "size": 4174639,
+      "title": "Where the Stream Bends",
+      "analysed": "2026-10-24 12:28"
+    },
+    "u_where_the_light_meets_water_19d646": {
+      "genre": "Ambient",
+      "genreConfidence": 0.118,
+      "genreTop": [
+        [
+          "Ambient",
+          0.118
+        ],
+        [
+          "Classical",
+          0.015
+        ],
+        [
+          "Soundtrack",
+          0.012
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.994,
+        "Chill": 0.654,
+        "Sleep": 0.62,
+        "Melancholy": 0.616,
+        "Late night": 0.59
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.376,
+      "key": "F minor",
+      "vocals": 0.002,
+      "nature": 0.007,
+      "model": true,
+      "features": {
+        "seconds": 173.009,
+        "db": -15.826,
+        "dynamics": 12.603,
+        "perc": 0.027,
+        "onsetRate": 2.26,
+        "pulse": 0.485,
+        "beatiness": 0.064,
+        "tempo": 120.079,
+        "beatOffset": 0.141,
+        "centroid": 1214.804,
+        "flatness": 0.01,
+        "energy": 0.376,
+        "major": 0.235,
+        "key": "F minor",
+        "keyConf": 0.804
+      },
+      "v": 4,
+      "size": 4158338,
+      "title": "Where the Light Meets Water",
+      "analysed": "2026-10-24 12:28"
+    },
+    "u_canopy_awakening_a708e7": {
+      "genre": "Ambient",
+      "genreConfidence": 0.633,
+      "genreTop": [
+        [
+          "Ambient",
+          0.633
+        ],
+        [
+          "Soundtrack",
+          0.03
+        ],
+        [
+          "Electronic",
+          0.012
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.988,
+        "Chill": 0.683,
+        "Sleep": 0.624,
+        "Late night": 0.38,
+        "Melancholy": 0.378
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.369,
+      "key": "D# major",
+      "vocals": 0.002,
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 161.384,
+        "db": -15.877,
+        "dynamics": 8.506,
+        "perc": 0.032,
+        "onsetRate": 1.97,
+        "pulse": 0.463,
+        "beatiness": 0.073,
+        "tempo": 147.61,
+        "beatOffset": 0.071,
+        "centroid": 1120.481,
+        "flatness": 0.002,
+        "energy": 0.369,
+        "major": 0.867,
+        "key": "D# major",
+        "keyConf": 0.761
+      },
+      "v": 4,
+      "size": 3879350,
+      "title": "Canopy Awakening",
+      "analysed": "2026-10-24 12:29"
+    },
+    "u_first_light_in_the_canopy_63bdd3": {
+      "genre": "Ambient",
+      "genreConfidence": 0.384,
+      "genreTop": [
+        [
+          "Ambient",
+          0.384
+        ],
+        [
+          "Soundtrack",
+          0.021
+        ],
+        [
+          "Electronic",
+          0.016
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.981,
+        "Chill": 0.677,
+        "Sleep": 0.636,
+        "Happy": 0.367,
+        "Late night": 0.339
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.361,
+      "key": "G# major",
+      "vocals": 0.002,
+      "nature": 0.019,
+      "model": true,
+      "features": {
+        "seconds": 179.644,
+        "db": -16.092,
+        "dynamics": 14.594,
+        "perc": 0.03,
+        "onsetRate": 1.948,
+        "pulse": 0.457,
+        "beatiness": 0.069,
+        "tempo": 120.034,
+        "beatOffset": 0.133,
+        "centroid": 1057.227,
+        "flatness": 0.004,
+        "energy": 0.361,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.898
+      },
+      "v": 4,
+      "size": 4317581,
+      "title": "First Light In The Canopy",
+      "analysed": "2026-10-24 12:29"
+    },
+    "u_derin_bir_nefes_d2b427": {
+      "genre": "R&B",
+      "genreConfidence": 0.081,
+      "genreTop": [
+        [
+          "R&B",
+          0.081
+        ],
+        [
+          "Ambient",
+          0.06
+        ],
+        [
+          "Pop",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.792,
+        "Chill": 0.567,
+        "Late night": 0.409,
+        "Happy": 0.299,
+        "Melancholy": 0.295
+      },
+      "bpm": 81,
+      "tempo": 80.78,
+      "beatOffset": 0.25,
+      "hasBeat": true,
+      "energy": 0.582,
+      "key": "A# major",
+      "vocals": 0.035,
+      "nature": 0.013,
+      "model": true,
+      "features": {
+        "seconds": 181.002,
+        "db": -16.037,
+        "dynamics": 24.47,
+        "perc": 0.157,
+        "onsetRate": 2.691,
+        "pulse": 0.608,
+        "beatiness": 0.476,
+        "tempo": 80.783,
+        "beatOffset": 0.25,
+        "centroid": 1736.607,
+        "flatness": 0.015,
+        "energy": 0.582,
+        "major": 0.575,
+        "key": "A# major",
+        "keyConf": 0.803
+      },
+      "v": 4,
+      "size": 4350181,
+      "title": "Derin Bir Nefes",
+      "analysed": "2026-10-24 12:29"
+    },
+    "u_rare_sea_friends_c07689": {
+      "genre": "Electronic",
+      "genreConfidence": 0.062,
+      "genreTop": [
+        [
+          "Electronic",
+          0.062
+        ],
+        [
+          "Dance",
+          0.048
+        ],
+        [
+          "Pop",
+          0.044
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.558,
+        "Focus": 0.512,
+        "Party": 0.377,
+        "Happy": 0.343,
+        "Late night": 0.325
+      },
+      "bpm": 136,
+      "tempo": 135.94,
+      "beatOffset": 0.423,
+      "hasBeat": true,
+      "energy": 0.669,
+      "key": "G# major",
+      "vocals": 0.033,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 178.73,
+        "db": -15.402,
+        "dynamics": 12.051,
+        "perc": 0.163,
+        "onsetRate": 3.598,
+        "pulse": 0.566,
+        "beatiness": 0.46,
+        "tempo": 135.936,
+        "beatOffset": 0.423,
+        "centroid": 2748.135,
+        "flatness": 0.04,
+        "energy": 0.669,
+        "major": 0.577,
+        "key": "G# major",
+        "keyConf": 0.769
+      },
+      "v": 4,
+      "size": 4295638,
+      "title": "Rare Sea Friends",
+      "analysed": "2026-10-24 12:29"
+    },
+    "u_anin_siginagi_9c509a": {
+      "genre": "R&B",
+      "genreConfidence": 0.166,
+      "genreTop": [
+        [
+          "R&B",
+          0.166
+        ],
+        [
+          "Ambient",
+          0.059
+        ],
+        [
+          "Hip-Hop",
+          0.021
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.666,
+        "Late night": 0.598,
+        "Chill": 0.462,
+        "Melancholy": 0.409,
+        "Energize": 0.322
+      },
+      "bpm": 86,
+      "tempo": 86.07,
+      "beatOffset": 0.665,
+      "hasBeat": true,
+      "energy": 0.708,
+      "key": "G minor",
+      "vocals": 0.024,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 169.587,
+        "db": -15.938,
+        "dynamics": 25.827,
+        "perc": 0.255,
+        "onsetRate": 2.96,
+        "pulse": 0.613,
+        "beatiness": 0.613,
+        "tempo": 86.066,
+        "beatOffset": 0.665,
+        "centroid": 1400.661,
+        "flatness": 0.007,
+        "energy": 0.708,
+        "major": 0.0,
+        "key": "G minor",
+        "keyConf": 0.819
+      },
+      "v": 4,
+      "size": 6785611,
+      "title": "Anin Siginagi",
+      "analysed": "2026-10-24 12:30"
+    },
+    "u_morning_at_the_forest_edge_99d99f": {
+      "genre": "Ambient",
+      "genreConfidence": 0.497,
+      "genreTop": [
+        [
+          "Ambient",
+          0.497
+        ],
+        [
+          "Soundtrack",
+          0.016
+        ],
+        [
+          "R&B",
+          0.005
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.958,
+        "Chill": 0.692,
+        "Sleep": 0.675,
+        "Late night": 0.582,
+        "Melancholy": 0.502
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.336,
+      "key": "D# minor",
+      "vocals": 0.004,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 177.58,
+        "db": -15.994,
+        "dynamics": 14.87,
+        "perc": 0.024,
+        "onsetRate": 1.937,
+        "pulse": 0.279,
+        "beatiness": 0.033,
+        "tempo": 117.418,
+        "beatOffset": 0.078,
+        "centroid": 646.066,
+        "flatness": 0.004,
+        "energy": 0.336,
+        "major": 0.364,
+        "key": "D# minor",
+        "keyConf": 0.829
+      },
+      "v": 4,
+      "size": 7105350,
+      "title": "Morning At The Forest Edge",
+      "analysed": "2026-10-24 12:30"
+    },
+    "u_breath_of_the_horizon_d2a176": {
+      "genre": "Ambient",
+      "genreConfidence": 0.482,
+      "genreTop": [
+        [
+          "Ambient",
+          0.482
+        ],
+        [
+          "Soundtrack",
+          0.022
+        ],
+        [
+          "Electronic",
+          0.019
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.915,
+        "Sleep": 0.695,
+        "Chill": 0.686,
+        "Late night": 0.373,
+        "Happy": 0.32
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.284,
+      "key": "A# major",
+      "vocals": 0.001,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 174.341,
+        "db": -16.659,
+        "dynamics": 22.525,
+        "perc": 0.024,
+        "onsetRate": 0.665,
+        "pulse": 0.36,
+        "beatiness": 0.042,
+        "tempo": 109.949,
+        "beatOffset": 0.149,
+        "centroid": 554.085,
+        "flatness": 0.001,
+        "energy": 0.284,
+        "major": 0.957,
+        "key": "A# major",
+        "keyConf": 0.915
+      },
+      "v": 4,
+      "size": 6975782,
+      "title": "Breath of the Horizon",
+      "analysed": "2026-10-24 12:30"
+    },
+    "u_sonsuz_dinginlik_9e7fc5": {
+      "genre": "Ambient",
+      "genreConfidence": 0.257,
+      "genreTop": [
+        [
+          "Ambient",
+          0.257
+        ],
+        [
+          "Latin",
+          0.018
+        ],
+        [
+          "R&B",
+          0.009
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Late night"
+      ],
+      "moodScores": {
+        "Focus": 0.903,
+        "Late night": 0.684,
+        "Chill": 0.648,
+        "Melancholy": 0.535,
+        "Romantic": 0.364
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.46,
+      "key": "D# minor",
+      "vocals": 0.035,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 175.647,
+        "db": -16.009,
+        "dynamics": 13.582,
+        "perc": 0.055,
+        "onsetRate": 3.735,
+        "pulse": 0.236,
+        "beatiness": 0.065,
+        "tempo": 103.335,
+        "beatOffset": 0.196,
+        "centroid": 1327.986,
+        "flatness": 0.007,
+        "energy": 0.46,
+        "major": 0.004,
+        "key": "D# minor",
+        "keyConf": 0.862
+      },
+      "v": 4,
+      "size": 7028027,
+      "title": "Sonsuz Dinginlik",
+      "analysed": "2026-10-24 12:30"
+    },
+    "u_before_the_world_wakes_5d8163": {
+      "genre": "Ambient",
+      "genreConfidence": 0.113,
+      "genreTop": [
+        [
+          "Ambient",
+          0.113
+        ],
+        [
+          "R&B",
+          0.062
+        ],
+        [
+          "Soundtrack",
+          0.018
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.747,
+        "Energize": 0.61,
+        "Late night": 0.554,
+        "Focus": 0.512,
+        "Melancholy": 0.366
+      },
+      "bpm": 143,
+      "tempo": 143.46,
+      "beatOffset": 0.4,
+      "hasBeat": true,
+      "energy": 0.704,
+      "key": "D# minor",
+      "vocals": 0.004,
+      "nature": 0.043,
+      "model": true,
+      "features": {
+        "seconds": 178.024,
+        "db": -16.423,
+        "dynamics": 20.878,
+        "perc": 0.261,
+        "onsetRate": 3.028,
+        "pulse": 0.764,
+        "beatiness": 0.764,
+        "tempo": 143.459,
+        "beatOffset": 0.4,
+        "centroid": 1227.969,
+        "flatness": 0.004,
+        "energy": 0.704,
+        "major": 0.169,
+        "key": "D# minor",
+        "keyConf": 0.777
+      },
+      "v": 4,
+      "size": 7123113,
+      "title": "Before the World Wakes",
+      "analysed": "2026-10-24 12:30"
+    },
+    "u_beneath_the_alpine_canopy_caa4fa": {
+      "genre": "Ambient",
+      "genreConfidence": 0.513,
+      "genreTop": [
+        [
+          "Ambient",
+          0.513
+        ],
+        [
+          "Soundtrack",
+          0.019
+        ],
+        [
+          "Electronic",
+          0.013
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.962,
+        "Chill": 0.638,
+        "Happy": 0.408,
+        "Late night": 0.296,
+        "Romantic": 0.271
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.421,
+      "key": "F major",
+      "vocals": 0.002,
+      "nature": 0.05,
+      "model": true,
+      "features": {
+        "seconds": 174.393,
+        "db": -16.718,
+        "dynamics": 32.456,
+        "perc": 0.043,
+        "onsetRate": 2.655,
+        "pulse": 0.604,
+        "beatiness": 0.128,
+        "tempo": 99.357,
+        "beatOffset": 0.144,
+        "centroid": 1767.411,
+        "flatness": 0.038,
+        "energy": 0.421,
+        "major": 1.0,
+        "key": "F major",
+        "keyConf": 0.962
+      },
+      "v": 4,
+      "size": 4191566,
+      "title": "Beneath the Alpine Canopy",
+      "analysed": "2026-10-24 12:31"
+    },
+    "u_where_the_pines_sigh_a601de": {
+      "genre": "Ambient",
+      "genreConfidence": 0.564,
+      "genreTop": [
+        [
+          "Ambient",
+          0.564
+        ],
+        [
+          "Electronic",
+          0.019
+        ],
+        [
+          "Soundtrack",
+          0.011
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Sleep"
+      ],
+      "moodScores": {
+        "Focus": 0.962,
+        "Chill": 0.665,
+        "Sleep": 0.65,
+        "Late night": 0.357,
+        "Happy": 0.34
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.338,
+      "key": "F major",
+      "vocals": 0.001,
+      "nature": 0.018,
+      "model": true,
+      "features": {
+        "seconds": 172.513,
+        "db": -16.438,
+        "dynamics": 17.95,
+        "perc": 0.02,
+        "onsetRate": 1.611,
+        "pulse": 0.076,
+        "beatiness": 0.007,
+        "tempo": 114.856,
+        "beatOffset": 0.346,
+        "centroid": 1200.816,
+        "flatness": 0.004,
+        "energy": 0.338,
+        "major": 0.895,
+        "key": "F major",
+        "keyConf": 0.887
+      },
+      "v": 4,
+      "size": 4146426,
+      "title": "Where the Pines Sigh",
+      "analysed": "2026-10-24 12:31"
+    },
+    "u_where_moss_meets_water_b5d720": {
+      "genre": "Ambient",
+      "genreConfidence": 0.492,
+      "genreTop": [
+        [
+          "Ambient",
+          0.492
+        ],
+        [
+          "Soundtrack",
+          0.019
+        ],
+        [
+          "Electronic",
+          0.011
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.98,
+        "Chill": 0.649,
+        "Sleep": 0.594,
+        "Happy": 0.367,
+        "Late night": 0.341
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.4,
+      "key": "F major",
+      "vocals": 0.002,
+      "nature": 0.076,
+      "model": true,
+      "features": {
+        "seconds": 161.332,
+        "db": -16.823,
+        "dynamics": 26.089,
+        "perc": 0.047,
+        "onsetRate": 2.585,
+        "pulse": 0.476,
+        "beatiness": 0.111,
+        "tempo": 120.385,
+        "beatOffset": 0.229,
+        "centroid": 1256.114,
+        "flatness": 0.018,
+        "energy": 0.4,
+        "major": 0.975,
+        "key": "F major",
+        "keyConf": 0.893
+      },
+      "v": 4,
+      "size": 3878096,
+      "title": "Where Moss Meets Water",
+      "analysed": "2026-10-24 12:31"
+    },
+    "u_slow_tide_rising_efaca4": {
+      "genre": "Ambient",
+      "genreConfidence": 0.427,
+      "genreTop": [
+        [
+          "Ambient",
+          0.427
+        ],
+        [
+          "Soundtrack",
+          0.015
+        ],
+        [
+          "R&B",
+          0.012
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.899,
+        "Chill": 0.618,
+        "Late night": 0.373,
+        "Happy": 0.365,
+        "Romantic": 0.292
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.452,
+      "key": "B major",
+      "vocals": 0.051,
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 172.983,
+        "db": -15.81,
+        "dynamics": 10.6,
+        "perc": 0.056,
+        "onsetRate": 3.839,
+        "pulse": 0.753,
+        "beatiness": 0.21,
+        "tempo": 120.204,
+        "beatOffset": 0.267,
+        "centroid": 961.081,
+        "flatness": 0.001,
+        "energy": 0.452,
+        "major": 1.0,
+        "key": "B major",
+        "keyConf": 0.954
+      },
+      "v": 4,
+      "size": 4157711,
+      "title": "Slow Tide Rising",
+      "analysed": "2026-10-24 12:31"
+    },
+    "u_blue_hour_drift_5bc9fd": {
+      "genre": "Ambient",
+      "genreConfidence": 0.554,
+      "genreTop": [
+        [
+          "Ambient",
+          0.554
+        ],
+        [
+          "Soundtrack",
+          0.017
+        ],
+        [
+          "R&B",
+          0.011
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Focus",
+        "Late night"
+      ],
+      "moodScores": {
+        "Focus": 0.958,
+        "Late night": 0.709,
+        "Chill": 0.65,
+        "Sleep": 0.619,
+        "Melancholy": 0.462
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.406,
+      "key": "G# minor",
+      "vocals": 0.025,
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 180.428,
+        "db": -15.591,
+        "dynamics": 9.267,
+        "perc": 0.046,
+        "onsetRate": 2.655,
+        "pulse": 0.65,
+        "beatiness": 0.15,
+        "tempo": 120.242,
+        "beatOffset": 0.177,
+        "centroid": 958.233,
+        "flatness": 0.008,
+        "energy": 0.406,
+        "major": 0.0,
+        "key": "G# minor",
+        "keyConf": 0.829
+      },
+      "v": 4,
+      "size": 4336389,
+      "title": "Blue Hour Drift",
+      "analysed": "2026-10-24 12:32"
+    }
+  }
+}
