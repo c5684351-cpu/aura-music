@@ -1255,63 +1255,62 @@
       "analysed": "2026-10-24 12:30"
     },
     "u_before_the_world_wakes_5d8163": {
-      "genre": "Ambient",
-      "genreConfidence": 0.113,
+      "genre": "R&B",
+      "genreConfidence": 0.096,
       "genreTop": [
         [
-          "Ambient",
-          0.113
-        ],
-        [
           "R&B",
-          0.062
+          0.096
         ],
         [
-          "Soundtrack",
-          0.018
+          "Pop",
+          0.032
+        ],
+        [
+          "Ambient",
+          0.023
         ]
       ],
       "moods": [
-        "Energize",
-        "Workout"
+        "Focus"
       ],
       "moodScores": {
-        "Workout": 0.747,
-        "Energize": 0.61,
-        "Late night": 0.554,
-        "Focus": 0.512,
-        "Melancholy": 0.366
+        "Focus": 0.699,
+        "Chill": 0.527,
+        "Happy": 0.481,
+        "Romantic": 0.302,
+        "Energize": 0.302
       },
-      "bpm": 143,
-      "tempo": 143.46,
-      "beatOffset": 0.4,
+      "bpm": 81,
+      "tempo": 80.83,
+      "beatOffset": 0.145,
       "hasBeat": true,
-      "energy": 0.704,
-      "key": "D# minor",
-      "vocals": 0.004,
-      "nature": 0.043,
+      "energy": 0.662,
+      "key": "D# major",
+      "vocals": 0.065,
+      "nature": 0.001,
       "model": true,
       "features": {
-        "seconds": 178.024,
-        "db": -16.423,
-        "dynamics": 20.878,
-        "perc": 0.261,
-        "onsetRate": 3.028,
-        "pulse": 0.764,
-        "beatiness": 0.764,
-        "tempo": 143.459,
-        "beatOffset": 0.4,
-        "centroid": 1227.969,
-        "flatness": 0.004,
-        "energy": 0.704,
-        "major": 0.169,
-        "key": "D# minor",
-        "keyConf": 0.777
+        "seconds": 179.252,
+        "db": -15.611,
+        "dynamics": 13.889,
+        "perc": 0.186,
+        "onsetRate": 3.52,
+        "pulse": 0.52,
+        "beatiness": 0.485,
+        "tempo": 80.827,
+        "beatOffset": 0.145,
+        "centroid": 1974.338,
+        "flatness": 0.01,
+        "energy": 0.662,
+        "major": 1.0,
+        "key": "D# major",
+        "keyConf": 0.899
       },
       "v": 4,
-      "size": 7123113,
+      "size": 4308177,
       "title": "Before the World Wakes",
-      "analysed": "2026-10-24 12:30"
+      "analysed": "2026-10-24 12:35"
     },
     "u_beneath_the_alpine_canopy_caa4fa": {
       "genre": "Ambient",
@@ -1609,6 +1608,528 @@
       "size": 4336389,
       "title": "Blue Hour Drift",
       "analysed": "2026-10-24 12:32"
+    },
+    "u_midnight_alignment_be1ef2": {
+      "genre": "Ambient",
+      "genreConfidence": 0.069,
+      "genreTop": [
+        [
+          "Ambient",
+          0.069
+        ],
+        [
+          "Pop",
+          0.065
+        ],
+        [
+          "Electronic",
+          0.051
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.582,
+        "Happy": 0.453,
+        "Energize": 0.412,
+        "Party": 0.342,
+        "Chill": 0.339
+      },
+      "bpm": 120,
+      "tempo": 120.17,
+      "beatOffset": 0.149,
+      "hasBeat": true,
+      "energy": 0.594,
+      "key": "G# major",
+      "vocals": 0.061,
+      "nature": 0.004,
+      "model": true,
+      "features": {
+        "seconds": 180.898,
+        "db": -15.343,
+        "dynamics": 12.138,
+        "perc": 0.118,
+        "onsetRate": 3.593,
+        "pulse": 0.653,
+        "beatiness": 0.386,
+        "tempo": 120.169,
+        "beatOffset": 0.149,
+        "centroid": 2377.744,
+        "flatness": 0.027,
+        "energy": 0.594,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.936
+      },
+      "v": 4,
+      "size": 4347675,
+      "title": "Midnight Alignment",
+      "analysed": "2026-10-24 12:34"
+    },
+    "u_golden_motion_b1346b": {
+      "genre": "Pop",
+      "genreConfidence": 0.117,
+      "genreTop": [
+        [
+          "Pop",
+          0.117
+        ],
+        [
+          "Dance",
+          0.045
+        ],
+        [
+          "Electronic",
+          0.044
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.512,
+        "Happy": 0.486,
+        "Workout": 0.484,
+        "Energize": 0.452,
+        "Party": 0.451
+      },
+      "bpm": 120,
+      "tempo": 120.17,
+      "beatOffset": 0.2,
+      "hasBeat": true,
+      "energy": 0.668,
+      "key": "G# major",
+      "vocals": 0.064,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 180.088,
+        "db": -15.159,
+        "dynamics": 9.624,
+        "perc": 0.158,
+        "onsetRate": 3.843,
+        "pulse": 0.657,
+        "beatiness": 0.52,
+        "tempo": 120.175,
+        "beatOffset": 0.2,
+        "centroid": 2612.571,
+        "flatness": 0.03,
+        "energy": 0.668,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.869
+      },
+      "v": 4,
+      "size": 4328240,
+      "title": "Golden Motion",
+      "analysed": "2026-10-24 12:35"
+    },
+    "u_king_of_the_empty_town_ad5f5c": {
+      "genre": "Dance",
+      "genreConfidence": 0.103,
+      "genreTop": [
+        [
+          "Dance",
+          0.103
+        ],
+        [
+          "Pop",
+          0.078
+        ],
+        [
+          "Electronic",
+          0.06
+        ]
+      ],
+      "moods": [
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.544,
+        "Energize": 0.505,
+        "Party": 0.493,
+        "Focus": 0.461,
+        "Happy": 0.338
+      },
+      "bpm": 123,
+      "tempo": 123.08,
+      "beatOffset": 0.127,
+      "hasBeat": true,
+      "energy": 0.73,
+      "key": "G# major",
+      "vocals": 0.036,
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 182.152,
+        "db": -15.131,
+        "dynamics": 10.067,
+        "perc": 0.187,
+        "onsetRate": 4.787,
+        "pulse": 0.603,
+        "beatiness": 0.564,
+        "tempo": 123.083,
+        "beatOffset": 0.127,
+        "centroid": 2492.482,
+        "flatness": 0.039,
+        "energy": 0.73,
+        "major": 0.57,
+        "key": "G# major",
+        "keyConf": 0.786
+      },
+      "v": 4,
+      "size": 4377768,
+      "title": "King of the Empty Town",
+      "analysed": "2026-10-24 12:35"
+    },
+    "u_song_dab241": {
+      "genre": "Pop",
+      "genreConfidence": 0.088,
+      "genreTop": [
+        [
+          "Pop",
+          0.088
+        ],
+        [
+          "Hip-Hop",
+          0.053
+        ],
+        [
+          "World",
+          0.044
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.504,
+        "Focus": 0.462,
+        "Late night": 0.452,
+        "Party": 0.42,
+        "Melancholy": 0.298
+      },
+      "bpm": 126,
+      "tempo": 126.09,
+      "beatOffset": 0.125,
+      "hasBeat": true,
+      "energy": 0.706,
+      "key": "A# minor",
+      "vocals": 0.06,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 181.107,
+        "db": -15.334,
+        "dynamics": 10.823,
+        "perc": 0.186,
+        "onsetRate": 3.948,
+        "pulse": 0.508,
+        "beatiness": 0.472,
+        "tempo": 126.086,
+        "beatOffset": 0.125,
+        "centroid": 2629.981,
+        "flatness": 0.034,
+        "energy": 0.706,
+        "major": 0.16,
+        "key": "A# minor",
+        "keyConf": 0.716
+      },
+      "v": 4,
+      "size": 4352690,
+      "title": "오늘 밤의 주인공",
+      "analysed": "2026-10-24 12:35"
+    },
+    "u_glavnyy_znak_cb5d46": {
+      "genre": "Dance",
+      "genreConfidence": 0.096,
+      "genreTop": [
+        [
+          "Dance",
+          0.096
+        ],
+        [
+          "Pop",
+          0.071
+        ],
+        [
+          "World",
+          0.065
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.5,
+        "Energize": 0.467,
+        "Party": 0.445,
+        "Late night": 0.386,
+        "Chill": 0.287
+      },
+      "bpm": 120,
+      "tempo": 120.24,
+      "beatOffset": 0.15,
+      "hasBeat": true,
+      "energy": 0.698,
+      "key": "A# minor",
+      "vocals": 0.042,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 182.073,
+        "db": -15.036,
+        "dynamics": 7.67,
+        "perc": 0.173,
+        "onsetRate": 3.943,
+        "pulse": 0.515,
+        "beatiness": 0.447,
+        "tempo": 120.244,
+        "beatOffset": 0.15,
+        "centroid": 2738.16,
+        "flatness": 0.043,
+        "energy": 0.698,
+        "major": 0.343,
+        "key": "A# minor",
+        "keyConf": 0.619
+      },
+      "v": 4,
+      "size": 4375887,
+      "title": "Glavnyy znak",
+      "analysed": "2026-10-24 12:36"
+    },
+    "u_sunrise_masters_6f50c6": {
+      "genre": "Pop",
+      "genreConfidence": 0.116,
+      "genreTop": [
+        [
+          "Pop",
+          0.116
+        ],
+        [
+          "Electronic",
+          0.063
+        ],
+        [
+          "Dance",
+          0.061
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.495,
+        "Focus": 0.482,
+        "Energize": 0.471,
+        "Party": 0.451,
+        "Melancholy": 0.342
+      },
+      "bpm": 120,
+      "tempo": 120.07,
+      "beatOffset": 0.078,
+      "hasBeat": true,
+      "energy": 0.71,
+      "key": "A# minor",
+      "vocals": 0.053,
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.793,
+        "db": -15.309,
+        "dynamics": 8.201,
+        "perc": 0.163,
+        "onsetRate": 4.674,
+        "pulse": 0.581,
+        "beatiness": 0.474,
+        "tempo": 120.07,
+        "beatOffset": 0.078,
+        "centroid": 2914.987,
+        "flatness": 0.045,
+        "energy": 0.71,
+        "major": 0.012,
+        "key": "A# minor",
+        "keyConf": 0.766
+      },
+      "v": 4,
+      "size": 4345167,
+      "title": "Sunrise Masters",
+      "analysed": "2026-10-24 12:36"
+    },
+    "u_the_emptiness_we_are_c77ab4": {
+      "genre": "Ambient",
+      "genreConfidence": 0.064,
+      "genreTop": [
+        [
+          "Ambient",
+          0.064
+        ],
+        [
+          "Pop",
+          0.036
+        ],
+        [
+          "Soundtrack",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.796,
+        "Chill": 0.561,
+        "Happy": 0.425,
+        "Late night": 0.281,
+        "Romantic": 0.277
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.562,
+      "key": "F# major",
+      "vocals": 0.054,
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 181.238,
+        "db": -15.661,
+        "dynamics": 14.888,
+        "perc": 0.108,
+        "onsetRate": 3.884,
+        "pulse": 0.418,
+        "beatiness": 0.226,
+        "tempo": 109.944,
+        "beatOffset": 0.456,
+        "centroid": 1838.006,
+        "flatness": 0.015,
+        "energy": 0.562,
+        "major": 0.937,
+        "key": "F# major",
+        "keyConf": 0.927
+      },
+      "v": 4,
+      "size": 4355825,
+      "title": "The Emptiness We Are",
+      "analysed": "2026-10-24 12:36"
+    },
+    "u_avenues_of_chrome_7fe046": {
+      "genre": "Pop",
+      "genreConfidence": 0.096,
+      "genreTop": [
+        [
+          "Pop",
+          0.096
+        ],
+        [
+          "R&B",
+          0.089
+        ],
+        [
+          "Dance",
+          0.073
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.565,
+        "Late night": 0.476,
+        "Energize": 0.44,
+        "Party": 0.368,
+        "Chill": 0.331
+      },
+      "bpm": 123,
+      "tempo": 123.01,
+      "beatOffset": 0.044,
+      "hasBeat": true,
+      "energy": 0.605,
+      "key": "A# minor",
+      "vocals": 0.052,
+      "nature": 0.004,
+      "model": true,
+      "features": {
+        "seconds": 181.342,
+        "db": -15.339,
+        "dynamics": 9.353,
+        "perc": 0.131,
+        "onsetRate": 3.066,
+        "pulse": 0.535,
+        "beatiness": 0.351,
+        "tempo": 123.014,
+        "beatOffset": 0.044,
+        "centroid": 2589.045,
+        "flatness": 0.035,
+        "energy": 0.605,
+        "major": 0.258,
+        "key": "A# minor",
+        "keyConf": 0.813
+      },
+      "v": 4,
+      "size": 4358333,
+      "title": "Avenues of Chrome",
+      "analysed": "2026-10-24 12:36"
+    },
+    "u_velvet_midnight_f23880": {
+      "genre": "Pop",
+      "genreConfidence": 0.128,
+      "genreTop": [
+        [
+          "Pop",
+          0.128
+        ],
+        [
+          "Dance",
+          0.073
+        ],
+        [
+          "Electronic",
+          0.065
+        ]
+      ],
+      "moods": [
+        "Focus"
+      ],
+      "moodScores": {
+        "Focus": 0.504,
+        "Energize": 0.479,
+        "Party": 0.427,
+        "Late night": 0.392,
+        "Happy": 0.308
+      },
+      "bpm": 123,
+      "tempo": 123.12,
+      "beatOffset": 0.167,
+      "hasBeat": true,
+      "energy": 0.676,
+      "key": "A# minor",
+      "vocals": 0.043,
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 182.073,
+        "db": -15.18,
+        "dynamics": 8.636,
+        "perc": 0.162,
+        "onsetRate": 4.13,
+        "pulse": 0.458,
+        "beatiness": 0.371,
+        "tempo": 123.124,
+        "beatOffset": 0.167,
+        "centroid": 2484.602,
+        "flatness": 0.034,
+        "energy": 0.676,
+        "major": 0.448,
+        "key": "A# minor",
+        "keyConf": 0.527
+      },
+      "v": 4,
+      "size": 4375887,
+      "title": "Velvet Midnight",
+      "analysed": "2026-10-24 12:37"
     }
   }
 }
