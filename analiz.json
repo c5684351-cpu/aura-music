@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "model": "MIT/ast-finetuned-audioset-10-10-0.4593",
   "tracks": {
     "u_solace_in_the_grove_06a4e8": {
@@ -25,7 +25,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.97,
+        "Focus": 0.925,
         "Chill": 0.693,
         "Sleep": 0.652,
         "Melancholy": 0.487,
@@ -38,6 +38,32 @@
       "energy": 0.348,
       "key": "A# major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0009,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0044,
+        "g:Electronic": 0.0036,
+        "g:Dance": 0.001,
+        "g:Jazz": 0.001,
+        "g:Blues": 0.001,
+        "g:Classical": 0.0052,
+        "g:Ambient": 0.3551,
+        "g:Soundtrack": 0.0382,
+        "g:Folk": 0.0043,
+        "g:Latin": 0.0013,
+        "g:Reggae": 0.0,
+        "g:World": 0.0015,
+        "vocal": 0.0019,
+        "nature": 0.0058,
+        "happy": 0.0028,
+        "sad": 0.1767,
+        "tender": 0.0871,
+        "exciting": 0.001,
+        "angry": 0.0001,
+        "lullaby": 0.0117
+      },
       "nature": 0.006,
       "model": true,
       "features": {
@@ -57,10 +83,10 @@
         "key": "A# major",
         "keyConf": 0.916
       },
-      "v": 4,
+      "v": 5,
       "size": 7056240,
       "title": "Solace in the Grove",
-      "analysed": "2026-10-24 12:25"
+      "analysed": "2026-10-25 09:15"
     },
     "u_the_morning_canopy_72f6d3": {
       "genre": "Ambient",
@@ -85,7 +111,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.981,
+        "Focus": 0.908,
         "Chill": 0.655,
         "Sleep": 0.633,
         "Happy": 0.366,
@@ -98,6 +124,32 @@
       "energy": 0.367,
       "key": "A# major",
       "vocals": 0.009,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0025,
+        "g:Electronic": 0.0064,
+        "g:Dance": 0.0014,
+        "g:Jazz": 0.0009,
+        "g:Blues": 0.001,
+        "g:Classical": 0.0164,
+        "g:Ambient": 0.1994,
+        "g:Soundtrack": 0.0218,
+        "g:Folk": 0.0022,
+        "g:Latin": 0.0015,
+        "g:Reggae": 0.0,
+        "g:World": 0.0008,
+        "vocal": 0.0095,
+        "nature": 0.0326,
+        "happy": 0.002,
+        "sad": 0.0449,
+        "tender": 0.035,
+        "exciting": 0.0009,
+        "angry": 0.0,
+        "lullaby": 0.0061
+      },
       "nature": 0.033,
       "model": true,
       "features": {
@@ -117,10 +169,10 @@
         "key": "A# major",
         "keyConf": 0.944
       },
-      "v": 4,
+      "v": 5,
       "size": 6960109,
       "title": "The Morning Canopy",
-      "analysed": "2026-10-24 12:26"
+      "analysed": "2026-10-25 09:15"
     },
     "u_where_the_water_rests_72a14b": {
       "genre": "Ambient",
@@ -145,7 +197,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.969,
+        "Focus": 0.926,
         "Chill": 0.677,
         "Sleep": 0.649,
         "Happy": 0.371,
@@ -158,6 +210,32 @@
       "energy": 0.347,
       "key": "A# major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0035,
+        "g:Electronic": 0.0055,
+        "g:Dance": 0.0008,
+        "g:Jazz": 0.0005,
+        "g:Blues": 0.0008,
+        "g:Classical": 0.0021,
+        "g:Ambient": 0.4613,
+        "g:Soundtrack": 0.014,
+        "g:Folk": 0.0008,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0,
+        "g:World": 0.0005,
+        "vocal": 0.0024,
+        "nature": 0.0212,
+        "happy": 0.0028,
+        "sad": 0.0552,
+        "tender": 0.0582,
+        "exciting": 0.0007,
+        "angry": 0.0,
+        "lullaby": 0.0159
+      },
       "nature": 0.021,
       "model": true,
       "features": {
@@ -177,10 +255,10 @@
         "key": "A# major",
         "keyConf": 0.928
       },
-      "v": 4,
+      "v": 5,
       "size": 6918313,
       "title": "Where the Water Rests",
-      "analysed": "2026-10-24 12:26"
+      "analysed": "2026-10-25 09:15"
     },
     "u_stillness_at_daybreak_ab7211": {
       "genre": "Ambient",
@@ -205,7 +283,7 @@
         "Late night"
       ],
       "moodScores": {
-        "Focus": 0.992,
+        "Focus": 0.962,
         "Late night": 0.68,
         "Chill": 0.652,
         "Sleep": 0.645,
@@ -218,6 +296,32 @@
       "energy": 0.372,
       "key": "D# minor",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0001,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0029,
+        "g:Electronic": 0.0026,
+        "g:Dance": 0.0005,
+        "g:Jazz": 0.0026,
+        "g:Blues": 0.0008,
+        "g:Classical": 0.0276,
+        "g:Ambient": 0.1485,
+        "g:Soundtrack": 0.0078,
+        "g:Folk": 0.0102,
+        "g:Latin": 0.0045,
+        "g:Reggae": 0.0,
+        "g:World": 0.0012,
+        "vocal": 0.0017,
+        "nature": 0.0002,
+        "happy": 0.0015,
+        "sad": 0.0526,
+        "tender": 0.0338,
+        "exciting": 0.0004,
+        "angry": 0.0,
+        "lullaby": 0.0117
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -237,10 +341,10 @@
         "key": "D# minor",
         "keyConf": 0.911
       },
-      "v": 4,
+      "v": 5,
       "size": 4323850,
       "title": "Stillness at Daybreak",
-      "analysed": "2026-10-24 12:26"
+      "analysed": "2026-10-25 09:16"
     },
     "u_light_through_the_canopy_87f641": {
       "genre": "Ambient",
@@ -264,11 +368,11 @@
         "Focus"
       ],
       "moodScores": {
-        "Focus": 0.959,
+        "Focus": 0.866,
         "Chill": 0.674,
         "Sleep": 0.597,
         "Happy": 0.37,
-        "Romantic": 0.364
+        "Late night": 0.348
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -277,6 +381,32 @@
       "energy": 0.418,
       "key": "A# major",
       "vocals": 0.01,
+      "signals": {
+        "g:Pop": 0.0009,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0045,
+        "g:Electronic": 0.0051,
+        "g:Dance": 0.0009,
+        "g:Jazz": 0.0008,
+        "g:Blues": 0.0017,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.4112,
+        "g:Soundtrack": 0.0125,
+        "g:Folk": 0.0036,
+        "g:Latin": 0.0032,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0011,
+        "vocal": 0.0099,
+        "nature": 0.0351,
+        "happy": 0.0034,
+        "sad": 0.0791,
+        "tender": 0.1098,
+        "exciting": 0.0008,
+        "angry": 0.0,
+        "lullaby": 0.0142
+      },
       "nature": 0.035,
       "model": true,
       "features": {
@@ -296,10 +426,10 @@
         "key": "A# major",
         "keyConf": 0.943
       },
-      "v": 4,
+      "v": 5,
       "size": 4266799,
       "title": "Light Through The Canopy",
-      "analysed": "2026-10-24 12:26"
+      "analysed": "2026-10-25 09:16"
     },
     "u_dawn_in_the_tall_pines_ce5894": {
       "genre": "Ambient",
@@ -324,7 +454,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.965,
+        "Focus": 0.922,
         "Chill": 0.68,
         "Sleep": 0.663,
         "Happy": 0.356,
@@ -337,6 +467,32 @@
       "energy": 0.342,
       "key": "F major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.001,
+        "g:Rock": 0.0002,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0036,
+        "g:Electronic": 0.0016,
+        "g:Dance": 0.0002,
+        "g:Jazz": 0.0015,
+        "g:Blues": 0.0011,
+        "g:Classical": 0.0206,
+        "g:Ambient": 0.1739,
+        "g:Soundtrack": 0.0181,
+        "g:Folk": 0.0019,
+        "g:Latin": 0.0017,
+        "g:Reggae": 0.0,
+        "g:World": 0.001,
+        "vocal": 0.0019,
+        "nature": 0.0093,
+        "happy": 0.0023,
+        "sad": 0.0974,
+        "tender": 0.0598,
+        "exciting": 0.0007,
+        "angry": 0.0,
+        "lullaby": 0.015
+      },
       "nature": 0.009,
       "model": true,
       "features": {
@@ -356,10 +512,10 @@
         "key": "F major",
         "keyConf": 0.924
       },
-      "v": 4,
+      "v": 5,
       "size": 4165861,
       "title": "Dawn in the Tall Pines",
-      "analysed": "2026-10-24 12:27"
+      "analysed": "2026-10-25 09:16"
     },
     "u_breath_of_the_ancient_grove_9e1aac": {
       "genre": "Ambient",
@@ -384,7 +540,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.945,
+        "Focus": 0.836,
         "Chill": 0.678,
         "Sleep": 0.665,
         "Happy": 0.373,
@@ -397,6 +553,32 @@
       "energy": 0.329,
       "key": "A# major",
       "vocals": 0.013,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0033,
+        "g:Electronic": 0.0141,
+        "g:Dance": 0.0019,
+        "g:Jazz": 0.0004,
+        "g:Blues": 0.0005,
+        "g:Classical": 0.006,
+        "g:Ambient": 0.3698,
+        "g:Soundtrack": 0.0161,
+        "g:Folk": 0.0009,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0,
+        "g:World": 0.001,
+        "vocal": 0.0132,
+        "nature": 0.006,
+        "happy": 0.0014,
+        "sad": 0.0636,
+        "tender": 0.0447,
+        "exciting": 0.0006,
+        "angry": 0.0001,
+        "lullaby": 0.0285
+      },
       "nature": 0.006,
       "model": true,
       "features": {
@@ -416,10 +598,10 @@
         "key": "A# major",
         "keyConf": 0.958
       },
-      "v": 4,
+      "v": 5,
       "size": 4327612,
       "title": "Breath of the Ancient Grove",
-      "analysed": "2026-10-24 12:27"
+      "analysed": "2026-10-25 09:17"
     },
     "u_dawn_in_the_high_valley_bb8c6a": {
       "genre": "Ambient",
@@ -444,7 +626,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.97,
+        "Focus": 0.924,
         "Chill": 0.688,
         "Sleep": 0.658,
         "Melancholy": 0.648,
@@ -457,6 +639,32 @@
       "energy": 0.348,
       "key": "G major",
       "vocals": 0.001,
+      "signals": {
+        "g:Pop": 0.0018,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.005,
+        "g:Electronic": 0.0044,
+        "g:Dance": 0.0007,
+        "g:Jazz": 0.0015,
+        "g:Blues": 0.0013,
+        "g:Classical": 0.0132,
+        "g:Ambient": 0.1574,
+        "g:Soundtrack": 0.0592,
+        "g:Folk": 0.0005,
+        "g:Latin": 0.0002,
+        "g:Reggae": 0.0,
+        "g:World": 0.001,
+        "vocal": 0.0014,
+        "nature": 0.0002,
+        "happy": 0.0023,
+        "sad": 0.2691,
+        "tender": 0.0782,
+        "exciting": 0.0012,
+        "angry": 0.0001,
+        "lullaby": 0.023
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -476,10 +684,10 @@
         "key": "G major",
         "keyConf": 0.836
       },
-      "v": 4,
+      "v": 5,
       "size": 4291249,
       "title": "Dawn in the High Valley",
-      "analysed": "2026-10-24 12:27"
+      "analysed": "2026-10-25 09:17"
     },
     "u_where_the_river_bends_5f92f3": {
       "genre": "Ambient",
@@ -504,7 +712,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.996,
+        "Focus": 0.95,
         "Chill": 0.671,
         "Sleep": 0.628,
         "Late night": 0.445,
@@ -517,6 +725,32 @@
       "energy": 0.379,
       "key": "G major",
       "vocals": 0.004,
+      "signals": {
+        "g:Pop": 0.0009,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0043,
+        "g:Electronic": 0.0013,
+        "g:Dance": 0.0003,
+        "g:Jazz": 0.0019,
+        "g:Blues": 0.0009,
+        "g:Classical": 0.0211,
+        "g:Ambient": 0.0711,
+        "g:Soundtrack": 0.0175,
+        "g:Folk": 0.0135,
+        "g:Latin": 0.0015,
+        "g:Reggae": 0.0,
+        "g:World": 0.0013,
+        "vocal": 0.0035,
+        "nature": 0.0004,
+        "happy": 0.0025,
+        "sad": 0.1122,
+        "tender": 0.0723,
+        "exciting": 0.0006,
+        "angry": 0.0,
+        "lullaby": 0.0119
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -536,10 +770,10 @@
         "key": "G major",
         "keyConf": 0.9
       },
-      "v": 4,
+      "v": 5,
       "size": 4272441,
       "title": "Where the River Bends",
-      "analysed": "2026-10-24 12:27"
+      "analysed": "2026-10-25 09:17"
     },
     "u_where_the_river_meets_stone_ab3fe3": {
       "genre": "Ambient",
@@ -564,7 +798,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.973,
+        "Focus": 0.917,
         "Chill": 0.659,
         "Sleep": 0.605,
         "Happy": 0.372,
@@ -577,6 +811,32 @@
       "energy": 0.407,
       "key": "D major",
       "vocals": 0.004,
+      "signals": {
+        "g:Pop": 0.0012,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0002,
+        "g:R&B": 0.0043,
+        "g:Electronic": 0.0025,
+        "g:Dance": 0.0005,
+        "g:Jazz": 0.0009,
+        "g:Blues": 0.0015,
+        "g:Classical": 0.0036,
+        "g:Ambient": 0.226,
+        "g:Soundtrack": 0.0182,
+        "g:Folk": 0.0074,
+        "g:Latin": 0.0017,
+        "g:Reggae": 0.0,
+        "g:World": 0.0015,
+        "vocal": 0.004,
+        "nature": 0.0092,
+        "happy": 0.0049,
+        "sad": 0.071,
+        "tender": 0.0736,
+        "exciting": 0.001,
+        "angry": 0.0,
+        "lullaby": 0.008
+      },
       "nature": 0.009,
       "model": true,
       "features": {
@@ -596,10 +856,10 @@
         "key": "D major",
         "keyConf": 0.855
       },
-      "v": 4,
+      "v": 5,
       "size": 4305669,
       "title": "Where the River Meets Stone",
-      "analysed": "2026-10-24 12:28"
+      "analysed": "2026-10-25 09:18"
     },
     "u_canopy_at_dawn_ad5f29": {
       "genre": "Ambient",
@@ -623,11 +883,11 @@
         "Focus"
       ],
       "moodScores": {
-        "Focus": 0.932,
+        "Focus": 0.854,
         "Chill": 0.632,
         "Late night": 0.404,
         "Happy": 0.334,
-        "Romantic": 0.293
+        "Energize": 0.25
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -636,6 +896,32 @@
       "energy": 0.451,
       "key": "G major",
       "vocals": 0.007,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0031,
+        "g:Electronic": 0.0066,
+        "g:Dance": 0.0021,
+        "g:Jazz": 0.0008,
+        "g:Blues": 0.0013,
+        "g:Classical": 0.002,
+        "g:Ambient": 0.4686,
+        "g:Soundtrack": 0.0159,
+        "g:Folk": 0.0044,
+        "g:Latin": 0.0059,
+        "g:Reggae": 0.0,
+        "g:World": 0.0007,
+        "vocal": 0.007,
+        "nature": 0.0138,
+        "happy": 0.0049,
+        "sad": 0.0349,
+        "tender": 0.0613,
+        "exciting": 0.001,
+        "angry": 0.0,
+        "lullaby": 0.0104
+      },
       "nature": 0.014,
       "model": true,
       "features": {
@@ -655,10 +941,10 @@
         "key": "G major",
         "keyConf": 0.836
       },
-      "v": 4,
+      "v": 5,
       "size": 4174639,
       "title": "Canopy at Dawn",
-      "analysed": "2026-10-24 12:28"
+      "analysed": "2026-10-25 09:18"
     },
     "u_where_the_stream_bends_8c677d": {
       "genre": "Ambient",
@@ -683,7 +969,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.992,
+        "Focus": 0.942,
         "Chill": 0.677,
         "Sleep": 0.638,
         "Happy": 0.374,
@@ -696,6 +982,32 @@
       "energy": 0.375,
       "key": "C major",
       "vocals": 0.005,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0034,
+        "g:Electronic": 0.0033,
+        "g:Dance": 0.0006,
+        "g:Jazz": 0.0019,
+        "g:Blues": 0.001,
+        "g:Classical": 0.0117,
+        "g:Ambient": 0.2701,
+        "g:Soundtrack": 0.029,
+        "g:Folk": 0.0046,
+        "g:Latin": 0.0002,
+        "g:Reggae": 0.0,
+        "g:World": 0.0011,
+        "vocal": 0.0049,
+        "nature": 0.0182,
+        "happy": 0.0023,
+        "sad": 0.0956,
+        "tender": 0.0802,
+        "exciting": 0.0008,
+        "angry": 0.0001,
+        "lullaby": 0.0197
+      },
       "nature": 0.018,
       "model": true,
       "features": {
@@ -715,10 +1027,10 @@
         "key": "C major",
         "keyConf": 0.935
       },
-      "v": 4,
+      "v": 5,
       "size": 4174639,
       "title": "Where the Stream Bends",
-      "analysed": "2026-10-24 12:28"
+      "analysed": "2026-10-25 09:18"
     },
     "u_where_the_light_meets_water_19d646": {
       "genre": "Ambient",
@@ -743,7 +1055,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.994,
+        "Focus": 0.953,
         "Chill": 0.654,
         "Sleep": 0.62,
         "Melancholy": 0.616,
@@ -756,6 +1068,32 @@
       "energy": 0.376,
       "key": "F minor",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0048,
+        "g:Electronic": 0.002,
+        "g:Dance": 0.0005,
+        "g:Jazz": 0.0009,
+        "g:Blues": 0.0013,
+        "g:Classical": 0.0149,
+        "g:Ambient": 0.1178,
+        "g:Soundtrack": 0.0116,
+        "g:Folk": 0.0034,
+        "g:Latin": 0.0026,
+        "g:Reggae": 0.0,
+        "g:World": 0.0012,
+        "vocal": 0.0022,
+        "nature": 0.0066,
+        "happy": 0.0022,
+        "sad": 0.1329,
+        "tender": 0.041,
+        "exciting": 0.0007,
+        "angry": 0.0,
+        "lullaby": 0.0094
+      },
       "nature": 0.007,
       "model": true,
       "features": {
@@ -775,10 +1113,10 @@
         "key": "F minor",
         "keyConf": 0.804
       },
-      "v": 4,
+      "v": 5,
       "size": 4158338,
       "title": "Where the Light Meets Water",
-      "analysed": "2026-10-24 12:28"
+      "analysed": "2026-10-25 09:19"
     },
     "u_canopy_awakening_a708e7": {
       "genre": "Ambient",
@@ -803,7 +1141,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.988,
+        "Focus": 0.935,
         "Chill": 0.683,
         "Sleep": 0.624,
         "Late night": 0.38,
@@ -816,6 +1154,32 @@
       "energy": 0.369,
       "key": "D# major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0009,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0065,
+        "g:Electronic": 0.0119,
+        "g:Dance": 0.0029,
+        "g:Jazz": 0.0009,
+        "g:Blues": 0.0014,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.6331,
+        "g:Soundtrack": 0.0299,
+        "g:Folk": 0.0012,
+        "g:Latin": 0.0007,
+        "g:Reggae": 0.0,
+        "g:World": 0.0007,
+        "vocal": 0.0021,
+        "nature": 0.003,
+        "happy": 0.0024,
+        "sad": 0.1107,
+        "tender": 0.0855,
+        "exciting": 0.0009,
+        "angry": 0.0001,
+        "lullaby": 0.0084
+      },
       "nature": 0.003,
       "model": true,
       "features": {
@@ -835,10 +1199,10 @@
         "key": "D# major",
         "keyConf": 0.761
       },
-      "v": 4,
+      "v": 5,
       "size": 3879350,
       "title": "Canopy Awakening",
-      "analysed": "2026-10-24 12:29"
+      "analysed": "2026-10-25 09:19"
     },
     "u_first_light_in_the_canopy_63bdd3": {
       "genre": "Ambient",
@@ -863,7 +1227,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.981,
+        "Focus": 0.938,
         "Chill": 0.677,
         "Sleep": 0.636,
         "Happy": 0.367,
@@ -876,6 +1240,32 @@
       "energy": 0.361,
       "key": "G# major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0008,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0043,
+        "g:Electronic": 0.0162,
+        "g:Dance": 0.0028,
+        "g:Jazz": 0.0008,
+        "g:Blues": 0.0013,
+        "g:Classical": 0.0021,
+        "g:Ambient": 0.3839,
+        "g:Soundtrack": 0.0212,
+        "g:Folk": 0.0046,
+        "g:Latin": 0.0045,
+        "g:Reggae": 0.0001,
+        "g:World": 0.001,
+        "vocal": 0.0023,
+        "nature": 0.019,
+        "happy": 0.0031,
+        "sad": 0.0624,
+        "tender": 0.0699,
+        "exciting": 0.0008,
+        "angry": 0.0001,
+        "lullaby": 0.015
+      },
       "nature": 0.019,
       "model": true,
       "features": {
@@ -895,10 +1285,10 @@
         "key": "G# major",
         "keyConf": 0.898
       },
-      "v": 4,
+      "v": 5,
       "size": 4317581,
       "title": "First Light In The Canopy",
-      "analysed": "2026-10-24 12:29"
+      "analysed": "2026-10-25 09:19"
     },
     "u_derin_bir_nefes_d2b427": {
       "genre": "R&B",
@@ -918,12 +1308,12 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Late night"
       ],
       "moodScores": {
-        "Focus": 0.792,
-        "Chill": 0.567,
         "Late night": 0.409,
+        "Chill": 0.375,
+        "Energize": 0.324,
         "Happy": 0.299,
         "Melancholy": 0.295
       },
@@ -934,6 +1324,32 @@
       "energy": 0.582,
       "key": "A# major",
       "vocals": 0.035,
+      "signals": {
+        "g:Pop": 0.0196,
+        "g:Rock": 0.0005,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.004,
+        "g:R&B": 0.081,
+        "g:Electronic": 0.0051,
+        "g:Dance": 0.0021,
+        "g:Jazz": 0.0038,
+        "g:Blues": 0.004,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0598,
+        "g:Soundtrack": 0.0098,
+        "g:Folk": 0.0008,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0005,
+        "g:World": 0.0029,
+        "vocal": 0.0353,
+        "nature": 0.0134,
+        "happy": 0.0135,
+        "sad": 0.0474,
+        "tender": 0.0754,
+        "exciting": 0.0027,
+        "angry": 0.0,
+        "lullaby": 0.0423
+      },
       "nature": 0.013,
       "model": true,
       "features": {
@@ -953,10 +1369,10 @@
         "key": "A# major",
         "keyConf": 0.803
       },
-      "v": 4,
+      "v": 5,
       "size": 4350181,
       "title": "Derin Bir Nefes",
-      "analysed": "2026-10-24 12:29"
+      "analysed": "2026-10-25 09:20"
     },
     "u_rare_sea_friends_c07689": {
       "genre": "Electronic",
@@ -979,11 +1395,11 @@
         "Energize"
       ],
       "moodScores": {
-        "Energize": 0.558,
-        "Focus": 0.512,
-        "Party": 0.377,
+        "Energize": 0.608,
+        "Party": 0.473,
         "Happy": 0.343,
-        "Late night": 0.325
+        "Late night": 0.325,
+        "Melancholy": 0.177
       },
       "bpm": 136,
       "tempo": 135.94,
@@ -992,6 +1408,32 @@
       "energy": 0.669,
       "key": "G# major",
       "vocals": 0.033,
+      "signals": {
+        "g:Pop": 0.0441,
+        "g:Rock": 0.004,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.0042,
+        "g:R&B": 0.0114,
+        "g:Electronic": 0.062,
+        "g:Dance": 0.0477,
+        "g:Jazz": 0.0028,
+        "g:Blues": 0.0038,
+        "g:Classical": 0.0007,
+        "g:Ambient": 0.0034,
+        "g:Soundtrack": 0.0249,
+        "g:Folk": 0.0023,
+        "g:Latin": 0.0009,
+        "g:Reggae": 0.0024,
+        "g:World": 0.0082,
+        "vocal": 0.0332,
+        "nature": 0.0024,
+        "happy": 0.0066,
+        "sad": 0.0002,
+        "tender": 0.0015,
+        "exciting": 0.024,
+        "angry": 0.0002,
+        "lullaby": 0.0005
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -1011,10 +1453,10 @@
         "key": "G# major",
         "keyConf": 0.769
       },
-      "v": 4,
+      "v": 5,
       "size": 4295638,
       "title": "Rare Sea Friends",
-      "analysed": "2026-10-24 12:29"
+      "analysed": "2026-10-25 09:20"
     },
     "u_anin_siginagi_9c509a": {
       "genre": "R&B",
@@ -1034,14 +1476,14 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Late night"
       ],
       "moodScores": {
-        "Focus": 0.666,
         "Late night": 0.598,
-        "Chill": 0.462,
         "Melancholy": 0.409,
-        "Energize": 0.322
+        "Energize": 0.397,
+        "Focus": 0.175,
+        "Romantic": 0.122
       },
       "bpm": 86,
       "tempo": 86.07,
@@ -1050,6 +1492,32 @@
       "energy": 0.708,
       "key": "G minor",
       "vocals": 0.024,
+      "signals": {
+        "g:Pop": 0.0179,
+        "g:Rock": 0.001,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0212,
+        "g:R&B": 0.1664,
+        "g:Electronic": 0.0076,
+        "g:Dance": 0.0024,
+        "g:Jazz": 0.0073,
+        "g:Blues": 0.0067,
+        "g:Classical": 0.0008,
+        "g:Ambient": 0.059,
+        "g:Soundtrack": 0.0119,
+        "g:Folk": 0.0006,
+        "g:Latin": 0.0004,
+        "g:Reggae": 0.0032,
+        "g:World": 0.0047,
+        "vocal": 0.0243,
+        "nature": 0.002,
+        "happy": 0.0083,
+        "sad": 0.0297,
+        "tender": 0.0368,
+        "exciting": 0.0046,
+        "angry": 0.0,
+        "lullaby": 0.0072
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -1069,10 +1537,10 @@
         "key": "G minor",
         "keyConf": 0.819
       },
-      "v": 4,
+      "v": 5,
       "size": 6785611,
       "title": "Anin Siginagi",
-      "analysed": "2026-10-24 12:30"
+      "analysed": "2026-10-25 09:20"
     },
     "u_morning_at_the_forest_edge_99d99f": {
       "genre": "Ambient",
@@ -1097,7 +1565,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.958,
+        "Focus": 0.89,
         "Chill": 0.692,
         "Sleep": 0.675,
         "Late night": 0.582,
@@ -1110,6 +1578,32 @@
       "energy": 0.336,
       "key": "D# minor",
       "vocals": 0.004,
+      "signals": {
+        "g:Pop": 0.0008,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0055,
+        "g:Electronic": 0.0045,
+        "g:Dance": 0.0007,
+        "g:Jazz": 0.0012,
+        "g:Blues": 0.0009,
+        "g:Classical": 0.0045,
+        "g:Ambient": 0.497,
+        "g:Soundtrack": 0.0157,
+        "g:Folk": 0.0048,
+        "g:Latin": 0.0017,
+        "g:Reggae": 0.0,
+        "g:World": 0.0012,
+        "vocal": 0.0041,
+        "nature": 0.0005,
+        "happy": 0.0024,
+        "sad": 0.096,
+        "tender": 0.0749,
+        "exciting": 0.0004,
+        "angry": 0.0001,
+        "lullaby": 0.0163
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -1129,10 +1623,10 @@
         "key": "D# minor",
         "keyConf": 0.829
       },
-      "v": 4,
+      "v": 5,
       "size": 7105350,
       "title": "Morning At The Forest Edge",
-      "analysed": "2026-10-24 12:30"
+      "analysed": "2026-10-25 09:21"
     },
     "u_breath_of_the_horizon_d2a176": {
       "genre": "Ambient",
@@ -1157,7 +1651,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.915,
+        "Focus": 0.867,
         "Sleep": 0.695,
         "Chill": 0.686,
         "Late night": 0.373,
@@ -1170,6 +1664,32 @@
       "energy": 0.284,
       "key": "A# major",
       "vocals": 0.001,
+      "signals": {
+        "g:Pop": 0.0007,
+        "g:Rock": 0.0003,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.0027,
+        "g:Electronic": 0.0191,
+        "g:Dance": 0.0017,
+        "g:Jazz": 0.0006,
+        "g:Blues": 0.0007,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.4821,
+        "g:Soundtrack": 0.0217,
+        "g:Folk": 0.0003,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0,
+        "g:World": 0.0005,
+        "vocal": 0.0009,
+        "nature": 0.0002,
+        "happy": 0.0008,
+        "sad": 0.0453,
+        "tender": 0.024,
+        "exciting": 0.0004,
+        "angry": 0.0001,
+        "lullaby": 0.0101
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -1189,10 +1709,10 @@
         "key": "A# major",
         "keyConf": 0.915
       },
-      "v": 4,
+      "v": 5,
       "size": 6975782,
       "title": "Breath of the Horizon",
-      "analysed": "2026-10-24 12:30"
+      "analysed": "2026-10-25 09:21"
     },
     "u_sonsuz_dinginlik_9e7fc5": {
       "genre": "Ambient",
@@ -1217,11 +1737,11 @@
         "Late night"
       ],
       "moodScores": {
-        "Focus": 0.903,
         "Late night": 0.684,
         "Chill": 0.648,
+        "Focus": 0.634,
         "Melancholy": 0.535,
-        "Romantic": 0.364
+        "Romantic": 0.261
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -1230,6 +1750,32 @@
       "energy": 0.46,
       "key": "D# minor",
       "vocals": 0.035,
+      "signals": {
+        "g:Pop": 0.0023,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.009,
+        "g:Electronic": 0.0036,
+        "g:Dance": 0.0008,
+        "g:Jazz": 0.0016,
+        "g:Blues": 0.0022,
+        "g:Classical": 0.0028,
+        "g:Ambient": 0.2566,
+        "g:Soundtrack": 0.0072,
+        "g:Folk": 0.0041,
+        "g:Latin": 0.0178,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0019,
+        "vocal": 0.0354,
+        "nature": 0.0004,
+        "happy": 0.0058,
+        "sad": 0.0705,
+        "tender": 0.0964,
+        "exciting": 0.0006,
+        "angry": 0.0,
+        "lullaby": 0.078
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -1249,10 +1795,10 @@
         "key": "D# minor",
         "keyConf": 0.862
       },
-      "v": 4,
+      "v": 5,
       "size": 7028027,
       "title": "Sonsuz Dinginlik",
-      "analysed": "2026-10-24 12:30"
+      "analysed": "2026-10-25 09:21"
     },
     "u_before_the_world_wakes_5d8163": {
       "genre": "R&B",
@@ -1272,14 +1818,14 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Happy"
       ],
       "moodScores": {
-        "Focus": 0.699,
-        "Chill": 0.527,
         "Happy": 0.481,
-        "Romantic": 0.302,
-        "Energize": 0.302
+        "Energize": 0.373,
+        "Romantic": 0.241,
+        "Late night": 0.214,
+        "Chill": 0.207
       },
       "bpm": 81,
       "tempo": 80.83,
@@ -1288,6 +1834,32 @@
       "energy": 0.662,
       "key": "D# major",
       "vocals": 0.065,
+      "signals": {
+        "g:Pop": 0.0322,
+        "g:Rock": 0.0035,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0059,
+        "g:R&B": 0.0955,
+        "g:Electronic": 0.0066,
+        "g:Dance": 0.0023,
+        "g:Jazz": 0.004,
+        "g:Blues": 0.0085,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0225,
+        "g:Soundtrack": 0.0084,
+        "g:Folk": 0.0028,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0005,
+        "g:World": 0.0043,
+        "vocal": 0.065,
+        "nature": 0.0005,
+        "happy": 0.0343,
+        "sad": 0.0308,
+        "tender": 0.0685,
+        "exciting": 0.0053,
+        "angry": 0.0,
+        "lullaby": 0.0391
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -1307,10 +1879,10 @@
         "key": "D# major",
         "keyConf": 0.899
       },
-      "v": 4,
+      "v": 5,
       "size": 4308177,
       "title": "Before the World Wakes",
-      "analysed": "2026-10-24 12:35"
+      "analysed": "2026-10-25 09:12"
     },
     "u_beneath_the_alpine_canopy_caa4fa": {
       "genre": "Ambient",
@@ -1334,11 +1906,11 @@
         "Focus"
       ],
       "moodScores": {
-        "Focus": 0.962,
+        "Focus": 0.919,
         "Chill": 0.638,
         "Happy": 0.408,
         "Late night": 0.296,
-        "Romantic": 0.271
+        "Energize": 0.233
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -1347,6 +1919,32 @@
       "energy": 0.421,
       "key": "F major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0008,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0003,
+        "g:R&B": 0.0033,
+        "g:Electronic": 0.013,
+        "g:Dance": 0.0034,
+        "g:Jazz": 0.0012,
+        "g:Blues": 0.001,
+        "g:Classical": 0.0005,
+        "g:Ambient": 0.5129,
+        "g:Soundtrack": 0.0191,
+        "g:Folk": 0.0008,
+        "g:Latin": 0.0002,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0008,
+        "vocal": 0.0022,
+        "nature": 0.0505,
+        "happy": 0.0033,
+        "sad": 0.0277,
+        "tender": 0.0483,
+        "exciting": 0.0012,
+        "angry": 0.0001,
+        "lullaby": 0.0064
+      },
       "nature": 0.05,
       "model": true,
       "features": {
@@ -1366,10 +1964,10 @@
         "key": "F major",
         "keyConf": 0.962
       },
-      "v": 4,
+      "v": 5,
       "size": 4191566,
       "title": "Beneath the Alpine Canopy",
-      "analysed": "2026-10-24 12:31"
+      "analysed": "2026-10-25 09:22"
     },
     "u_where_the_pines_sigh_a601de": {
       "genre": "Ambient",
@@ -1394,7 +1992,7 @@
         "Sleep"
       ],
       "moodScores": {
-        "Focus": 0.962,
+        "Focus": 0.914,
         "Chill": 0.665,
         "Sleep": 0.65,
         "Late night": 0.357,
@@ -1407,6 +2005,32 @@
       "energy": 0.338,
       "key": "F major",
       "vocals": 0.001,
+      "signals": {
+        "g:Pop": 0.0005,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0001,
+        "g:R&B": 0.002,
+        "g:Electronic": 0.0189,
+        "g:Dance": 0.0049,
+        "g:Jazz": 0.0007,
+        "g:Blues": 0.0008,
+        "g:Classical": 0.0014,
+        "g:Ambient": 0.564,
+        "g:Soundtrack": 0.0109,
+        "g:Folk": 0.0006,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0,
+        "g:World": 0.0004,
+        "vocal": 0.0014,
+        "nature": 0.0178,
+        "happy": 0.0012,
+        "sad": 0.0264,
+        "tender": 0.0299,
+        "exciting": 0.0007,
+        "angry": 0.0001,
+        "lullaby": 0.0068
+      },
       "nature": 0.018,
       "model": true,
       "features": {
@@ -1426,10 +2050,10 @@
         "key": "F major",
         "keyConf": 0.887
       },
-      "v": 4,
+      "v": 5,
       "size": 4146426,
       "title": "Where the Pines Sigh",
-      "analysed": "2026-10-24 12:31"
+      "analysed": "2026-10-25 09:22"
     },
     "u_where_moss_meets_water_b5d720": {
       "genre": "Ambient",
@@ -1453,7 +2077,7 @@
         "Focus"
       ],
       "moodScores": {
-        "Focus": 0.98,
+        "Focus": 0.941,
         "Chill": 0.649,
         "Sleep": 0.594,
         "Happy": 0.367,
@@ -1466,6 +2090,32 @@
       "energy": 0.4,
       "key": "F major",
       "vocals": 0.002,
+      "signals": {
+        "g:Pop": 0.0008,
+        "g:Rock": 0.0004,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0002,
+        "g:R&B": 0.004,
+        "g:Electronic": 0.0109,
+        "g:Dance": 0.0018,
+        "g:Jazz": 0.0006,
+        "g:Blues": 0.0008,
+        "g:Classical": 0.0022,
+        "g:Ambient": 0.4915,
+        "g:Soundtrack": 0.0192,
+        "g:Folk": 0.0009,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0,
+        "g:World": 0.0006,
+        "vocal": 0.0018,
+        "nature": 0.0757,
+        "happy": 0.0015,
+        "sad": 0.038,
+        "tender": 0.052,
+        "exciting": 0.0008,
+        "angry": 0.0001,
+        "lullaby": 0.0076
+      },
       "nature": 0.076,
       "model": true,
       "features": {
@@ -1485,10 +2135,10 @@
         "key": "F major",
         "keyConf": 0.893
       },
-      "v": 4,
+      "v": 5,
       "size": 3878096,
       "title": "Where Moss Meets Water",
-      "analysed": "2026-10-24 12:31"
+      "analysed": "2026-10-25 09:22"
     },
     "u_slow_tide_rising_efaca4": {
       "genre": "Ambient",
@@ -1508,15 +2158,14 @@
         ]
       ],
       "moods": [
-        "Chill",
-        "Focus"
+        "Chill"
       ],
       "moodScores": {
-        "Focus": 0.899,
         "Chill": 0.618,
+        "Focus": 0.538,
         "Late night": 0.373,
         "Happy": 0.365,
-        "Romantic": 0.292
+        "Energize": 0.25
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -1525,6 +2174,32 @@
       "energy": 0.452,
       "key": "B major",
       "vocals": 0.051,
+      "signals": {
+        "g:Pop": 0.0025,
+        "g:Rock": 0.0005,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0004,
+        "g:R&B": 0.0115,
+        "g:Electronic": 0.0102,
+        "g:Dance": 0.0039,
+        "g:Jazz": 0.0018,
+        "g:Blues": 0.0012,
+        "g:Classical": 0.0021,
+        "g:Ambient": 0.4268,
+        "g:Soundtrack": 0.0154,
+        "g:Folk": 0.0018,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0023,
+        "vocal": 0.0508,
+        "nature": 0.0004,
+        "happy": 0.0052,
+        "sad": 0.0224,
+        "tender": 0.0379,
+        "exciting": 0.001,
+        "angry": 0.0001,
+        "lullaby": 0.0186
+      },
       "nature": 0.0,
       "model": true,
       "features": {
@@ -1544,10 +2219,10 @@
         "key": "B major",
         "keyConf": 0.954
       },
-      "v": 4,
+      "v": 5,
       "size": 4157711,
       "title": "Slow Tide Rising",
-      "analysed": "2026-10-24 12:31"
+      "analysed": "2026-10-25 09:23"
     },
     "u_blue_hour_drift_5bc9fd": {
       "genre": "Ambient",
@@ -1572,7 +2247,7 @@
         "Late night"
       ],
       "moodScores": {
-        "Focus": 0.958,
+        "Focus": 0.75,
         "Late night": 0.709,
         "Chill": 0.65,
         "Sleep": 0.619,
@@ -1585,6 +2260,32 @@
       "energy": 0.406,
       "key": "G# minor",
       "vocals": 0.025,
+      "signals": {
+        "g:Pop": 0.0015,
+        "g:Rock": 0.0005,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0002,
+        "g:R&B": 0.0106,
+        "g:Electronic": 0.0104,
+        "g:Dance": 0.0024,
+        "g:Jazz": 0.0013,
+        "g:Blues": 0.001,
+        "g:Classical": 0.001,
+        "g:Ambient": 0.5542,
+        "g:Soundtrack": 0.017,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0021,
+        "vocal": 0.0254,
+        "nature": 0.0006,
+        "happy": 0.004,
+        "sad": 0.0331,
+        "tender": 0.058,
+        "exciting": 0.0008,
+        "angry": 0.0001,
+        "lullaby": 0.0405
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -1604,10 +2305,10 @@
         "key": "G# minor",
         "keyConf": 0.829
       },
-      "v": 4,
+      "v": 5,
       "size": 4336389,
       "title": "Blue Hour Drift",
-      "analysed": "2026-10-24 12:32"
+      "analysed": "2026-10-25 09:23"
     },
     "u_midnight_alignment_be1ef2": {
       "genre": "Ambient",
@@ -1627,14 +2328,16 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Party",
+        "Happy"
       ],
       "moodScores": {
-        "Focus": 0.582,
+        "Party": 0.515,
+        "Energize": 0.495,
         "Happy": 0.453,
-        "Energize": 0.412,
-        "Party": 0.342,
-        "Chill": 0.339
+        "Late night": 0.227,
+        "Chill": 0.21
       },
       "bpm": 120,
       "tempo": 120.17,
@@ -1643,6 +2346,32 @@
       "energy": 0.594,
       "key": "G# major",
       "vocals": 0.061,
+      "signals": {
+        "g:Pop": 0.0654,
+        "g:Rock": 0.0014,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0027,
+        "g:R&B": 0.0183,
+        "g:Electronic": 0.0514,
+        "g:Dance": 0.0311,
+        "g:Jazz": 0.0032,
+        "g:Blues": 0.0031,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0686,
+        "g:Soundtrack": 0.0133,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0004,
+        "g:World": 0.0361,
+        "vocal": 0.0606,
+        "nature": 0.0035,
+        "happy": 0.0087,
+        "sad": 0.0055,
+        "tender": 0.0111,
+        "exciting": 0.0144,
+        "angry": 0.0002,
+        "lullaby": 0.0033
+      },
       "nature": 0.004,
       "model": true,
       "features": {
@@ -1662,10 +2391,10 @@
         "key": "G# major",
         "keyConf": 0.936
       },
-      "v": 4,
+      "v": 5,
       "size": 4347675,
       "title": "Midnight Alignment",
-      "analysed": "2026-10-24 12:34"
+      "analysed": "2026-10-25 09:11"
     },
     "u_golden_motion_b1346b": {
       "genre": "Pop",
@@ -1685,14 +2414,14 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Party"
       ],
       "moodScores": {
-        "Focus": 0.512,
+        "Party": 0.671,
+        "Energize": 0.551,
         "Happy": 0.486,
         "Workout": 0.484,
-        "Energize": 0.452,
-        "Party": 0.451
+        "Late night": 0.179
       },
       "bpm": 120,
       "tempo": 120.17,
@@ -1701,6 +2430,32 @@
       "energy": 0.668,
       "key": "G# major",
       "vocals": 0.064,
+      "signals": {
+        "g:Pop": 0.1173,
+        "g:Rock": 0.0021,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0039,
+        "g:R&B": 0.0441,
+        "g:Electronic": 0.0444,
+        "g:Dance": 0.0445,
+        "g:Jazz": 0.0051,
+        "g:Blues": 0.0056,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.003,
+        "g:Soundtrack": 0.0145,
+        "g:Folk": 0.0023,
+        "g:Latin": 0.0007,
+        "g:Reggae": 0.0018,
+        "g:World": 0.0442,
+        "vocal": 0.0637,
+        "nature": 0.0021,
+        "happy": 0.0185,
+        "sad": 0.0013,
+        "tender": 0.0039,
+        "exciting": 0.024,
+        "angry": 0.0003,
+        "lullaby": 0.0018
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -1720,10 +2475,10 @@
         "key": "G# major",
         "keyConf": 0.869
       },
-      "v": 4,
+      "v": 5,
       "size": 4328240,
       "title": "Golden Motion",
-      "analysed": "2026-10-24 12:35"
+      "analysed": "2026-10-25 09:11"
     },
     "u_king_of_the_empty_town_ad5f5c": {
       "genre": "Dance",
@@ -1743,14 +2498,15 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Party"
       ],
       "moodScores": {
+        "Party": 0.657,
+        "Energize": 0.615,
         "Workout": 0.544,
-        "Energize": 0.505,
-        "Party": 0.493,
-        "Focus": 0.461,
-        "Happy": 0.338
+        "Happy": 0.338,
+        "Late night": 0.328
       },
       "bpm": 123,
       "tempo": 123.08,
@@ -1759,6 +2515,32 @@
       "energy": 0.73,
       "key": "G# major",
       "vocals": 0.036,
+      "signals": {
+        "g:Pop": 0.0776,
+        "g:Rock": 0.0017,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0076,
+        "g:R&B": 0.0254,
+        "g:Electronic": 0.0601,
+        "g:Dance": 0.1035,
+        "g:Jazz": 0.0049,
+        "g:Blues": 0.0066,
+        "g:Classical": 0.0009,
+        "g:Ambient": 0.0029,
+        "g:Soundtrack": 0.0202,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.002,
+        "g:Reggae": 0.0038,
+        "g:World": 0.0301,
+        "vocal": 0.0363,
+        "nature": 0.0034,
+        "happy": 0.0124,
+        "sad": 0.0007,
+        "tender": 0.0047,
+        "exciting": 0.0317,
+        "angry": 0.0002,
+        "lullaby": 0.0012
+      },
       "nature": 0.003,
       "model": true,
       "features": {
@@ -1778,10 +2560,10 @@
         "key": "G# major",
         "keyConf": 0.786
       },
-      "v": 4,
+      "v": 5,
       "size": 4377768,
       "title": "King of the Empty Town",
-      "analysed": "2026-10-24 12:35"
+      "analysed": "2026-10-25 09:12"
     },
     "u_song_dab241": {
       "genre": "Pop",
@@ -1804,11 +2586,11 @@
         "Energize"
       ],
       "moodScores": {
-        "Energize": 0.504,
-        "Focus": 0.462,
+        "Energize": 0.595,
+        "Party": 0.483,
         "Late night": 0.452,
-        "Party": 0.42,
-        "Melancholy": 0.298
+        "Melancholy": 0.298,
+        "Happy": 0.214
       },
       "bpm": 126,
       "tempo": 126.09,
@@ -1817,6 +2599,32 @@
       "energy": 0.706,
       "key": "A# minor",
       "vocals": 0.06,
+      "signals": {
+        "g:Pop": 0.088,
+        "g:Rock": 0.0013,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0528,
+        "g:R&B": 0.0414,
+        "g:Electronic": 0.0325,
+        "g:Dance": 0.0144,
+        "g:Jazz": 0.0047,
+        "g:Blues": 0.0042,
+        "g:Classical": 0.0018,
+        "g:Ambient": 0.0028,
+        "g:Soundtrack": 0.015,
+        "g:Folk": 0.0118,
+        "g:Latin": 0.0048,
+        "g:Reggae": 0.0085,
+        "g:World": 0.044,
+        "vocal": 0.0598,
+        "nature": 0.0017,
+        "happy": 0.0079,
+        "sad": 0.0009,
+        "tender": 0.0039,
+        "exciting": 0.0176,
+        "angry": 0.0002,
+        "lullaby": 0.0008
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -1836,10 +2644,10 @@
         "key": "A# minor",
         "keyConf": 0.716
       },
-      "v": 4,
+      "v": 5,
       "size": 4352690,
       "title": "오늘 밤의 주인공",
-      "analysed": "2026-10-24 12:35"
+      "analysed": "2026-10-25 09:12"
     },
     "u_glavnyy_znak_cb5d46": {
       "genre": "Dance",
@@ -1859,14 +2667,15 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Party"
       ],
       "moodScores": {
-        "Focus": 0.5,
-        "Energize": 0.467,
-        "Party": 0.445,
+        "Party": 0.572,
+        "Energize": 0.571,
         "Late night": 0.386,
-        "Chill": 0.287
+        "Happy": 0.286,
+        "Melancholy": 0.243
       },
       "bpm": 120,
       "tempo": 120.24,
@@ -1875,6 +2684,32 @@
       "energy": 0.698,
       "key": "A# minor",
       "vocals": 0.042,
+      "signals": {
+        "g:Pop": 0.0713,
+        "g:Rock": 0.0015,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0069,
+        "g:R&B": 0.0199,
+        "g:Electronic": 0.0413,
+        "g:Dance": 0.096,
+        "g:Jazz": 0.0061,
+        "g:Blues": 0.0052,
+        "g:Classical": 0.0014,
+        "g:Ambient": 0.0015,
+        "g:Soundtrack": 0.0194,
+        "g:Folk": 0.0037,
+        "g:Latin": 0.0054,
+        "g:Reggae": 0.0108,
+        "g:World": 0.0655,
+        "vocal": 0.0423,
+        "nature": 0.0022,
+        "happy": 0.0133,
+        "sad": 0.0004,
+        "tender": 0.0023,
+        "exciting": 0.0256,
+        "angry": 0.0001,
+        "lullaby": 0.0006
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -1894,10 +2729,10 @@
         "key": "A# minor",
         "keyConf": 0.619
       },
-      "v": 4,
+      "v": 5,
       "size": 4375887,
       "title": "Glavnyy znak",
-      "analysed": "2026-10-24 12:36"
+      "analysed": "2026-10-25 09:13"
     },
     "u_sunrise_masters_6f50c6": {
       "genre": "Pop",
@@ -1917,14 +2752,15 @@
         ]
       ],
       "moods": [
-        "Late night"
+        "Energize",
+        "Party"
       ],
       "moodScores": {
+        "Energize": 0.575,
+        "Party": 0.521,
         "Late night": 0.495,
-        "Focus": 0.482,
-        "Energize": 0.471,
-        "Party": 0.451,
-        "Melancholy": 0.342
+        "Melancholy": 0.342,
+        "Happy": 0.197
       },
       "bpm": 120,
       "tempo": 120.07,
@@ -1933,6 +2769,32 @@
       "energy": 0.71,
       "key": "A# minor",
       "vocals": 0.053,
+      "signals": {
+        "g:Pop": 0.1157,
+        "g:Rock": 0.0019,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0098,
+        "g:R&B": 0.042,
+        "g:Electronic": 0.0629,
+        "g:Dance": 0.0607,
+        "g:Jazz": 0.0066,
+        "g:Blues": 0.0048,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.0016,
+        "g:Soundtrack": 0.0139,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.0016,
+        "g:Reggae": 0.0073,
+        "g:World": 0.0344,
+        "vocal": 0.0531,
+        "nature": 0.0032,
+        "happy": 0.0133,
+        "sad": 0.0008,
+        "tender": 0.0031,
+        "exciting": 0.0248,
+        "angry": 0.0001,
+        "lullaby": 0.0015
+      },
       "nature": 0.003,
       "model": true,
       "features": {
@@ -1952,10 +2814,10 @@
         "key": "A# minor",
         "keyConf": 0.766
       },
-      "v": 4,
+      "v": 5,
       "size": 4345167,
       "title": "Sunrise Masters",
-      "analysed": "2026-10-24 12:36"
+      "analysed": "2026-10-25 09:13"
     },
     "u_the_emptiness_we_are_c77ab4": {
       "genre": "Ambient",
@@ -1975,14 +2837,15 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Happy",
+        "Chill"
       ],
       "moodScores": {
-        "Focus": 0.796,
-        "Chill": 0.561,
         "Happy": 0.425,
-        "Late night": 0.281,
-        "Romantic": 0.277
+        "Chill": 0.407,
+        "Focus": 0.335,
+        "Energize": 0.325,
+        "Late night": 0.281
       },
       "bpm": 64,
       "tempo": 64.0,
@@ -1991,6 +2854,32 @@
       "energy": 0.562,
       "key": "F# major",
       "vocals": 0.054,
+      "signals": {
+        "g:Pop": 0.0364,
+        "g:Rock": 0.0019,
+        "g:Metal": 0.0007,
+        "g:Hip-Hop": 0.0013,
+        "g:R&B": 0.0163,
+        "g:Electronic": 0.0073,
+        "g:Dance": 0.0024,
+        "g:Jazz": 0.0051,
+        "g:Blues": 0.0032,
+        "g:Classical": 0.0036,
+        "g:Ambient": 0.064,
+        "g:Soundtrack": 0.0202,
+        "g:Folk": 0.0079,
+        "g:Latin": 0.0005,
+        "g:Reggae": 0.0004,
+        "g:World": 0.0083,
+        "vocal": 0.0539,
+        "nature": 0.0009,
+        "happy": 0.0194,
+        "sad": 0.0421,
+        "tender": 0.0255,
+        "exciting": 0.0093,
+        "angry": 0.0002,
+        "lullaby": 0.0362
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -2010,10 +2899,10 @@
         "key": "F# major",
         "keyConf": 0.927
       },
-      "v": 4,
+      "v": 5,
       "size": 4355825,
       "title": "The Emptiness We Are",
-      "analysed": "2026-10-24 12:36"
+      "analysed": "2026-10-25 09:14"
     },
     "u_avenues_of_chrome_7fe046": {
       "genre": "Pop",
@@ -2033,14 +2922,16 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Party",
+        "Late night"
       ],
       "moodScores": {
-        "Focus": 0.565,
+        "Energize": 0.526,
         "Late night": 0.476,
-        "Energize": 0.44,
-        "Party": 0.368,
-        "Chill": 0.331
+        "Party": 0.465,
+        "Melancholy": 0.285,
+        "Happy": 0.246
       },
       "bpm": 123,
       "tempo": 123.01,
@@ -2049,6 +2940,32 @@
       "energy": 0.605,
       "key": "A# minor",
       "vocals": 0.052,
+      "signals": {
+        "g:Pop": 0.0961,
+        "g:Rock": 0.0018,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.0235,
+        "g:R&B": 0.0887,
+        "g:Electronic": 0.0709,
+        "g:Dance": 0.073,
+        "g:Jazz": 0.0051,
+        "g:Blues": 0.0055,
+        "g:Classical": 0.0025,
+        "g:Ambient": 0.0031,
+        "g:Soundtrack": 0.0106,
+        "g:Folk": 0.0018,
+        "g:Latin": 0.0013,
+        "g:Reggae": 0.0071,
+        "g:World": 0.0253,
+        "vocal": 0.0516,
+        "nature": 0.0042,
+        "happy": 0.0101,
+        "sad": 0.0016,
+        "tender": 0.0057,
+        "exciting": 0.0198,
+        "angry": 0.0002,
+        "lullaby": 0.0017
+      },
       "nature": 0.004,
       "model": true,
       "features": {
@@ -2068,10 +2985,10 @@
         "key": "A# minor",
         "keyConf": 0.813
       },
-      "v": 4,
+      "v": 5,
       "size": 4358333,
       "title": "Avenues of Chrome",
-      "analysed": "2026-10-24 12:36"
+      "analysed": "2026-10-25 09:14"
     },
     "u_velvet_midnight_f23880": {
       "genre": "Pop",
@@ -2091,14 +3008,15 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Party"
       ],
       "moodScores": {
-        "Focus": 0.504,
-        "Energize": 0.479,
-        "Party": 0.427,
+        "Party": 0.584,
+        "Energize": 0.581,
         "Late night": 0.392,
-        "Happy": 0.308
+        "Happy": 0.308,
+        "Melancholy": 0.217
       },
       "bpm": 123,
       "tempo": 123.12,
@@ -2107,6 +3025,32 @@
       "energy": 0.676,
       "key": "A# minor",
       "vocals": 0.043,
+      "signals": {
+        "g:Pop": 0.1281,
+        "g:Rock": 0.0023,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.0117,
+        "g:R&B": 0.0637,
+        "g:Electronic": 0.0651,
+        "g:Dance": 0.0733,
+        "g:Jazz": 0.0066,
+        "g:Blues": 0.0076,
+        "g:Classical": 0.0009,
+        "g:Ambient": 0.0035,
+        "g:Soundtrack": 0.0188,
+        "g:Folk": 0.002,
+        "g:Latin": 0.0008,
+        "g:Reggae": 0.0048,
+        "g:World": 0.017,
+        "vocal": 0.0432,
+        "nature": 0.0023,
+        "happy": 0.0157,
+        "sad": 0.0012,
+        "tender": 0.0051,
+        "exciting": 0.0294,
+        "angry": 0.0002,
+        "lullaby": 0.0013
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -2126,10 +3070,10 @@
         "key": "A# minor",
         "keyConf": 0.527
       },
-      "v": 4,
+      "v": 5,
       "size": 4375887,
       "title": "Velvet Midnight",
-      "analysed": "2026-10-24 12:37"
+      "analysed": "2026-10-25 09:14"
     },
     "u_o_kalabalikta_a88601": {
       "genre": "World",
@@ -2149,14 +3093,16 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Workout",
+        "Party"
       ],
       "moodScores": {
+        "Energize": 0.619,
         "Workout": 0.58,
-        "Energize": 0.515,
-        "Party": 0.473,
-        "Focus": 0.423,
-        "Happy": 0.326
+        "Party": 0.567,
+        "Happy": 0.326,
+        "Late night": 0.317
       },
       "bpm": 123,
       "tempo": 123.06,
@@ -2165,6 +3111,32 @@
       "energy": 0.769,
       "key": "G minor",
       "vocals": 0.048,
+      "signals": {
+        "g:Pop": 0.0425,
+        "g:Rock": 0.001,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0048,
+        "g:R&B": 0.019,
+        "g:Electronic": 0.0342,
+        "g:Dance": 0.0658,
+        "g:Jazz": 0.0034,
+        "g:Blues": 0.0062,
+        "g:Classical": 0.0021,
+        "g:Ambient": 0.0039,
+        "g:Soundtrack": 0.0157,
+        "g:Folk": 0.0083,
+        "g:Latin": 0.0092,
+        "g:Reggae": 0.0042,
+        "g:World": 0.0662,
+        "vocal": 0.0484,
+        "nature": 0.0023,
+        "happy": 0.0145,
+        "sad": 0.0012,
+        "tender": 0.0044,
+        "exciting": 0.0217,
+        "angry": 0.0,
+        "lullaby": 0.0008
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -2184,10 +3156,10 @@
         "key": "G minor",
         "keyConf": 0.406
       },
-      "v": 4,
+      "v": 5,
       "size": 4310224,
       "title": "O Kalabalıkta",
-      "analysed": "2026-10-24 13:50"
+      "analysed": "2026-10-25 09:07"
     },
     "u_heat_in_the_cold_617ca0": {
       "genre": "Pop",
@@ -2207,14 +3179,16 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Workout",
+        "Party"
       ],
       "moodScores": {
+        "Energize": 0.597,
+        "Party": 0.591,
         "Workout": 0.538,
-        "Energize": 0.496,
-        "Focus": 0.461,
-        "Party": 0.453,
-        "Happy": 0.374
+        "Happy": 0.374,
+        "Late night": 0.281
       },
       "bpm": 123,
       "tempo": 123.01,
@@ -2223,6 +3197,32 @@
       "energy": 0.725,
       "key": "A# major",
       "vocals": 0.048,
+      "signals": {
+        "g:Pop": 0.0948,
+        "g:Rock": 0.0013,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0059,
+        "g:R&B": 0.0422,
+        "g:Electronic": 0.0437,
+        "g:Dance": 0.065,
+        "g:Jazz": 0.0047,
+        "g:Blues": 0.007,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0061,
+        "g:Soundtrack": 0.0197,
+        "g:Folk": 0.002,
+        "g:Latin": 0.0021,
+        "g:Reggae": 0.0026,
+        "g:World": 0.043,
+        "vocal": 0.048,
+        "nature": 0.0017,
+        "happy": 0.0147,
+        "sad": 0.002,
+        "tender": 0.0071,
+        "exciting": 0.0229,
+        "angry": 0.0001,
+        "lullaby": 0.0019
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -2242,10 +3242,10 @@
         "key": "A# major",
         "keyConf": 0.67
       },
-      "v": 4,
+      "v": 5,
       "size": 4293131,
       "title": "Heat in the Cold",
-      "analysed": "2026-10-24 13:51"
+      "analysed": "2026-10-25 09:08"
     },
     "u_haloes_in_the_blue_hour_ca4202": {
       "genre": "Pop",
@@ -2265,14 +3265,16 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Party",
+        "Happy"
       ],
       "moodScores": {
-        "Focus": 0.577,
+        "Party": 0.515,
+        "Energize": 0.497,
         "Happy": 0.473,
-        "Energize": 0.416,
-        "Party": 0.353,
-        "Chill": 0.339
+        "Late night": 0.22,
+        "Chill": 0.193
       },
       "bpm": 120,
       "tempo": 120.11,
@@ -2281,6 +3283,32 @@
       "energy": 0.61,
       "key": "F major",
       "vocals": 0.052,
+      "signals": {
+        "g:Pop": 0.0588,
+        "g:Rock": 0.0024,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0029,
+        "g:R&B": 0.0297,
+        "g:Electronic": 0.0186,
+        "g:Dance": 0.01,
+        "g:Jazz": 0.0029,
+        "g:Blues": 0.0034,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0284,
+        "g:Soundtrack": 0.0113,
+        "g:Folk": 0.0032,
+        "g:Latin": 0.0004,
+        "g:Reggae": 0.0003,
+        "g:World": 0.0073,
+        "vocal": 0.0523,
+        "nature": 0.0015,
+        "happy": 0.0239,
+        "sad": 0.0127,
+        "tender": 0.0238,
+        "exciting": 0.0106,
+        "angry": 0.0001,
+        "lullaby": 0.0191
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -2300,10 +3328,10 @@
         "key": "F major",
         "keyConf": 0.948
       },
-      "v": 4,
+      "v": 5,
       "size": 4211002,
       "title": "Haloes in the Blue Hour",
-      "analysed": "2026-10-24 13:51"
+      "analysed": "2026-10-25 09:08"
     },
     "u_electric_fire_7cd2be": {
       "genre": "Dance",
@@ -2323,14 +3351,16 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Workout",
+        "Party"
       ],
       "moodScores": {
+        "Party": 0.653,
+        "Energize": 0.644,
         "Workout": 0.604,
-        "Party": 0.561,
-        "Energize": 0.532,
         "Late night": 0.447,
-        "Focus": 0.415
+        "Melancholy": 0.331
       },
       "bpm": 123,
       "tempo": 123.05,
@@ -2339,6 +3369,32 @@
       "energy": 0.797,
       "key": "G minor",
       "vocals": 0.043,
+      "signals": {
+        "g:Pop": 0.0838,
+        "g:Rock": 0.0017,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0109,
+        "g:R&B": 0.0157,
+        "g:Electronic": 0.0641,
+        "g:Dance": 0.1196,
+        "g:Jazz": 0.005,
+        "g:Blues": 0.0059,
+        "g:Classical": 0.001,
+        "g:Ambient": 0.0015,
+        "g:Soundtrack": 0.0201,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.003,
+        "g:Reggae": 0.0101,
+        "g:World": 0.0437,
+        "vocal": 0.0429,
+        "nature": 0.0051,
+        "happy": 0.0089,
+        "sad": 0.0002,
+        "tender": 0.0015,
+        "exciting": 0.0271,
+        "angry": 0.0002,
+        "lullaby": 0.0003
+      },
       "nature": 0.005,
       "model": true,
       "features": {
@@ -2358,10 +3414,10 @@
         "key": "G minor",
         "keyConf": 0.793
       },
-      "v": 4,
+      "v": 5,
       "size": 4328866,
       "title": "Electric Fire",
-      "analysed": "2026-10-24 13:51"
+      "analysed": "2026-10-25 09:08"
     },
     "u_bogaz_da_bir_gece_f93dba": {
       "genre": "Dance",
@@ -2381,14 +3437,16 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Workout",
+        "Party"
       ],
       "moodScores": {
+        "Energize": 0.66,
         "Workout": 0.635,
-        "Party": 0.551,
-        "Energize": 0.544,
+        "Party": 0.602,
         "Late night": 0.44,
-        "Focus": 0.415
+        "Melancholy": 0.322
       },
       "bpm": 123,
       "tempo": 123.02,
@@ -2397,6 +3455,32 @@
       "energy": 0.822,
       "key": "G minor",
       "vocals": 0.042,
+      "signals": {
+        "g:Pop": 0.0749,
+        "g:Rock": 0.0013,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0079,
+        "g:R&B": 0.0156,
+        "g:Electronic": 0.0411,
+        "g:Dance": 0.0919,
+        "g:Jazz": 0.005,
+        "g:Blues": 0.0043,
+        "g:Classical": 0.0028,
+        "g:Ambient": 0.0018,
+        "g:Soundtrack": 0.0185,
+        "g:Folk": 0.0042,
+        "g:Latin": 0.0065,
+        "g:Reggae": 0.0068,
+        "g:World": 0.0709,
+        "vocal": 0.0424,
+        "nature": 0.002,
+        "happy": 0.0117,
+        "sad": 0.0005,
+        "tender": 0.0029,
+        "exciting": 0.0287,
+        "angry": 0.0001,
+        "lullaby": 0.0006
+      },
       "nature": 0.002,
       "model": true,
       "features": {
@@ -2416,10 +3500,10 @@
         "key": "G minor",
         "keyConf": 0.592
       },
-      "v": 4,
+      "v": 5,
       "size": 4354571,
       "title": "Boğaz da Bir Gece",
-      "analysed": "2026-10-24 13:52"
+      "analysed": "2026-10-25 09:09"
     },
     "u_song_b67421": {
       "genre": "R&B",
@@ -2439,14 +3523,15 @@
         ]
       ],
       "moods": [
+        "Energize",
         "Workout"
       ],
       "moodScores": {
+        "Energize": 0.589,
         "Workout": 0.525,
-        "Energize": 0.489,
-        "Focus": 0.481,
+        "Party": 0.486,
         "Late night": 0.468,
-        "Party": 0.432
+        "Melancholy": 0.307
       },
       "bpm": 123,
       "tempo": 123.02,
@@ -2455,6 +3540,32 @@
       "energy": 0.706,
       "key": "D minor",
       "vocals": 0.043,
+      "signals": {
+        "g:Pop": 0.0839,
+        "g:Rock": 0.0015,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0102,
+        "g:R&B": 0.0895,
+        "g:Electronic": 0.0534,
+        "g:Dance": 0.0516,
+        "g:Jazz": 0.0048,
+        "g:Blues": 0.0061,
+        "g:Classical": 0.0014,
+        "g:Ambient": 0.0162,
+        "g:Soundtrack": 0.0193,
+        "g:Folk": 0.0012,
+        "g:Latin": 0.0005,
+        "g:Reggae": 0.0015,
+        "g:World": 0.0173,
+        "vocal": 0.0431,
+        "nature": 0.0027,
+        "happy": 0.0104,
+        "sad": 0.0044,
+        "tender": 0.0125,
+        "exciting": 0.0244,
+        "angry": 0.0001,
+        "lullaby": 0.0041
+      },
       "nature": 0.003,
       "model": true,
       "features": {
@@ -2474,10 +3585,10 @@
         "key": "D minor",
         "keyConf": 0.635
       },
-      "v": 4,
+      "v": 5,
       "size": 4337644,
       "title": "В свете фар",
-      "analysed": "2026-10-24 13:52"
+      "analysed": "2026-10-25 09:09"
     },
     "u_burning_paradise_408bcb": {
       "genre": "Pop",
@@ -2497,14 +3608,16 @@
         ]
       ],
       "moods": [
-        "Workout"
+        "Energize",
+        "Workout",
+        "Party"
       ],
       "moodScores": {
+        "Energize": 0.607,
+        "Party": 0.605,
         "Workout": 0.548,
-        "Energize": 0.495,
-        "Party": 0.493,
-        "Focus": 0.424,
-        "Late night": 0.322
+        "Late night": 0.322,
+        "Happy": 0.3
       },
       "bpm": 120,
       "tempo": 120.3,
@@ -2513,6 +3626,32 @@
       "energy": 0.754,
       "key": "G minor",
       "vocals": 0.076,
+      "signals": {
+        "g:Pop": 0.1104,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0009,
+        "g:Hip-Hop": 0.0376,
+        "g:R&B": 0.0248,
+        "g:Electronic": 0.0254,
+        "g:Dance": 0.0239,
+        "g:Jazz": 0.0055,
+        "g:Blues": 0.0038,
+        "g:Classical": 0.001,
+        "g:Ambient": 0.0016,
+        "g:Soundtrack": 0.0109,
+        "g:Folk": 0.0009,
+        "g:Latin": 0.0047,
+        "g:Reggae": 0.0325,
+        "g:World": 0.0781,
+        "vocal": 0.0762,
+        "nature": 0.0033,
+        "happy": 0.0067,
+        "sad": 0.0002,
+        "tender": 0.0017,
+        "exciting": 0.0287,
+        "angry": 0.0002,
+        "lullaby": 0.0003
+      },
       "nature": 0.003,
       "model": true,
       "features": {
@@ -2532,10 +3671,10 @@
         "key": "G minor",
         "keyConf": 0.726
       },
-      "v": 4,
+      "v": 5,
       "size": 4348929,
       "title": "Burning Paradise",
-      "analysed": "2026-10-24 13:52"
+      "analysed": "2026-10-25 09:10"
     },
     "u_permanent_threat_29f3e4": {
       "genre": "Hip-Hop",
@@ -2555,14 +3694,15 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize",
+        "Late night"
       ],
       "moodScores": {
-        "Focus": 0.524,
         "Late night": 0.482,
-        "Chill": 0.37,
-        "Energize": 0.353,
-        "Melancholy": 0.341
+        "Energize": 0.464,
+        "Melancholy": 0.341,
+        "Happy": 0.17,
+        "Romantic": 0.136
       },
       "bpm": 97,
       "tempo": 97.46,
@@ -2571,6 +3711,32 @@
       "energy": 0.746,
       "key": "D minor",
       "vocals": 0.09,
+      "signals": {
+        "g:Pop": 0.0246,
+        "g:Rock": 0.0033,
+        "g:Metal": 0.0012,
+        "g:Hip-Hop": 0.0903,
+        "g:R&B": 0.0356,
+        "g:Electronic": 0.0145,
+        "g:Dance": 0.0152,
+        "g:Jazz": 0.0067,
+        "g:Blues": 0.0082,
+        "g:Classical": 0.0029,
+        "g:Ambient": 0.0033,
+        "g:Soundtrack": 0.0139,
+        "g:Folk": 0.0087,
+        "g:Latin": 0.0015,
+        "g:Reggae": 0.0126,
+        "g:World": 0.0216,
+        "vocal": 0.0899,
+        "nature": 0.0009,
+        "happy": 0.0093,
+        "sad": 0.0014,
+        "tender": 0.006,
+        "exciting": 0.0238,
+        "angry": 0.0003,
+        "lullaby": 0.0008
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -2590,10 +3756,10 @@
         "key": "D minor",
         "keyConf": 0.904
       },
-      "v": 4,
+      "v": 5,
       "size": 3886248,
       "title": "Permanent Threat",
-      "analysed": "2026-10-24 13:52"
+      "analysed": "2026-10-25 09:10"
     },
     "u_song_179492": {
       "genre": "Hip-Hop",
@@ -2613,14 +3779,14 @@
         ]
       ],
       "moods": [
-        "Focus"
+        "Energize"
       ],
       "moodScores": {
-        "Focus": 0.421,
-        "Energize": 0.402,
-        "Chill": 0.346,
+        "Energize": 0.52,
         "Happy": 0.326,
-        "Late night": 0.264
+        "Late night": 0.264,
+        "Melancholy": 0.179,
+        "Romantic": 0.143
       },
       "bpm": 94,
       "tempo": 93.94,
@@ -2629,6 +3795,32 @@
       "energy": 0.838,
       "key": "G minor",
       "vocals": 0.202,
+      "signals": {
+        "g:Pop": 0.0421,
+        "g:Rock": 0.0044,
+        "g:Metal": 0.0019,
+        "g:Hip-Hop": 0.1455,
+        "g:R&B": 0.0255,
+        "g:Electronic": 0.0306,
+        "g:Dance": 0.0218,
+        "g:Jazz": 0.0082,
+        "g:Blues": 0.0063,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0073,
+        "g:Soundtrack": 0.0204,
+        "g:Folk": 0.0021,
+        "g:Latin": 0.0027,
+        "g:Reggae": 0.0203,
+        "g:World": 0.0203,
+        "vocal": 0.2021,
+        "nature": 0.0011,
+        "happy": 0.005,
+        "sad": 0.0013,
+        "tender": 0.006,
+        "exciting": 0.0352,
+        "angry": 0.0004,
+        "lullaby": 0.0036
+      },
       "nature": 0.001,
       "model": true,
       "features": {
@@ -2648,10 +3840,10 @@
         "key": "G minor",
         "keyConf": 0.607
       },
-      "v": 4,
+      "v": 5,
       "size": 4365229,
       "title": "Московский холод",
-      "analysed": "2026-10-24 13:53"
+      "analysed": "2026-10-25 09:10"
     },
     "u_song_fb2199": {
       "genre": "Hip-Hop",
@@ -2671,14 +3863,15 @@
         ]
       ],
       "moods": [
-        "Energize"
+        "Energize",
+        "Party"
       ],
       "moodScores": {
-        "Energize": 0.554,
-        "Party": 0.54,
+        "Energize": 0.674,
+        "Party": 0.666,
         "Late night": 0.464,
         "Melancholy": 0.328,
-        "Focus": 0.262
+        "Happy": 0.147
       },
       "bpm": 123,
       "tempo": 122.99,
@@ -2687,6 +3880,32 @@
       "energy": 0.844,
       "key": "D# minor",
       "vocals": 0.246,
+      "signals": {
+        "g:Pop": 0.0218,
+        "g:Rock": 0.0057,
+        "g:Metal": 0.0018,
+        "g:Hip-Hop": 0.1719,
+        "g:R&B": 0.0315,
+        "g:Electronic": 0.007,
+        "g:Dance": 0.0077,
+        "g:Jazz": 0.0105,
+        "g:Blues": 0.0081,
+        "g:Classical": 0.0045,
+        "g:Ambient": 0.022,
+        "g:Soundtrack": 0.0196,
+        "g:Folk": 0.0012,
+        "g:Latin": 0.0008,
+        "g:Reggae": 0.0097,
+        "g:World": 0.0054,
+        "vocal": 0.2455,
+        "nature": 0.0153,
+        "happy": 0.0029,
+        "sad": 0.0019,
+        "tender": 0.0064,
+        "exciting": 0.0298,
+        "angry": 0.0006,
+        "lullaby": 0.001
+      },
       "nature": 0.015,
       "model": true,
       "features": {
@@ -2706,10 +3925,945 @@
         "key": "D# minor",
         "keyConf": 0.821
       },
-      "v": 4,
+      "v": 5,
       "size": 3045523,
       "title": "Закон бетона",
-      "analysed": "2026-10-24 13:53"
+      "analysed": "2026-10-25 09:11"
+    },
+    "u_bogaz_da_mavi_saatler_c8a4a5": {
+      "genre": "Pop",
+      "genreConfidence": 0.059,
+      "genreTop": [
+        [
+          "R&B",
+          0.059
+        ],
+        [
+          "Pop",
+          0.039
+        ],
+        [
+          "World",
+          0.023
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party",
+        "Happy"
+      ],
+      "moodScores": {
+        "Happy": 0.504,
+        "Energize": 0.448,
+        "Party": 0.443,
+        "Late night": 0.256,
+        "Chill": 0.176
+      },
+      "bpm": 110,
+      "tempo": 110.0,
+      "beatOffset": 0.313,
+      "hasBeat": true,
+      "energy": 0.641,
+      "key": "A# major",
+      "vocals": 0.11,
+      "signals": {
+        "g:Pop": 0.039,
+        "g:Rock": 0.0007,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.001,
+        "g:R&B": 0.0589,
+        "g:Electronic": 0.0021,
+        "g:Dance": 0.0017,
+        "g:Jazz": 0.0075,
+        "g:Blues": 0.0032,
+        "g:Classical": 0.0034,
+        "g:Ambient": 0.007,
+        "g:Soundtrack": 0.0092,
+        "g:Folk": 0.0023,
+        "g:Latin": 0.0023,
+        "g:Reggae": 0.001,
+        "g:World": 0.023,
+        "vocal": 0.1095,
+        "nature": 0.001,
+        "happy": 0.0611,
+        "sad": 0.0161,
+        "tender": 0.0462,
+        "exciting": 0.006,
+        "angry": 0.0,
+        "lullaby": 0.0148
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 179.383,
+        "db": -15.364,
+        "dynamics": 10.59,
+        "perc": 0.153,
+        "onsetRate": 4.03,
+        "pulse": 0.444,
+        "beatiness": 0.339,
+        "tempo": 110.004,
+        "beatOffset": 0.313,
+        "centroid": 2082.089,
+        "flatness": 0.015,
+        "energy": 0.641,
+        "major": 0.875,
+        "key": "A# major",
+        "keyConf": 0.827
+      },
+      "v": 5,
+      "size": 4311314,
+      "title": "Boğaz da Mavi Saatler",
+      "analysed": "2026-10-25 09:04"
+    },
+    "u_buzdan_ekranlar_0f3296": {
+      "genre": "R&B",
+      "genreConfidence": 0.136,
+      "genreTop": [
+        [
+          "R&B",
+          0.136
+        ],
+        [
+          "Pop",
+          0.03
+        ],
+        [
+          "World",
+          0.029
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.488,
+        "Late night": 0.485,
+        "Party": 0.396,
+        "Melancholy": 0.276,
+        "Happy": 0.2
+      },
+      "bpm": 110,
+      "tempo": 109.89,
+      "beatOffset": 0.02,
+      "hasBeat": true,
+      "energy": 0.69,
+      "key": "D# minor",
+      "vocals": 0.029,
+      "signals": {
+        "g:Pop": 0.0302,
+        "g:Rock": 0.003,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.0292,
+        "g:R&B": 0.1365,
+        "g:Electronic": 0.0194,
+        "g:Dance": 0.0055,
+        "g:Jazz": 0.0083,
+        "g:Blues": 0.0114,
+        "g:Classical": 0.0009,
+        "g:Ambient": 0.0159,
+        "g:Soundtrack": 0.017,
+        "g:Folk": 0.0018,
+        "g:Latin": 0.001,
+        "g:Reggae": 0.011,
+        "g:World": 0.0292,
+        "vocal": 0.0287,
+        "nature": 0.001,
+        "happy": 0.0085,
+        "sad": 0.0064,
+        "tender": 0.0131,
+        "exciting": 0.0143,
+        "angry": 0.0002,
+        "lullaby": 0.0017
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 181.42,
+        "db": -15.06,
+        "dynamics": 10.035,
+        "perc": 0.193,
+        "onsetRate": 4.266,
+        "pulse": 0.609,
+        "beatiness": 0.587,
+        "tempo": 109.893,
+        "beatOffset": 0.02,
+        "centroid": 1728.168,
+        "flatness": 0.019,
+        "energy": 0.69,
+        "major": 0.281,
+        "key": "D# minor",
+        "keyConf": 0.78
+      },
+      "v": 5,
+      "size": 4360215,
+      "title": "Buzdan Ekranlar",
+      "analysed": "2026-10-25 09:04"
+    },
+    "u_song_8ba7c5": {
+      "genre": "Pop",
+      "genreConfidence": 0.057,
+      "genreTop": [
+        [
+          "Pop",
+          0.057
+        ],
+        [
+          "R&B",
+          0.05
+        ],
+        [
+          "Jazz",
+          0.038
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.505,
+        "Chill": 0.385,
+        "Energize": 0.321,
+        "Melancholy": 0.301,
+        "Happy": 0.252
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.574,
+      "key": "A# minor",
+      "vocals": 0.109,
+      "signals": {
+        "g:Pop": 0.0571,
+        "g:Rock": 0.0028,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0009,
+        "g:R&B": 0.0497,
+        "g:Electronic": 0.0021,
+        "g:Dance": 0.001,
+        "g:Jazz": 0.0378,
+        "g:Blues": 0.0053,
+        "g:Classical": 0.0029,
+        "g:Ambient": 0.0048,
+        "g:Soundtrack": 0.0085,
+        "g:Folk": 0.0026,
+        "g:Latin": 0.0008,
+        "g:Reggae": 0.0006,
+        "g:World": 0.0178,
+        "vocal": 0.1086,
+        "nature": 0.0015,
+        "happy": 0.0245,
+        "sad": 0.011,
+        "tender": 0.0313,
+        "exciting": 0.0033,
+        "angry": 0.0,
+        "lullaby": 0.0059
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 174.08,
+        "db": -15.222,
+        "dynamics": 10.911,
+        "perc": 0.113,
+        "onsetRate": 3.55,
+        "pulse": 0.277,
+        "beatiness": 0.157,
+        "tempo": 103.448,
+        "beatOffset": 0.56,
+        "centroid": 2032.644,
+        "flatness": 0.023,
+        "energy": 0.574,
+        "major": 0.289,
+        "key": "A# minor",
+        "keyConf": 0.792
+      },
+      "v": 5,
+      "size": 4184046,
+      "title": "Снег на стекле",
+      "analysed": "2026-10-25 09:05"
+    },
+    "u_yaniyoruz_bu_gece_20480e": {
+      "genre": "Dance",
+      "genreConfidence": 0.087,
+      "genreTop": [
+        [
+          "Dance",
+          0.087
+        ],
+        [
+          "Pop",
+          0.077
+        ],
+        [
+          "World",
+          0.072
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.581,
+        "Workout": 0.545,
+        "Party": 0.529,
+        "Late night": 0.529,
+        "Melancholy": 0.349
+      },
+      "bpm": 123,
+      "tempo": 123.02,
+      "beatOffset": 0.425,
+      "hasBeat": true,
+      "energy": 0.707,
+      "key": "F minor",
+      "vocals": 0.056,
+      "signals": {
+        "g:Pop": 0.0773,
+        "g:Rock": 0.001,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.008,
+        "g:R&B": 0.0263,
+        "g:Electronic": 0.068,
+        "g:Dance": 0.0872,
+        "g:Jazz": 0.0049,
+        "g:Blues": 0.0064,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0123,
+        "g:Soundtrack": 0.0163,
+        "g:Folk": 0.0027,
+        "g:Latin": 0.006,
+        "g:Reggae": 0.0111,
+        "g:World": 0.0719,
+        "vocal": 0.0559,
+        "nature": 0.0028,
+        "happy": 0.012,
+        "sad": 0.0025,
+        "tender": 0.0076,
+        "exciting": 0.0194,
+        "angry": 0.0001,
+        "lullaby": 0.0023
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.088,
+        "db": -15.237,
+        "dynamics": 8.811,
+        "perc": 0.184,
+        "onsetRate": 4.02,
+        "pulse": 0.65,
+        "beatiness": 0.599,
+        "tempo": 123.019,
+        "beatOffset": 0.425,
+        "centroid": 2617.472,
+        "flatness": 0.03,
+        "energy": 0.707,
+        "major": 0.0,
+        "key": "F minor",
+        "keyConf": 0.774
+      },
+      "v": 5,
+      "size": 4328242,
+      "title": "Yanıyoruz Bu Gece",
+      "analysed": "2026-10-25 09:05"
+    },
+    "u_sadece_sen_ve_ben_364012": {
+      "genre": "Dance",
+      "genreConfidence": 0.084,
+      "genreTop": [
+        [
+          "Dance",
+          0.084
+        ],
+        [
+          "Electronic",
+          0.071
+        ],
+        [
+          "Pop",
+          0.056
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.628,
+        "Energize": 0.585,
+        "Workout": 0.552,
+        "Happy": 0.369,
+        "Late night": 0.292
+      },
+      "bpm": 123,
+      "tempo": 123.07,
+      "beatOffset": 0.135,
+      "hasBeat": true,
+      "energy": 0.714,
+      "key": "D# major",
+      "vocals": 0.054,
+      "signals": {
+        "g:Pop": 0.0559,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0057,
+        "g:R&B": 0.021,
+        "g:Electronic": 0.0705,
+        "g:Dance": 0.0839,
+        "g:Jazz": 0.0045,
+        "g:Blues": 0.0057,
+        "g:Classical": 0.0024,
+        "g:Ambient": 0.0029,
+        "g:Soundtrack": 0.0147,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.0019,
+        "g:Reggae": 0.0054,
+        "g:World": 0.0218,
+        "vocal": 0.0539,
+        "nature": 0.0029,
+        "happy": 0.0084,
+        "sad": 0.002,
+        "tender": 0.0057,
+        "exciting": 0.0193,
+        "angry": 0.0001,
+        "lullaby": 0.0015
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 177.894,
+        "db": -15.301,
+        "dynamics": 12.324,
+        "perc": 0.182,
+        "onsetRate": 4.446,
+        "pulse": 0.672,
+        "beatiness": 0.613,
+        "tempo": 123.075,
+        "beatOffset": 0.135,
+        "centroid": 2548.632,
+        "flatness": 0.027,
+        "energy": 0.714,
+        "major": 0.69,
+        "key": "D# major",
+        "keyConf": 0.768
+      },
+      "v": 5,
+      "size": 4275579,
+      "title": "Sadece Sen ve Ben",
+      "analysed": "2026-10-25 09:05"
+    },
+    "u_yarim_kalan_sehir_99fbb4": {
+      "genre": "Pop",
+      "genreConfidence": 0.077,
+      "genreTop": [
+        [
+          "Pop",
+          0.077
+        ],
+        [
+          "R&B",
+          0.058
+        ],
+        [
+          "Electronic",
+          0.047
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.53,
+        "Energize": 0.449,
+        "Happy": 0.402,
+        "Late night": 0.282,
+        "Chill": 0.15
+      },
+      "bpm": 106,
+      "tempo": 105.51,
+      "beatOffset": 0.126,
+      "hasBeat": true,
+      "energy": 0.66,
+      "key": "F# major",
+      "vocals": 0.067,
+      "signals": {
+        "g:Pop": 0.0765,
+        "g:Rock": 0.001,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0083,
+        "g:R&B": 0.0585,
+        "g:Electronic": 0.0474,
+        "g:Dance": 0.0444,
+        "g:Jazz": 0.0045,
+        "g:Blues": 0.0053,
+        "g:Classical": 0.0012,
+        "g:Ambient": 0.0142,
+        "g:Soundtrack": 0.0127,
+        "g:Folk": 0.0019,
+        "g:Latin": 0.0032,
+        "g:Reggae": 0.0066,
+        "g:World": 0.0235,
+        "vocal": 0.0673,
+        "nature": 0.0014,
+        "happy": 0.0167,
+        "sad": 0.0048,
+        "tender": 0.0128,
+        "exciting": 0.0155,
+        "angry": 0.0001,
+        "lullaby": 0.0044
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 178.678,
+        "db": -15.405,
+        "dynamics": 11.626,
+        "perc": 0.15,
+        "onsetRate": 4.449,
+        "pulse": 0.559,
+        "beatiness": 0.42,
+        "tempo": 105.512,
+        "beatOffset": 0.126,
+        "centroid": 2325.094,
+        "flatness": 0.021,
+        "energy": 0.66,
+        "major": 0.787,
+        "key": "F# major",
+        "keyConf": 0.833
+      },
+      "v": 5,
+      "size": 4294387,
+      "title": "Yarım Kalan Şehir",
+      "analysed": "2026-10-25 09:06"
+    },
+    "u_gozlerinde_yildizlar_268179": {
+      "genre": "Dance",
+      "genreConfidence": 0.107,
+      "genreTop": [
+        [
+          "Dance",
+          0.107
+        ],
+        [
+          "World",
+          0.093
+        ],
+        [
+          "Pop",
+          0.09
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.619,
+        "Party": 0.598,
+        "Workout": 0.542,
+        "Late night": 0.448,
+        "Melancholy": 0.301
+      },
+      "bpm": 123,
+      "tempo": 123.11,
+      "beatOffset": 0.036,
+      "hasBeat": true,
+      "energy": 0.75,
+      "key": "F minor",
+      "vocals": 0.054,
+      "signals": {
+        "g:Pop": 0.0903,
+        "g:Rock": 0.0012,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0078,
+        "g:R&B": 0.0208,
+        "g:Electronic": 0.0652,
+        "g:Dance": 0.1072,
+        "g:Jazz": 0.0055,
+        "g:Blues": 0.0062,
+        "g:Classical": 0.0008,
+        "g:Ambient": 0.0018,
+        "g:Soundtrack": 0.0171,
+        "g:Folk": 0.0014,
+        "g:Latin": 0.0042,
+        "g:Reggae": 0.0087,
+        "g:World": 0.0931,
+        "vocal": 0.0543,
+        "nature": 0.0024,
+        "happy": 0.0101,
+        "sad": 0.0003,
+        "tender": 0.002,
+        "exciting": 0.0274,
+        "angry": 0.0001,
+        "lullaby": 0.0003
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 181.629,
+        "db": -15.219,
+        "dynamics": 8.393,
+        "perc": 0.195,
+        "onsetRate": 4.636,
+        "pulse": 0.543,
+        "beatiness": 0.529,
+        "tempo": 123.107,
+        "beatOffset": 0.036,
+        "centroid": 2866.806,
+        "flatness": 0.051,
+        "energy": 0.75,
+        "major": 0.124,
+        "key": "F minor",
+        "keyConf": 0.745
+      },
+      "v": 5,
+      "size": 4365231,
+      "title": "Gözlerinde Yıldızlar",
+      "analysed": "2026-10-25 09:06"
+    },
+    "u_song_e59464": {
+      "genre": "World",
+      "genreConfidence": 0.095,
+      "genreTop": [
+        [
+          "World",
+          0.095
+        ],
+        [
+          "Hip-Hop",
+          0.075
+        ],
+        [
+          "Reggae",
+          0.057
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.716,
+        "Energize": 0.678,
+        "Party": 0.522,
+        "Late night": 0.415,
+        "Melancholy": 0.269
+      },
+      "bpm": 140,
+      "tempo": 139.51,
+      "beatOffset": 0.028,
+      "hasBeat": true,
+      "energy": 0.792,
+      "key": "G minor",
+      "vocals": 0.071,
+      "signals": {
+        "g:Pop": 0.0393,
+        "g:Rock": 0.003,
+        "g:Metal": 0.001,
+        "g:Hip-Hop": 0.0749,
+        "g:R&B": 0.0159,
+        "g:Electronic": 0.0392,
+        "g:Dance": 0.0299,
+        "g:Jazz": 0.0077,
+        "g:Blues": 0.0062,
+        "g:Classical": 0.0041,
+        "g:Ambient": 0.0022,
+        "g:Soundtrack": 0.0142,
+        "g:Folk": 0.0021,
+        "g:Latin": 0.0044,
+        "g:Reggae": 0.0571,
+        "g:World": 0.0952,
+        "vocal": 0.0711,
+        "nature": 0.0028,
+        "happy": 0.0041,
+        "sad": 0.0041,
+        "tender": 0.0039,
+        "exciting": 0.0251,
+        "angry": 0.0003,
+        "lullaby": 0.0007
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 181.603,
+        "db": -15.545,
+        "dynamics": 17.699,
+        "perc": 0.237,
+        "onsetRate": 4.895,
+        "pulse": 0.643,
+        "beatiness": 0.643,
+        "tempo": 139.508,
+        "beatOffset": 0.028,
+        "centroid": 2448.423,
+        "flatness": 0.038,
+        "energy": 0.792,
+        "major": 0.238,
+        "key": "G minor",
+        "keyConf": 0.695
+      },
+      "v": 5,
+      "size": 4364604,
+      "title": "Огонь и сталь",
+      "analysed": "2026-10-25 09:06"
+    },
+    "u_song_679db0": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.162,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.162
+        ],
+        [
+          "Pop",
+          0.054
+        ],
+        [
+          "Reggae",
+          0.026
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.72,
+        "Workout": 0.705,
+        "Party": 0.677,
+        "Late night": 0.43,
+        "Melancholy": 0.299
+      },
+      "bpm": 140,
+      "tempo": 139.64,
+      "beatOffset": 0.026,
+      "hasBeat": true,
+      "energy": 0.824,
+      "key": "D# minor",
+      "vocals": 0.222,
+      "signals": {
+        "g:Pop": 0.0537,
+        "g:Rock": 0.0072,
+        "g:Metal": 0.0021,
+        "g:Hip-Hop": 0.1616,
+        "g:R&B": 0.0254,
+        "g:Electronic": 0.0261,
+        "g:Dance": 0.0242,
+        "g:Jazz": 0.01,
+        "g:Blues": 0.0092,
+        "g:Classical": 0.0021,
+        "g:Ambient": 0.0027,
+        "g:Soundtrack": 0.0221,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.0016,
+        "g:Reggae": 0.0264,
+        "g:World": 0.0243,
+        "vocal": 0.2223,
+        "nature": 0.0026,
+        "happy": 0.0037,
+        "sad": 0.001,
+        "tender": 0.0035,
+        "exciting": 0.0401,
+        "angry": 0.0008,
+        "lullaby": 0.0006
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 179.461,
+        "db": -15.181,
+        "dynamics": 11.036,
+        "perc": 0.249,
+        "onsetRate": 5.216,
+        "pulse": 0.558,
+        "beatiness": 0.558,
+        "tempo": 139.639,
+        "beatOffset": 0.026,
+        "centroid": 2635.847,
+        "flatness": 0.047,
+        "energy": 0.824,
+        "major": 0.099,
+        "key": "D# minor",
+        "keyConf": 0.904
+      },
+      "v": 5,
+      "size": 4313195,
+      "title": "Берём своё",
+      "analysed": "2026-10-25 09:07"
+    },
+    "u_fuel_for_the_sail_584ed9": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.101,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.101
+        ],
+        [
+          "Pop",
+          0.053
+        ],
+        [
+          "R&B",
+          0.051
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.597,
+        "Late night": 0.503,
+        "Party": 0.496,
+        "Melancholy": 0.343,
+        "Happy": 0.155
+      },
+      "bpm": 123,
+      "tempo": 123.0,
+      "beatOffset": 0.008,
+      "hasBeat": true,
+      "energy": 0.724,
+      "key": "F minor",
+      "vocals": 0.112,
+      "signals": {
+        "g:Pop": 0.0532,
+        "g:Rock": 0.0033,
+        "g:Metal": 0.0012,
+        "g:Hip-Hop": 0.1012,
+        "g:R&B": 0.0505,
+        "g:Electronic": 0.0187,
+        "g:Dance": 0.0123,
+        "g:Jazz": 0.0072,
+        "g:Blues": 0.0064,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.0123,
+        "g:Soundtrack": 0.0234,
+        "g:Folk": 0.001,
+        "g:Latin": 0.0011,
+        "g:Reggae": 0.0223,
+        "g:World": 0.0124,
+        "vocal": 0.1123,
+        "nature": 0.0017,
+        "happy": 0.0049,
+        "sad": 0.0024,
+        "tender": 0.0054,
+        "exciting": 0.0235,
+        "angry": 0.0006,
+        "lullaby": 0.0008
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 179.67,
+        "db": -15.605,
+        "dynamics": 14.352,
+        "perc": 0.207,
+        "onsetRate": 3.952,
+        "pulse": 0.484,
+        "beatiness": 0.484,
+        "tempo": 123.005,
+        "beatOffset": 0.008,
+        "centroid": 2469.551,
+        "flatness": 0.03,
+        "energy": 0.724,
+        "major": 0.013,
+        "key": "F minor",
+        "keyConf": 0.809
+      },
+      "v": 5,
+      "size": 4318211,
+      "title": "Fuel for the Sail",
+      "analysed": "2026-10-25 09:07"
+    },
+    "u_batan_gunesin_altinda_de7cd5": {
+      "genre": "R&B",
+      "genreConfidence": 0.099,
+      "genreTop": [
+        [
+          "R&B",
+          0.099
+        ],
+        [
+          "Pop",
+          0.024
+        ],
+        [
+          "Ambient",
+          0.012
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.565,
+        "Late night": 0.517,
+        "Melancholy": 0.378,
+        "Happy": 0.273,
+        "Romantic": 0.165
+      },
+      "bpm": 148,
+      "tempo": 147.64,
+      "beatOffset": 0.047,
+      "hasBeat": true,
+      "energy": 0.647,
+      "key": "D minor",
+      "vocals": 0.11,
+      "signals": {
+        "g:Pop": 0.0242,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0014,
+        "g:R&B": 0.0985,
+        "g:Electronic": 0.0007,
+        "g:Dance": 0.0013,
+        "g:Jazz": 0.0071,
+        "g:Blues": 0.0039,
+        "g:Classical": 0.0046,
+        "g:Ambient": 0.0122,
+        "g:Soundtrack": 0.0102,
+        "g:Folk": 0.0029,
+        "g:Latin": 0.001,
+        "g:Reggae": 0.0011,
+        "g:World": 0.0106,
+        "vocal": 0.1101,
+        "nature": 0.0003,
+        "happy": 0.0572,
+        "sad": 0.0346,
+        "tender": 0.0539,
+        "exciting": 0.0054,
+        "angry": 0.0,
+        "lullaby": 0.0146
+      },
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 180.741,
+        "db": -15.316,
+        "dynamics": 10.468,
+        "perc": 0.186,
+        "onsetRate": 2.999,
+        "pulse": 0.448,
+        "beatiness": 0.417,
+        "tempo": 147.644,
+        "beatOffset": 0.047,
+        "centroid": 1899.13,
+        "flatness": 0.012,
+        "energy": 0.647,
+        "major": 0.169,
+        "key": "D minor",
+        "keyConf": 0.771
+      },
+      "v": 5,
+      "size": 4343913,
+      "title": "Batan Güneşin Altında",
+      "analysed": "2026-10-25 09:09"
     }
   }
 }
