@@ -21,7 +21,7 @@ from pathlib import Path
 
 import numpy as np
 
-VERSION = 4  # bump to re-analyse every song
+VERSION = 5  # bump to re-analyse every song
 MODEL = "MIT/ast-finetuned-audioset-10-10-0.4593"
 SR = 22050
 AST_SR = 16000
@@ -242,21 +242,24 @@ def decide(f: dict, p: dict[str, float]) -> dict:
     n = lambda x, s=0.35: clip(x / s)  # model probabilities are small; stretch them
     calm = 1 - e
     dance = max(g.get("Dance", 0), g.get("Pop", 0) * 0.8, g.get("Latin", 0), g.get("Hip-Hop", 0) * 0.8)
+    beat_genre = max(g.get("Pop", 0), g.get("Dance", 0), g.get("Hip-Hop", 0), g.get("R&B", 0), g.get("Rock", 0))
     mid = lambda x, c, w: clip(1 - abs(x - c) / w)  # 1 at c, 0 at c +- w
     m = {
-        "Energize": 0.45 * e + 0.25 * n(exciting) + 0.30 * clip((beat_bpm - 100) / 45),
+        "Energize": 0.55 * e + 0.25 * n(exciting, 0.15) + 0.20 * clip((beat_bpm - 95) / 35),
         "Workout": (0.40 * e + 0.30 * pulse + 0.30 * clip((beat_bpm - 112) / 40))
         if (beat_bpm >= 112 and e >= 0.6 and pulse >= 0.5) else 0.0,
-        "Party": (0.45 * n(dance) + 0.30 * e + 0.25 * pulse) if (98 <= beat_bpm <= 140 and has_beat) else 0.0,
+        "Party": (0.40 * n(dance, 0.15) + 0.25 * e + 0.20 * pulse + 0.15 * major) if (98 <= beat_bpm <= 140 and has_beat) else 0.0,
         "Happy": 0.50 * n(happy, 0.25) + 0.30 * major + 0.20 * bright,
-        "Chill": 0.45 * calm + 0.20 * n(tender) + 0.20 * clip((118 - beat_bpm) / 40) + 0.15 * (1 - n(angry)),
-        "Focus": 0.30 * (1 - n(vocal, 0.4)) + 0.35 * mid(e, 0.38, 0.4) + 0.15 * (1 - n(exciting))
-        + 0.20 * clip((125 - beat_bpm) / 45),
+        "Chill": (0.45 * calm + 0.20 * n(tender) + 0.20 * clip((118 - beat_bpm) / 40) + 0.15 * (1 - n(angry)))
+        * clip((0.78 - e) / 0.3),
+        # Focus: instrumental, calm-to-medium, not a beat-driven pop/dance/rap song.
+        "Focus": (0.40 * (1 - n(vocal, 0.06)) + 0.35 * mid(e, 0.38, 0.3) + 0.25 * clip((118 - beat_bpm) / 40))
+        * (1 - 0.6 * n(beat_genre, 0.1)),
         "Sleep": (0.45 * calm + 0.25 * (1 - pulse) + 0.15 * (1 - bright) + 0.15 * n(lullaby, 0.2)) if e < 0.42 else 0.0,
         "Nature": n(nature, 0.25),
         "Late night": 0.35 * (1 - major) + 0.30 * (1 - bright) + 0.20 * max(n(g.get("Jazz", 0)), n(g.get("Electronic", 0)))
         + 0.15 * mid(e, 0.45, 0.45),
-        "Romantic": 0.50 * n(tender) + 0.30 * n(vocal, 0.4) + 0.20 * clip((112 - beat_bpm) / 40),
+        "Romantic": (0.55 * n(tender) + 0.25 * n(vocal, 0.08) + 0.20 * clip((112 - beat_bpm) / 40)) * (0.4 + 0.6 * n(tender)),
         "Melancholy": 0.55 * n(sad, 0.25) + 0.30 * (1 - major) + 0.15 * calm,
     }
     if not has_model:
@@ -264,7 +267,9 @@ def decide(f: dict, p: dict[str, float]) -> dict:
         for k in ("Nature", "Romantic", "Happy", "Melancholy"):
             m[k] *= 0.6
     ranked_m = sorted(m.items(), key=lambda kv: kv[1], reverse=True)
-    moods = [k for k, v in ranked_m if v >= 0.6][:3] or [ranked_m[0][0]]
+    # Clear moods (>= 0.6) first; otherwise the leaders that sit close together.
+    top = ranked_m[0][1]
+    moods = [k for k, v in ranked_m if v >= 0.6 or v >= max(0.4, top - 0.07)][:3] or [ranked_m[0][0]]
     moods.sort(key=MOOD_ORDER.index)
 
     # Tempo for the visuals. Beat-less music gets a slow, breathing pulse instead.
@@ -284,6 +289,8 @@ def decide(f: dict, p: dict[str, float]) -> dict:
         "energy": round(float(e), 3),
         "key": f["key"],
         "vocals": round(float(vocal), 3),
+        "signals": {k: round(float(v), 4) for k, v in {**{f"g:{a}": b for a, b in g.items()}, "vocal": vocal, "nature": nature,
+                    "happy": happy, "sad": sad, "tender": tender, "exciting": exciting, "angry": angry, "lullaby": lullaby}.items()},
         "nature": round(float(nature), 3),
         "model": has_model,
     }
