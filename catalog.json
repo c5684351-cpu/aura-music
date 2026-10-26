@@ -1,2314 +1,2665 @@
 {
-  "app": "Aura",
-  "updated": "2026-10-26T10:25:14.9166131Z",
-  "tracks": [
-    {
-      "id": "u_the_choice_i_didn_t_make_4f3d98",
-      "title": "The Choice I Didn t Make",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 178,
-      "bpm": 120,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFF8A00",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 1,
-      "seed": 2193,
-      "file": "songs/u_the_choice_i_didn_t_make_4f3d98.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4273071,
-      "tempo": 120.15,
-      "beatOffset": 0.18,
-      "moods": [
-        "Party"
-      ],
-      "energy": 0.647,
-      "key": "E major"
-    },
-    {
-      "id": "u_blueprint_scheme_aaa3f7",
-      "title": "Blueprint Scheme",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 172,
-      "bpm": 91,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFF00F0D8",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 3,
-      "seed": 45376,
-      "file": "songs/u_blueprint_scheme_aaa3f7.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4140787,
-      "tempo": 90.73,
-      "beatOffset": 0.274,
-      "moods": [
-        "Energize",
-        "Happy"
-      ],
-      "energy": 0.783,
-      "key": "E major"
-    },
-    {
-      "id": "u_midnight_pavement_daaccd",
-      "title": "Midnight Pavement",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 180,
-      "bpm": 120,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFFFE14D",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 3,
-      "seed": 35618,
-      "file": "songs/u_midnight_pavement_daaccd.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4321972,
-      "tempo": 120.2,
-      "beatOffset": 0.177,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.682,
-      "key": "E major"
-    },
-    {
-      "id": "u_tracing_the_outline_b8f37c",
-      "title": "Tracing the Outline",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 166,
-      "bpm": 64,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFF00F0D8",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 2,
-      "seed": 10128,
-      "file": "songs/u_tracing_the_outline_b8f37c.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3991575,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus"
-      ],
-      "energy": 0.436,
-      "key": "E major"
-    },
-    {
-      "id": "u_i_own_the_earth_9097cb",
-      "title": "I Own The Earth",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 180,
-      "bpm": 143,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFFFF8A00",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 2,
-      "seed": 10785,
-      "file": "songs/u_i_own_the_earth_9097cb.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4327615,
-      "tempo": 143.46,
-      "beatOffset": 0.015,
-      "moods": [
-        "Energize",
-        "Workout"
-      ],
-      "energy": 0.789,
-      "key": "C# minor"
-    },
-    {
-      "id": "u_song_248890",
-      "title": "Закалённый в огне",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 180,
-      "bpm": 96,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 2,
-      "seed": 25773,
-      "file": "songs/u_song_248890.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4335765,
-      "tempo": 95.68,
-      "beatOffset": 0.56,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.71,
-      "key": "C# minor"
-    },
-    {
-      "id": "u_sehir_alev_alev_32f8bc",
-      "title": "Şehir Alev Alev",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 182,
-      "bpm": 126,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFFFF7AD9",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 0,
-      "seed": 49118,
-      "file": "songs/u_sehir_alev_alev_32f8bc.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4375262,
-      "tempo": 126.0,
-      "beatOffset": 0.058,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.702,
-      "key": "G# minor"
-    },
-    {
-      "id": "u_ayni_yerdeyim_30bfe1",
-      "title": "Aynı Yerdeyim",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 120,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFFF8A00",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 0,
-      "seed": 7383,
-      "file": "songs/u_ayni_yerdeyim_30bfe1.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4345169,
-      "tempo": 120.19,
-      "beatOffset": 0.164,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Late night"
-      ],
-      "energy": 0.733,
-      "key": "G# minor"
-    },
-    {
-      "id": "u_kaldirimin_krali_c939c1",
-      "title": "Kaldırımın Kralı",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 165,
-      "bpm": 94,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF4FD8FF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 1,
-      "seed": 33710,
-      "file": "songs/u_kaldirimin_krali_c939c1.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3954586,
-      "tempo": 93.92,
-      "beatOffset": 0.22,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.811,
-      "key": "G# minor"
-    },
-    {
-      "id": "u_gurbet_elde_sonen_efkar_b2b751",
-      "title": "Gurbet Elde Sönen Efkar",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 163,
-      "bpm": 91,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFF00F0D8",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 58435,
-      "file": "songs/u_gurbet_elde_sonen_efkar_b2b751.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3915716,
-      "tempo": 90.76,
-      "beatOffset": 0.301,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.639,
-      "key": "D minor"
-    },
-    {
-      "id": "u_yalan_dunya_el_aman_83d7cb",
-      "title": "Yalan Dünya El Aman",
-      "artist": "Aura",
-      "genre": "Folk",
-      "seconds": 166,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFFA8FF3E",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 3,
-      "seed": 93,
-      "file": "songs/u_yalan_dunya_el_aman_83d7cb.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3994710,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.595,
-      "key": "D minor"
-    },
-    {
-      "id": "u_kok_tengri_asra_801e65",
-      "title": "Kok Tengri Asra",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 184,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFFF2E88",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 3,
-      "seed": 2389,
-      "file": "songs/u_kok_tengri_asra_801e65.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4431059,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.563,
-      "key": "D minor"
-    },
-    {
-      "id": "u_ocagimda_tuten_duman_cd71be",
-      "title": "Ocağımda Tüten Duman",
-      "artist": "Aura",
-      "genre": "Folk",
-      "seconds": 161,
-      "bpm": 64,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFF00F0D8",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 49569,
-      "file": "songs/u_ocagimda_tuten_duman_cd71be.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3865561,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.606,
-      "key": "D minor"
-    },
-    {
-      "id": "u_kok_tengri_bizge_bar_41f6c1",
-      "title": "Kok Tengri bizge bar",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 179,
-      "bpm": 64,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFFB14DFF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 0,
-      "seed": 6933,
-      "file": "songs/u_kok_tengri_bizge_bar_41f6c1.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4290625,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.524,
-      "key": "D minor"
-    },
-    {
-      "id": "u_sensizlik_bir_sehir_gibi_3e26fe",
-      "title": "Sensizlik Bir Şehir Gibi",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 126,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFFF7AD9",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 1,
-      "seed": 21469,
-      "file": "songs/u_sensizlik_bir_sehir_gibi_3e26fe.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4350811,
-      "tempo": 126.01,
-      "beatOffset": 0.052,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.731,
-      "key": "F minor"
-    },
-    {
-      "id": "u_after_the_lights_fade_5b2cab",
-      "title": "After the Lights Fade",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 126,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF3D6BFF",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 1,
-      "seed": 9947,
-      "file": "songs/u_after_the_lights_fade_5b2cab.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4359588,
-      "tempo": 126.09,
-      "beatOffset": 0.144,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.668,
-      "key": "D# major"
-    },
-    {
-      "id": "u_let_the_morning_wait_cd9afb",
-      "title": "Let The Morning Wait",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 178,
-      "bpm": 120,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFF3D6BFF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 3,
-      "seed": 38656,
-      "file": "songs/u_let_the_morning_wait_cd9afb.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4281221,
-      "tempo": 120.22,
-      "beatOffset": 0.174,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.682,
-      "key": "C# major"
-    },
-    {
-      "id": "u_only_us_remaining_837211",
-      "title": "Only Us Remaining",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 159,
-      "bpm": 86,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF3D6BFF",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 3,
-      "seed": 8075,
-      "file": "songs/u_only_us_remaining_837211.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3824183,
-      "tempo": 86.01,
-      "beatOffset": 0.461,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.685,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_giving_up_gravity_3ed388",
-      "title": "Giving Up Gravity",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 172,
-      "bpm": 126,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFFF8A00",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 1,
-      "seed": 3199,
-      "file": "songs/u_giving_up_gravity_3ed388.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4141414,
-      "tempo": 126.11,
-      "beatOffset": 0.132,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.702,
-      "key": "F minor"
-    },
-    {
-      "id": "u_song_f6f7fb",
-      "title": "Химия любви",
-      "artist": "Aura",
-      "genre": "Electronic",
-      "seconds": 173,
-      "bpm": 126,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFF4FD8FF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 64152,
-      "file": "songs/u_song_f6f7fb.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4149564,
-      "tempo": 125.98,
-      "beatOffset": 0.046,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.648,
-      "key": "F minor"
-    },
-    {
-      "id": "u_isiklar_altinda_1c0603",
-      "title": "Işıklar Altında",
-      "artist": "Aura",
-      "genre": "World",
-      "seconds": 157,
-      "bpm": 126,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFB14DFF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 0,
-      "seed": 59116,
-      "file": "songs/u_isiklar_altinda_1c0603.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3765251,
-      "tempo": 126.01,
-      "beatOffset": 0.088,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.705,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_beton_und_gold_e3223c",
-      "title": "Beton und Gold",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 177,
-      "bpm": 129,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 6901,
-      "file": "songs/u_beton_und_gold_e3223c.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4255517,
-      "tempo": 129.25,
-      "beatOffset": 0.312,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.756,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_song_914c9f",
-      "title": "Цена секунды",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 180,
-      "bpm": 120,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFFB14DFF",
-        "0xFF3DF5FF"
-      ],
-      "coverStyle": 1,
-      "seed": 58158,
-      "file": "songs/u_song_914c9f.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4328242,
-      "tempo": 119.99,
-      "beatOffset": 0.03,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.725,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_diamonds_cut_glass_96fa12",
-      "title": "Diamonds Cut Glass",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 173,
-      "bpm": 136,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFFFF7AD9",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 1,
-      "seed": 23643,
-      "file": "songs/u_diamonds_cut_glass_96fa12.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4168999,
-      "tempo": 135.98,
-      "beatOffset": 0.407,
-      "moods": [
-        "Energize",
-        "Workout"
-      ],
-      "energy": 0.735,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_sehrin_en_derin_yeri_d35a1f",
-      "title": "Şehrin En Derin Yeri",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 162,
-      "bpm": 98,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFFFF2E88",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 3,
-      "seed": 26369,
-      "file": "songs/u_sehrin_en_derin_yeri_d35a1f.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3889384,
-      "tempo": 97.52,
-      "beatOffset": 0.109,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.777,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_istanbul_bizim_sahidimiz_fc7e1b",
-      "title": "İstanbul Bizim Şahidimiz",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 162,
-      "bpm": 123,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFB14DFF",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 3,
-      "seed": 51985,
-      "file": "songs/u_istanbul_bizim_sahidimiz_fc7e1b.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3896281,
-      "tempo": 123.1,
-      "beatOffset": 0.14,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.821,
-      "key": "F# minor"
-    },
-    {
-      "id": "u_kendi_yolunda_53b384",
-      "title": "Kendi Yolunda",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 170,
-      "bpm": 123,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFF3DF5FF",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 2,
-      "seed": 36817,
-      "file": "songs/u_kendi_yolunda_53b384.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4090632,
-      "tempo": 123.07,
-      "beatOffset": 0.092,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.688,
-      "key": "C# minor"
-    },
-    {
-      "id": "u_turnam_bir_ses_ver_f3c055",
-      "title": "Turnam Bir Ses Ver",
-      "artist": "Aura",
-      "genre": "Folk",
-      "seconds": 180,
-      "bpm": 64,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFFFE14D",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 0,
-      "seed": 64911,
-      "file": "songs/u_turnam_bir_ses_ver_f3c055.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4321345,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Late night"
-      ],
-      "energy": 0.562,
-      "key": "F# major"
-    },
-    {
-      "id": "u_bogaz_da_mavi_saatler_c8a4a5",
-      "title": "Boğaz da Mavi Saatler",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 179,
-      "bpm": 110,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFF3D6BFF",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 2,
-      "seed": 7822,
-      "file": "songs/u_bogaz_da_mavi_saatler_c8a4a5.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4311314,
-      "tempo": 110.0,
-      "beatOffset": 0.313,
-      "moods": [
-        "Energize",
-        "Party",
-        "Happy"
-      ],
-      "energy": 0.641,
-      "key": "A# major"
-    },
-    {
-      "id": "u_buzdan_ekranlar_0f3296",
-      "title": "Buzdan Ekranlar",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 181,
-      "bpm": 110,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFFFF2E88",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 2,
-      "seed": 53399,
-      "file": "songs/u_buzdan_ekranlar_0f3296.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4360215,
-      "tempo": 109.89,
-      "beatOffset": 0.02,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.69,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_song_8ba7c5",
-      "title": "Снег на стекле",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFF4FD8FF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 1,
-      "seed": 27969,
-      "file": "songs/u_song_8ba7c5.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4184046,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.574,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_yaniyoruz_bu_gece_20480e",
-      "title": "Yanıyoruz Bu Gece",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 180,
-      "bpm": 123,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 20244,
-      "file": "songs/u_yaniyoruz_bu_gece_20480e.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4328242,
-      "tempo": 123.02,
-      "beatOffset": 0.425,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.707,
-      "key": "F minor"
-    },
-    {
-      "id": "u_sadece_sen_ve_ben_364012",
-      "title": "Sadece Sen ve Ben",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 178,
-      "bpm": 123,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFFFF7AD9",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 3,
-      "seed": 38682,
-      "file": "songs/u_sadece_sen_ve_ben_364012.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4275579,
-      "tempo": 123.07,
-      "beatOffset": 0.135,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.714,
-      "key": "D# major"
-    },
-    {
-      "id": "u_yarim_kalan_sehir_99fbb4",
-      "title": "Yarım Kalan Şehir",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 179,
-      "bpm": 106,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFFF8A00",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 59008,
-      "file": "songs/u_yarim_kalan_sehir_99fbb4.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4294387,
-      "tempo": 105.51,
-      "beatOffset": 0.126,
-      "moods": [
-        "Party"
-      ],
-      "energy": 0.66,
-      "key": "F# major"
-    },
-    {
-      "id": "u_gozlerinde_yildizlar_268179",
-      "title": "Gözlerinde Yıldızlar",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 182,
-      "bpm": 123,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFF3DF5FF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 32165,
-      "file": "songs/u_gozlerinde_yildizlar_268179.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4365231,
-      "tempo": 123.11,
-      "beatOffset": 0.036,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.75,
-      "key": "F minor"
-    },
-    {
-      "id": "u_song_e59464",
-      "title": "Огонь и сталь",
-      "artist": "Aura",
-      "genre": "World",
-      "seconds": 182,
-      "bpm": 140,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFF7AD9",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 2,
-      "seed": 56699,
-      "file": "songs/u_song_e59464.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4364604,
-      "tempo": 139.51,
-      "beatOffset": 0.028,
-      "moods": [
-        "Energize",
-        "Workout"
-      ],
-      "energy": 0.792,
-      "key": "G minor"
-    },
-    {
-      "id": "u_song_679db0",
-      "title": "Берём своё",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 179,
-      "bpm": 140,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFF4FD8FF",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 0,
-      "seed": 2916,
-      "file": "songs/u_song_679db0.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4313195,
-      "tempo": 139.64,
-      "beatOffset": 0.026,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.824,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_fuel_for_the_sail_584ed9",
-      "title": "Fuel for the Sail",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 180,
-      "bpm": 123,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFF4FD8FF",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 0,
-      "seed": 12991,
-      "file": "songs/u_fuel_for_the_sail_584ed9.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4318211,
-      "tempo": 123.0,
-      "beatOffset": 0.008,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.724,
-      "key": "F minor"
-    },
-    {
-      "id": "u_o_kalabalikta_a88601",
-      "title": "O Kalabalıkta",
-      "artist": "Aura",
-      "genre": "World",
-      "seconds": 179,
-      "bpm": 123,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFF3D6BFF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 65447,
-      "file": "songs/u_o_kalabalikta_a88601.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4310224,
-      "tempo": 123.06,
-      "beatOffset": 0.422,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.769,
-      "key": "G minor"
-    },
-    {
-      "id": "u_heat_in_the_cold_617ca0",
-      "title": "Heat in the Cold",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 179,
-      "bpm": 123,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 1,
-      "seed": 44886,
-      "file": "songs/u_heat_in_the_cold_617ca0.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4293131,
-      "tempo": 123.01,
-      "beatOffset": 0.111,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.725,
-      "key": "A# major"
-    },
-    {
-      "id": "u_haloes_in_the_blue_hour_ca4202",
-      "title": "Haloes in the Blue Hour",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 175,
-      "bpm": 120,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFB14DFF",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 0,
-      "seed": 25304,
-      "file": "songs/u_haloes_in_the_blue_hour_ca4202.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4211002,
-      "tempo": 120.11,
-      "beatOffset": 0.112,
-      "moods": [
-        "Energize",
-        "Party",
-        "Happy"
-      ],
-      "energy": 0.61,
-      "key": "F major"
-    },
-    {
-      "id": "u_electric_fire_7cd2be",
-      "title": "Electric Fire",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 180,
-      "bpm": 123,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFFFF2E88",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 1,
-      "seed": 26028,
-      "file": "songs/u_electric_fire_7cd2be.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4328866,
-      "tempo": 123.05,
-      "beatOffset": 0.202,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.797,
-      "key": "G minor"
-    },
-    {
-      "id": "u_bogaz_da_bir_gece_f93dba",
-      "title": "Boğaz da Bir Gece",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 181,
-      "bpm": 123,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFF8A00",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 0,
-      "seed": 53343,
-      "file": "songs/u_bogaz_da_bir_gece_f93dba.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4354571,
-      "tempo": 123.02,
-      "beatOffset": 0.153,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.822,
-      "key": "G minor"
-    },
-    {
-      "id": "u_batan_gunesin_altinda_de7cd5",
-      "title": "Batan Güneşin Altında",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 181,
-      "bpm": 148,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFF3D6BFF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 1,
-      "seed": 37098,
-      "file": "songs/u_batan_gunesin_altinda_de7cd5.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4343913,
-      "tempo": 147.64,
-      "beatOffset": 0.047,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.647,
-      "key": "D minor"
-    },
-    {
-      "id": "u_song_b67421",
-      "title": "В свете фар",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 180,
-      "bpm": 123,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFB14DFF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 3,
-      "seed": 21849,
-      "file": "songs/u_song_b67421.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4337644,
-      "tempo": 123.02,
-      "beatOffset": 0.183,
-      "moods": [
-        "Energize",
-        "Workout"
-      ],
-      "energy": 0.706,
-      "key": "D minor"
-    },
-    {
-      "id": "u_burning_paradise_408bcb",
-      "title": "Burning Paradise",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 120,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFF3DF5FF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 2,
-      "seed": 15172,
-      "file": "songs/u_burning_paradise_408bcb.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4348929,
-      "tempo": 120.3,
-      "beatOffset": 0.21,
-      "moods": [
-        "Energize",
-        "Workout",
-        "Party"
-      ],
-      "energy": 0.754,
-      "key": "G minor"
-    },
-    {
-      "id": "u_permanent_threat_29f3e4",
-      "title": "Permanent Threat",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 162,
-      "bpm": 97,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF00F0D8",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 0,
-      "seed": 11551,
-      "file": "songs/u_permanent_threat_29f3e4.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3886248,
-      "tempo": 97.46,
-      "beatOffset": 0.216,
-      "moods": [
-        "Energize",
-        "Late night"
-      ],
-      "energy": 0.746,
-      "key": "D minor"
-    },
-    {
-      "id": "u_song_179492",
-      "title": "Московский холод",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 182,
-      "bpm": 94,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFFF7AD9",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 3,
-      "seed": 34727,
-      "file": "songs/u_song_179492.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4365229,
-      "tempo": 93.94,
-      "beatOffset": 0.1,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.838,
-      "key": "G minor"
-    },
-    {
-      "id": "u_song_fb2199",
-      "title": "Закон бетона",
-      "artist": "Aura",
-      "genre": "Hip-Hop",
-      "seconds": 127,
-      "bpm": 123,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF00F0D8",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 3,
-      "seed": 37755,
-      "file": "songs/u_song_fb2199.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3045523,
-      "tempo": 122.99,
-      "beatOffset": 0.015,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.844,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_midnight_alignment_be1ef2",
-      "title": "Midnight Alignment",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 181,
-      "bpm": 120,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFFFFE14D",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 1,
-      "seed": 42915,
-      "file": "songs/u_midnight_alignment_be1ef2.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4347675,
-      "tempo": 120.17,
-      "beatOffset": 0.149,
-      "moods": [
-        "Energize",
-        "Party",
-        "Happy"
-      ],
-      "energy": 0.594,
-      "key": "G# major"
-    },
-    {
-      "id": "u_golden_motion_b1346b",
-      "title": "Golden Motion",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 180,
-      "bpm": 120,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFFFFE14D",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 2,
-      "seed": 14871,
-      "file": "songs/u_golden_motion_b1346b.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4328240,
-      "tempo": 120.17,
-      "beatOffset": 0.2,
-      "moods": [
-        "Party"
-      ],
-      "energy": 0.668,
-      "key": "G# major"
-    },
-    {
-      "id": "u_king_of_the_empty_town_ad5f5c",
-      "title": "King of the Empty Town",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 182,
-      "bpm": 123,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFA8FF3E",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 1,
-      "seed": 59313,
-      "file": "songs/u_king_of_the_empty_town_ad5f5c.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4377768,
-      "tempo": 123.08,
-      "beatOffset": 0.127,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.73,
-      "key": "G# major"
-    },
-    {
-      "id": "u_before_the_world_wakes_5d8163",
-      "title": "Before the World Wakes",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 179,
-      "bpm": 81,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFF3DF5FF",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 2,
-      "seed": 25314,
-      "file": "songs/u_before_the_world_wakes_5d8163.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4308177,
-      "tempo": 80.83,
-      "beatOffset": 0.145,
-      "moods": [
-        "Happy"
-      ],
-      "energy": 0.662,
-      "key": "D# major"
-    },
-    {
-      "id": "u_song_dab241",
-      "title": "오늘 밤의 주인공",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 126,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFA8FF3E",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 2,
-      "seed": 29544,
-      "file": "songs/u_song_dab241.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4352690,
-      "tempo": 126.09,
-      "beatOffset": 0.125,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.706,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_glavnyy_znak_cb5d46",
-      "title": "Glavnyy znak",
-      "artist": "Aura",
-      "genre": "Dance",
-      "seconds": 182,
-      "bpm": 120,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFFF2E88",
-        "0xFF3DF5FF"
-      ],
-      "coverStyle": 0,
-      "seed": 34147,
-      "file": "songs/u_glavnyy_znak_cb5d46.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4375887,
-      "tempo": 120.24,
-      "beatOffset": 0.15,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.698,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_sunrise_masters_6f50c6",
-      "title": "Sunrise Masters",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 120,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFFFF2E88",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 0,
-      "seed": 42373,
-      "file": "songs/u_sunrise_masters_6f50c6.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4345167,
-      "tempo": 120.07,
-      "beatOffset": 0.078,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.71,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_the_emptiness_we_are_c77ab4",
-      "title": "The Emptiness We Are",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 181,
-      "bpm": 64,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFFE14D",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 56958,
-      "file": "songs/u_the_emptiness_we_are_c77ab4.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4355825,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Happy",
-        "Chill"
-      ],
-      "energy": 0.562,
-      "key": "F# major"
-    },
-    {
-      "id": "u_avenues_of_chrome_7fe046",
-      "title": "Avenues of Chrome",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 181,
-      "bpm": 123,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 3,
-      "seed": 64129,
-      "file": "songs/u_avenues_of_chrome_7fe046.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4358333,
-      "tempo": 123.01,
-      "beatOffset": 0.044,
-      "moods": [
-        "Energize",
-        "Party",
-        "Late night"
-      ],
-      "energy": 0.605,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_velvet_midnight_f23880",
-      "title": "Velvet Midnight",
-      "artist": "Aura",
-      "genre": "Pop",
-      "seconds": 182,
-      "bpm": 123,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFB14DFF",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 2,
-      "seed": 51945,
-      "file": "songs/u_velvet_midnight_f23880.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4375887,
-      "tempo": 123.12,
-      "beatOffset": 0.167,
-      "moods": [
-        "Energize",
-        "Party"
-      ],
-      "energy": 0.676,
-      "key": "A# minor"
-    },
-    {
-      "id": "u_solace_in_the_grove_06a4e8",
-      "title": "Solace in the Grove",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 176,
-      "bpm": 64,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFF3D6BFF",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 2,
-      "seed": 12486,
-      "file": "songs/u_solace_in_the_grove_06a4e8.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 7056240,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.348,
-      "key": "A# major"
-    },
-    {
-      "id": "u_the_morning_canopy_72f6d3",
-      "title": "The Morning Canopy",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFFB14DFF",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 64241,
-      "file": "songs/u_the_morning_canopy_72f6d3.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 6960109,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.367,
-      "key": "A# major"
-    },
-    {
-      "id": "u_where_the_water_rests_72a14b",
-      "title": "Where the Water Rests",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 173,
-      "bpm": 64,
-      "palette": [
-        "0xFF3D6BFF",
-        "0xFFFF8A00",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 1,
-      "seed": 64716,
-      "file": "songs/u_where_the_water_rests_72a14b.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 6918313,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.347,
-      "key": "A# major"
-    },
-    {
-      "id": "u_stillness_at_daybreak_ab7211",
-      "title": "Stillness at Daybreak",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 180,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF3D6BFF",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 2,
-      "seed": 64182,
-      "file": "songs/u_stillness_at_daybreak_ab7211.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4323850,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Late night"
-      ],
-      "energy": 0.372,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_light_through_the_canopy_87f641",
-      "title": "Light Through The Canopy",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 178,
-      "bpm": 64,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFFB14DFF",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 2,
-      "seed": 16035,
-      "file": "songs/u_light_through_the_canopy_87f641.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4266799,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus"
-      ],
-      "energy": 0.418,
-      "key": "A# major"
-    },
-    {
-      "id": "u_dawn_in_the_tall_pines_ce5894",
-      "title": "Dawn in the Tall Pines",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 173,
-      "bpm": 64,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFFFF7AD9",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 0,
-      "seed": 22183,
-      "file": "songs/u_dawn_in_the_tall_pines_ce5894.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4165861,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.342,
-      "key": "F major"
-    },
-    {
-      "id": "u_breath_of_the_ancient_grove_9e1aac",
-      "title": "Breath of the Ancient Grove",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 180,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFFB14DFF",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 0,
-      "seed": 195,
-      "file": "songs/u_breath_of_the_ancient_grove_9e1aac.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4327612,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.329,
-      "key": "A# major"
-    },
-    {
-      "id": "u_dawn_in_the_high_valley_bb8c6a",
-      "title": "Dawn in the High Valley",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 179,
-      "bpm": 64,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFFFF2E88",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 2,
-      "seed": 62009,
-      "file": "songs/u_dawn_in_the_high_valley_bb8c6a.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4291249,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.348,
-      "key": "G major"
-    },
-    {
-      "id": "u_where_the_river_bends_5f92f3",
-      "title": "Where the River Bends",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 178,
-      "bpm": 64,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFFB14DFF",
-        "0xFF00F0D8"
-      ],
-      "coverStyle": 1,
-      "seed": 51193,
-      "file": "songs/u_where_the_river_bends_5f92f3.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4272441,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.379,
-      "key": "G major"
-    },
-    {
-      "id": "u_where_the_river_meets_stone_ab3fe3",
-      "title": "Where the River Meets Stone",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 179,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF00F0D8",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 2,
-      "seed": 40780,
-      "file": "songs/u_where_the_river_meets_stone_ab3fe3.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4305669,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.407,
-      "key": "D major"
-    },
-    {
-      "id": "u_canopy_at_dawn_ad5f29",
-      "title": "Canopy at Dawn",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFFA8FF3E",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 3,
-      "seed": 58133,
-      "file": "songs/u_canopy_at_dawn_ad5f29.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4174639,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus"
-      ],
-      "energy": 0.451,
-      "key": "G major"
-    },
-    {
-      "id": "u_where_the_stream_bends_8c677d",
-      "title": "Where the Stream Bends",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFF00F0D8",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 2,
-      "seed": 52503,
-      "file": "songs/u_where_the_stream_bends_8c677d.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4174639,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.375,
-      "key": "C major"
-    },
-    {
-      "id": "u_where_the_light_meets_water_19d646",
-      "title": "Where the Light Meets Water",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 173,
-      "bpm": 64,
-      "palette": [
-        "0xFFA8FF3E",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 2,
-      "seed": 17133,
-      "file": "songs/u_where_the_light_meets_water_19d646.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4158338,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.376,
-      "key": "F minor"
-    },
-    {
-      "id": "u_canopy_awakening_a708e7",
-      "title": "Canopy Awakening",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 161,
-      "bpm": 64,
-      "palette": [
-        "0xFF4FD8FF",
-        "0xFFFF7AD9",
-        "0xFFFF8A00"
-      ],
-      "coverStyle": 0,
-      "seed": 45804,
-      "file": "songs/u_canopy_awakening_a708e7.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3879350,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.369,
-      "key": "D# major"
-    },
-    {
-      "id": "u_first_light_in_the_canopy_63bdd3",
-      "title": "First Light In The Canopy",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 180,
-      "bpm": 64,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFF8A00",
-        "0xFFA8FF3E"
-      ],
-      "coverStyle": 1,
-      "seed": 46806,
-      "file": "songs/u_first_light_in_the_canopy_63bdd3.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4317581,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.361,
-      "key": "G# major"
-    },
-    {
-      "id": "u_derin_bir_nefes_d2b427",
-      "title": "Derin Bir Nefes",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 181,
-      "bpm": 81,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFF3DF5FF",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 0,
-      "seed": 13406,
-      "file": "songs/u_derin_bir_nefes_d2b427.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4350181,
-      "tempo": 80.78,
-      "beatOffset": 0.25,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.582,
-      "key": "A# major"
-    },
-    {
-      "id": "u_rare_sea_friends_c07689",
-      "title": "Rare Sea Friends",
-      "artist": "Aura",
-      "genre": "Electronic",
-      "seconds": 179,
-      "bpm": 136,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFFFF7AD9",
-        "0xFF4FD8FF"
-      ],
-      "coverStyle": 0,
-      "seed": 21740,
-      "file": "songs/u_rare_sea_friends_c07689.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4295638,
-      "tempo": 135.94,
-      "beatOffset": 0.423,
-      "moods": [
-        "Energize"
-      ],
-      "energy": 0.669,
-      "key": "G# major"
-    },
-    {
-      "id": "u_anin_siginagi_9c509a",
-      "title": "Anin Siginagi",
-      "artist": "Aura",
-      "genre": "R&B",
-      "seconds": 170,
-      "bpm": 86,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFFFF2E88",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 0,
-      "seed": 32058,
-      "file": "songs/u_anin_siginagi_9c509a.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 6785611,
-      "tempo": 86.07,
-      "beatOffset": 0.665,
-      "moods": [
-        "Late night"
-      ],
-      "energy": 0.708,
-      "key": "G minor"
-    },
-    {
-      "id": "u_morning_at_the_forest_edge_99d99f",
-      "title": "Morning At The Forest Edge",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 178,
-      "bpm": 64,
-      "palette": [
-        "0xFF00F0D8",
-        "0xFF4FD8FF",
-        "0xFF3DF5FF"
-      ],
-      "coverStyle": 3,
-      "seed": 37144,
-      "file": "songs/u_morning_at_the_forest_edge_99d99f.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 7105350,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.336,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_breath_of_the_horizon_d2a176",
-      "title": "Breath of the Horizon",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF2E88",
-        "0xFFFF8A00",
-        "0xFFFF7AD9"
-      ],
-      "coverStyle": 1,
-      "seed": 25775,
-      "file": "songs/u_breath_of_the_horizon_d2a176.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 6975782,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.284,
-      "key": "A# major"
-    },
-    {
-      "id": "u_sonsuz_dinginlik_9e7fc5",
-      "title": "Sonsuz Dinginlik",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 176,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF7AD9",
-        "0xFF4FD8FF",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 2,
-      "seed": 36885,
-      "file": "songs/u_sonsuz_dinginlik_9e7fc5.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 7028027,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Late night"
-      ],
-      "energy": 0.46,
-      "key": "D# minor"
-    },
-    {
-      "id": "u_beneath_the_alpine_canopy_caa4fa",
-      "title": "Beneath the Alpine Canopy",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 174,
-      "bpm": 64,
-      "palette": [
-        "0xFFFFE14D",
-        "0xFF3D6BFF",
-        "0xFFFF2E88"
-      ],
-      "coverStyle": 1,
-      "seed": 49500,
-      "file": "songs/u_beneath_the_alpine_canopy_caa4fa.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4191566,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus"
-      ],
-      "energy": 0.421,
-      "key": "F major"
-    },
-    {
-      "id": "u_where_the_pines_sigh_a601de",
-      "title": "Where the Pines Sigh",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 173,
-      "bpm": 64,
-      "palette": [
-        "0xFFB14DFF",
-        "0xFFFF8A00",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 3,
-      "seed": 57292,
-      "file": "songs/u_where_the_pines_sigh_a601de.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4146426,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Sleep"
-      ],
-      "energy": 0.338,
-      "key": "F major"
-    },
-    {
-      "id": "u_where_moss_meets_water_b5d720",
-      "title": "Where Moss Meets Water",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 161,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFFA8FF3E",
-        "0xFFFFE14D"
-      ],
-      "coverStyle": 0,
-      "seed": 50627,
-      "file": "songs/u_where_moss_meets_water_b5d720.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 3878096,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus"
-      ],
-      "energy": 0.4,
-      "key": "F major"
-    },
-    {
-      "id": "u_slow_tide_rising_efaca4",
-      "title": "Slow Tide Rising",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 173,
-      "bpm": 64,
-      "palette": [
-        "0xFF3DF5FF",
-        "0xFFFFE14D",
-        "0xFF3D6BFF"
-      ],
-      "coverStyle": 0,
-      "seed": 46693,
-      "file": "songs/u_slow_tide_rising_efaca4.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4157711,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill"
-      ],
-      "energy": 0.452,
-      "key": "B major"
-    },
-    {
-      "id": "u_blue_hour_drift_5bc9fd",
-      "title": "Blue Hour Drift",
-      "artist": "Aura",
-      "genre": "Ambient",
-      "seconds": 180,
-      "bpm": 64,
-      "palette": [
-        "0xFFFF8A00",
-        "0xFF00F0D8",
-        "0xFFB14DFF"
-      ],
-      "coverStyle": 0,
-      "seed": 17228,
-      "file": "songs/u_blue_hour_drift_5bc9fd.mp3",
-      "genreSource": "auto",
-      "bpmSource": "default",
-      "size": 4336389,
-      "tempo": 64.0,
-      "beatOffset": 0.0,
-      "moods": [
-        "Chill",
-        "Focus",
-        "Late night"
-      ],
-      "energy": 0.406,
-      "key": "G# minor"
-    }
-  ]
+    "app":  "Aura",
+    "updated":  "2026-10-26T16:00:30.3251877Z",
+    "tracks":  [
+                   {
+                       "id":  "u_alp_er_korkmas_2e31e6",
+                       "title":  "Alp Er Korkmas",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFF3DF5FF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  44249,
+                       "file":  "songs/u_alp_er_korkmas_2e31e6.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3980917
+                   },
+                   {
+                       "id":  "u_tengri_kilici_6ee655",
+                       "title":  "Tengri Kılıcı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFA8FF3E",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  1033,
+                       "file":  "songs/u_tengri_kilici_6ee655.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4350184
+                   },
+                   {
+                       "id":  "u_kok_tengri_cagirir_fe9bb9",
+                       "title":  "Kök Tengri Çağırır",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  157,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFA8FF3E",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  65535,
+                       "file":  "songs/u_kok_tengri_cagirir_fe9bb9.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3774028
+                   },
+                   {
+                       "id":  "u_tengri_kutur_dfa9e3",
+                       "title":  "Tengri Kütür",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFF3DF5FF",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  16678,
+                       "file":  "songs/u_tengri_kutur_dfa9e3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4273071
+                   },
+                   {
+                       "id":  "u_kok_tengri_nin_temir_kilici_d62f5d",
+                       "title":  "Kök Tengri’nin Temir Kılıcı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF4FD8FF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  2202,
+                       "file":  "songs/u_kok_tengri_nin_temir_kilici_d62f5d.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4299402
+                   },
+                   {
+                       "id":  "u_kok_tengri_qolayur_be5c97",
+                       "title":  "Kök Tengri Qolayur",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFFFE14D",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  39071,
+                       "file":  "songs/u_kok_tengri_qolayur_be5c97.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4350184
+                   },
+                   {
+                       "id":  "u_donmez_oldu_turnalar_bcaf03",
+                       "title":  "Dönmez Oldu Turnalar",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFA8FF3E",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  29888,
+                       "file":  "songs/u_donmez_oldu_turnalar_bcaf03.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4300029
+                   },
+                   {
+                       "id":  "u_sehir_uyaninca_c1dc7c",
+                       "title":  "Şehir Uyanınca",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFFFF2E88",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  1907,
+                       "file":  "songs/u_sehir_uyaninca_c1dc7c.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4377143
+                   },
+                   {
+                       "id":  "u_gozlerinde_bir_kilit_ffa61b",
+                       "title":  "Gözlerinde Bir Kilit",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  25912,
+                       "file":  "songs/u_gozlerinde_bir_kilit_ffa61b.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4350184
+                   },
+                   {
+                       "id":  "u_song_d64206",
+                       "title":  "Мой район помнит всё",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  160,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFB14DFF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  30015,
+                       "file":  "songs/u_song_d64206.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3849260
+                   },
+                   {
+                       "id":  "u_no_hand_me_downs_239fde",
+                       "title":  "No Hand Me Downs",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  162,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFF3DF5FF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  23457,
+                       "file":  "songs/u_no_hand_me_downs_239fde.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3885623
+                   },
+                   {
+                       "id":  "u_burning_under_glass_e36aa1",
+                       "title":  "Burning Under Glass",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFB14DFF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  31121,
+                       "file":  "songs/u_burning_under_glass_e36aa1.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4359588
+                   },
+                   {
+                       "id":  "u_bengi_tasta_bitig_0a56e0",
+                       "title":  "Bengi Taşta Bitig",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  171,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFB14DFF",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  25431,
+                       "file":  "songs/u_bengi_tasta_bitig_0a56e0.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4101290
+                   },
+                   {
+                       "id":  "u_song_cc5729",
+                       "title":  "Выше всех звезд",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  175,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF4FD8FF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  43308,
+                       "file":  "songs/u_song_cc5729.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4204108
+                   },
+                   {
+                       "id":  "u_the_choice_i_didn_t_make_4f3d98",
+                       "title":  "The Choice I Didn t Make",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  178,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF9937E6",
+                                       "0xFFE6B537",
+                                       "0xFFE637B0"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  2193,
+                       "file":  "songs/u_the_choice_i_didn_t_make_4f3d98.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4273071,
+                       "image":  "covers/u_the_choice_i_didn_t_make_4f3d98.jpg",
+                       "tempo":  120.15,
+                       "beatOffset":  0.18,
+                       "moods":  [
+                                     "Party"
+                                 ],
+                       "energy":  0.647,
+                       "key":  "E major"
+                   },
+                   {
+                       "id":  "u_blueprint_scheme_aaa3f7",
+                       "title":  "Blueprint Scheme",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  172,
+                       "bpm":  91,
+                       "palette":  [
+                                       "0xFF3573E9",
+                                       "0xFFFF2E88",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  45376,
+                       "file":  "songs/u_blueprint_scheme_aaa3f7.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4140787,
+                       "image":  "covers/u_blueprint_scheme_aaa3f7.jpg",
+                       "tempo":  90.73,
+                       "beatOffset":  0.274,
+                       "moods":  [
+                                     "Energize",
+                                     "Happy"
+                                 ],
+                       "energy":  0.783,
+                       "key":  "E major"
+                   },
+                   {
+                       "id":  "u_midnight_pavement_daaccd",
+                       "title":  "Midnight Pavement",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  180,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF7A37E6",
+                                       "0xFF379BE6",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  35618,
+                       "file":  "songs/u_midnight_pavement_daaccd.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4321972,
+                       "image":  "covers/u_midnight_pavement_daaccd.jpg",
+                       "tempo":  120.2,
+                       "beatOffset":  0.177,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.682,
+                       "key":  "E major"
+                   },
+                   {
+                       "id":  "u_tracing_the_outline_b8f37c",
+                       "title":  "Tracing the Outline",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  166,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF8263EE",
+                                       "0xFFEC65EC",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  10128,
+                       "file":  "songs/u_tracing_the_outline_b8f37c.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3991575,
+                       "image":  "covers/u_tracing_the_outline_b8f37c.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus"
+                                 ],
+                       "energy":  0.436,
+                       "key":  "E major"
+                   },
+                   {
+                       "id":  "u_i_own_the_earth_9097cb",
+                       "title":  "I Own The Earth",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  180,
+                       "bpm":  143,
+                       "palette":  [
+                                       "0xFF47F9FA",
+                                       "0xFF376DE6",
+                                       "0xFF70E637"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  10785,
+                       "file":  "songs/u_i_own_the_earth_9097cb.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4327615,
+                       "image":  "covers/u_i_own_the_earth_9097cb.jpg",
+                       "tempo":  143.46,
+                       "beatOffset":  0.015,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout"
+                                 ],
+                       "energy":  0.789,
+                       "key":  "C# minor"
+                   },
+                   {
+                       "id":  "u_song_248890",
+                       "title":  "Закалённый в огне",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  180,
+                       "bpm":  96,
+                       "palette":  [
+                                       "0xFFFA9A23",
+                                       "0xFFE63757",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  25773,
+                       "file":  "songs/u_song_248890.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4335765,
+                       "image":  "covers/u_song_248890.jpg",
+                       "tempo":  95.68,
+                       "beatOffset":  0.56,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.71,
+                       "key":  "C# minor"
+                   },
+                   {
+                       "id":  "u_sehir_alev_alev_32f8bc",
+                       "title":  "Şehir Alev Alev",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  182,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFFF99A24",
+                                       "0xFFE63746",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  49118,
+                       "file":  "songs/u_sehir_alev_alev_32f8bc.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4375262,
+                       "image":  "covers/u_sehir_alev_alev_32f8bc.jpg",
+                       "tempo":  126,
+                       "beatOffset":  0.058,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.702,
+                       "key":  "G# minor"
+                   },
+                   {
+                       "id":  "u_ayni_yerdeyim_30bfe1",
+                       "title":  "Aynı Yerdeyim",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF37C8E6",
+                                       "0xFF9037E6",
+                                       "0xFFE637CC"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  7383,
+                       "file":  "songs/u_ayni_yerdeyim_30bfe1.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4345169,
+                       "image":  "covers/u_ayni_yerdeyim_30bfe1.jpg",
+                       "tempo":  120.19,
+                       "beatOffset":  0.164,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Late night"
+                                 ],
+                       "energy":  0.733,
+                       "key":  "G# minor"
+                   },
+                   {
+                       "id":  "u_kaldirimin_krali_c939c1",
+                       "title":  "Kaldırımın Kralı",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  165,
+                       "bpm":  94,
+                       "palette":  [
+                                       "0xFFEDE763",
+                                       "0xFFFF8A00",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  33710,
+                       "file":  "songs/u_kaldirimin_krali_c939c1.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3954586,
+                       "image":  "covers/u_kaldirimin_krali_c939c1.jpg",
+                       "tempo":  93.92,
+                       "beatOffset":  0.22,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.811,
+                       "key":  "G# minor"
+                   },
+                   {
+                       "id":  "u_gurbet_elde_sonen_efkar_b2b751",
+                       "title":  "Gurbet Elde Sönen Efkar",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  163,
+                       "bpm":  91,
+                       "palette":  [
+                                       "0xFFECA765",
+                                       "0xFF5E37E6",
+                                       "0xFFE6378F"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  58435,
+                       "file":  "songs/u_gurbet_elde_sonen_efkar_b2b751.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3915716,
+                       "image":  "covers/u_gurbet_elde_sonen_efkar_b2b751.jpg",
+                       "tempo":  90.76,
+                       "beatOffset":  0.301,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.639,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_yalan_dunya_el_aman_83d7cb",
+                       "title":  "Yalan Dünya El Aman",
+                       "artist":  "Aura",
+                       "genre":  "Folk",
+                       "seconds":  166,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF69B5B",
+                                       "0xFFE63761",
+                                       "0xFFE637D5"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  93,
+                       "file":  "songs/u_yalan_dunya_el_aman_83d7cb.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3994710,
+                       "image":  "covers/u_yalan_dunya_el_aman_83d7cb.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.595,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_kok_tengri_asra_801e65",
+                       "title":  "Kok Tengri Asra",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  184,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF5A96F6",
+                                       "0xFFF3E95E",
+                                       "0xFF65ECD9"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  2389,
+                       "file":  "songs/u_kok_tengri_asra_801e65.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4431059,
+                       "image":  "covers/u_kok_tengri_asra_801e65.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.563,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_ocagimda_tuten_duman_cd71be",
+                       "title":  "Ocağımda Tüten Duman",
+                       "artist":  "Aura",
+                       "genre":  "Folk",
+                       "seconds":  161,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF6AF5B",
+                                       "0xFF3747E6",
+                                       "0xFFEC657B"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  49569,
+                       "file":  "songs/u_ocagimda_tuten_duman_cd71be.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3865561,
+                       "image":  "covers/u_ocagimda_tuten_duman_cd71be.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.606,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_kok_tengri_bizge_bar_41f6c1",
+                       "title":  "Kok Tengri bizge bar",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  179,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF69C5A",
+                                       "0xFFEA5777",
+                                       "0xFF6A37E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  6933,
+                       "file":  "songs/u_kok_tengri_bizge_bar_41f6c1.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4290625,
+                       "image":  "covers/u_kok_tengri_bizge_bar_41f6c1.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.524,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_sensizlik_bir_sehir_gibi_3e26fe",
+                       "title":  "Sensizlik Bir Şehir Gibi",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFF3768E6",
+                                       "0xFFFFE14D",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  21469,
+                       "file":  "songs/u_sensizlik_bir_sehir_gibi_3e26fe.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4350811,
+                       "image":  "covers/u_sensizlik_bir_sehir_gibi_3e26fe.jpg",
+                       "tempo":  126.01,
+                       "beatOffset":  0.052,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.731,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_after_the_lights_fade_5b2cab",
+                       "title":  "After the Lights Fade",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFF4A37E6",
+                                       "0xFFE65637",
+                                       "0xFFBD37E6"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  9947,
+                       "file":  "songs/u_after_the_lights_fade_5b2cab.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4359588,
+                       "image":  "covers/u_after_the_lights_fade_5b2cab.jpg",
+                       "tempo":  126.09,
+                       "beatOffset":  0.144,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.668,
+                       "key":  "D# major"
+                   },
+                   {
+                       "id":  "u_let_the_morning_wait_cd9afb",
+                       "title":  "Let The Morning Wait",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  178,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFFF75A8E",
+                                       "0xFF9137E6",
+                                       "0xFFECEC65"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  38656,
+                       "file":  "songs/u_let_the_morning_wait_cd9afb.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4281221,
+                       "image":  "covers/u_let_the_morning_wait_cd9afb.jpg",
+                       "tempo":  120.22,
+                       "beatOffset":  0.174,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.682,
+                       "key":  "C# major"
+                   },
+                   {
+                       "id":  "u_only_us_remaining_837211",
+                       "title":  "Only Us Remaining",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  159,
+                       "bpm":  86,
+                       "palette":  [
+                                       "0xFF8A37E6",
+                                       "0xFFFF8A00",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  8075,
+                       "file":  "songs/u_only_us_remaining_837211.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3824183,
+                       "image":  "covers/u_only_us_remaining_837211.jpg",
+                       "tempo":  86.01,
+                       "beatOffset":  0.461,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.685,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_giving_up_gravity_3ed388",
+                       "title":  "Giving Up Gravity",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  172,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFF4AE1F7",
+                                       "0xFFECD441",
+                                       "0xFFF759D2"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  3199,
+                       "file":  "songs/u_giving_up_gravity_3ed388.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4141414,
+                       "image":  "covers/u_giving_up_gravity_3ed388.jpg",
+                       "tempo":  126.11,
+                       "beatOffset":  0.132,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.702,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_song_f6f7fb",
+                       "title":  "Химия любви",
+                       "artist":  "Aura",
+                       "genre":  "Electronic",
+                       "seconds":  173,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFFE73A8A",
+                                       "0xFFF6805B",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  64152,
+                       "file":  "songs/u_song_f6f7fb.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4149564,
+                       "image":  "covers/u_song_f6f7fb.jpg",
+                       "tempo":  125.98,
+                       "beatOffset":  0.046,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.648,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_isiklar_altinda_1c0603",
+                       "title":  "Işıklar Altında",
+                       "artist":  "Aura",
+                       "genre":  "World",
+                       "seconds":  157,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFFC637E6",
+                                       "0xFFE63785",
+                                       "0xFFE66437"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  59116,
+                       "file":  "songs/u_isiklar_altinda_1c0603.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3765251,
+                       "image":  "covers/u_isiklar_altinda_1c0603.jpg",
+                       "tempo":  126.01,
+                       "beatOffset":  0.088,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.705,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_beton_und_gold_e3223c",
+                       "title":  "Beton und Gold",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  177,
+                       "bpm":  129,
+                       "palette":  [
+                                       "0xFFF9BF58",
+                                       "0xFF4FD8FF",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  6901,
+                       "file":  "songs/u_beton_und_gold_e3223c.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4255517,
+                       "image":  "covers/u_beton_und_gold_e3223c.jpg",
+                       "tempo":  129.25,
+                       "beatOffset":  0.312,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.756,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_song_914c9f",
+                       "title":  "Цена секунды",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  180,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF63EBED",
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  58158,
+                       "file":  "songs/u_song_914c9f.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4328242,
+                       "image":  "covers/u_song_914c9f.jpg",
+                       "tempo":  119.99,
+                       "beatOffset":  0.03,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.725,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_diamonds_cut_glass_96fa12",
+                       "title":  "Diamonds Cut Glass",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  173,
+                       "bpm":  136,
+                       "palette":  [
+                                       "0xFF59F8F8",
+                                       "0xFFB75BF5",
+                                       "0xFF636BED"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  23643,
+                       "file":  "songs/u_diamonds_cut_glass_96fa12.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4168999,
+                       "image":  "covers/u_diamonds_cut_glass_96fa12.jpg",
+                       "tempo":  135.98,
+                       "beatOffset":  0.407,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout"
+                                 ],
+                       "energy":  0.735,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_sehrin_en_derin_yeri_d35a1f",
+                       "title":  "Şehrin En Derin Yeri",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  162,
+                       "bpm":  98,
+                       "palette":  [
+                                       "0xFFE637CA",
+                                       "0xFF8A37E6",
+                                       "0xFF3754E6"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  26369,
+                       "file":  "songs/u_sehrin_en_derin_yeri_d35a1f.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3889384,
+                       "image":  "covers/u_sehrin_en_derin_yeri_d35a1f.jpg",
+                       "tempo":  97.52,
+                       "beatOffset":  0.109,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.777,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_istanbul_bizim_sahidimiz_fc7e1b",
+                       "title":  "İstanbul Bizim Şahidimiz",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  162,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFE63741",
+                                       "0xFFE637B1",
+                                       "0xFFA237E6"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  51985,
+                       "file":  "songs/u_istanbul_bizim_sahidimiz_fc7e1b.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3896281,
+                       "image":  "covers/u_istanbul_bizim_sahidimiz_fc7e1b.jpg",
+                       "tempo":  123.1,
+                       "beatOffset":  0.14,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.821,
+                       "key":  "F# minor"
+                   },
+                   {
+                       "id":  "u_kendi_yolunda_53b384",
+                       "title":  "Kendi Yolunda",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  170,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFF97853",
+                                       "0xFFF9E858",
+                                       "0xFF7337E6"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  36817,
+                       "file":  "songs/u_kendi_yolunda_53b384.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4090632,
+                       "image":  "covers/u_kendi_yolunda_53b384.jpg",
+                       "tempo":  123.07,
+                       "beatOffset":  0.092,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.688,
+                       "key":  "C# minor"
+                   },
+                   {
+                       "id":  "u_turnam_bir_ses_ver_f3c055",
+                       "title":  "Turnam Bir Ses Ver",
+                       "artist":  "Aura",
+                       "genre":  "Folk",
+                       "seconds":  180,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF88258",
+                                       "0xFFF3E65E",
+                                       "0xFF3750E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  64911,
+                       "file":  "songs/u_turnam_bir_ses_ver_f3c055.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4321345,
+                       "image":  "covers/u_turnam_bir_ses_ver_f3c055.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Late night"
+                                 ],
+                       "energy":  0.562,
+                       "key":  "F# major"
+                   },
+                   {
+                       "id":  "u_bogaz_da_mavi_saatler_c8a4a5",
+                       "title":  "Boğaz da Mavi Saatler",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF5491F8",
+                                       "0xFFFF2E88",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  7822,
+                       "file":  "songs/u_bogaz_da_mavi_saatler_c8a4a5.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4311314,
+                       "image":  "covers/u_bogaz_da_mavi_saatler_c8a4a5.jpg",
+                       "tempo":  110,
+                       "beatOffset":  0.313,
+                       "moods":  [
+                                     "Energize",
+                                     "Party",
+                                     "Happy"
+                                 ],
+                       "energy":  0.641,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_buzdan_ekranlar_0f3296",
+                       "title":  "Buzdan Ekranlar",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF37BDE6",
+                                       "0xFF3749E6",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  53399,
+                       "file":  "songs/u_buzdan_ekranlar_0f3296.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4360215,
+                       "image":  "covers/u_buzdan_ekranlar_0f3296.jpg",
+                       "tempo":  109.89,
+                       "beatOffset":  0.02,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.69,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_song_8ba7c5",
+                       "title":  "Снег на стекле",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF375AE6",
+                                       "0xFF9A37E6",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  27969,
+                       "file":  "songs/u_song_8ba7c5.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4184046,
+                       "image":  "covers/u_song_8ba7c5.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.574,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_yaniyoruz_bu_gece_20480e",
+                       "title":  "Yanıyoruz Bu Gece",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  180,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFF3912B",
+                                       "0xFFE63752",
+                                       "0xFF8237E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  20244,
+                       "file":  "songs/u_yaniyoruz_bu_gece_20480e.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4328242,
+                       "image":  "covers/u_yaniyoruz_bu_gece_20480e.jpg",
+                       "tempo":  123.02,
+                       "beatOffset":  0.425,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.707,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_sadece_sen_ve_ben_364012",
+                       "title":  "Sadece Sen ve Ben",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  178,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFE637B2",
+                                       "0xFF37C7E6",
+                                       "0xFF9D37E6"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  38682,
+                       "file":  "songs/u_sadece_sen_ve_ben_364012.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4275579,
+                       "image":  "covers/u_sadece_sen_ve_ben_364012.jpg",
+                       "tempo":  123.07,
+                       "beatOffset":  0.135,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.714,
+                       "key":  "D# major"
+                   },
+                   {
+                       "id":  "u_yarim_kalan_sehir_99fbb4",
+                       "title":  "Yarım Kalan Şehir",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  179,
+                       "bpm":  106,
+                       "palette":  [
+                                       "0xFF7E37E6",
+                                       "0xFF00F0D8",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  59008,
+                       "file":  "songs/u_yarim_kalan_sehir_99fbb4.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4294387,
+                       "image":  "covers/u_yarim_kalan_sehir_99fbb4.jpg",
+                       "tempo":  105.51,
+                       "beatOffset":  0.126,
+                       "moods":  [
+                                     "Party"
+                                 ],
+                       "energy":  0.66,
+                       "key":  "F# major"
+                   },
+                   {
+                       "id":  "u_gozlerinde_yildizlar_268179",
+                       "title":  "Gözlerinde Yıldızlar",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  182,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFAE5AF7",
+                                       "0xFF5B9BF6",
+                                       "0xFFEC65C7"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  32165,
+                       "file":  "songs/u_gozlerinde_yildizlar_268179.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4365231,
+                       "image":  "covers/u_gozlerinde_yildizlar_268179.jpg",
+                       "tempo":  123.11,
+                       "beatOffset":  0.036,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.75,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_song_e59464",
+                       "title":  "Огонь и сталь",
+                       "artist":  "Aura",
+                       "genre":  "World",
+                       "seconds":  182,
+                       "bpm":  140,
+                       "palette":  [
+                                       "0xFFFA7528",
+                                       "0xFFE63769",
+                                       "0xFF377FE6"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  56699,
+                       "file":  "songs/u_song_e59464.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4364604,
+                       "image":  "covers/u_song_e59464.jpg",
+                       "tempo":  139.51,
+                       "beatOffset":  0.028,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout"
+                                 ],
+                       "energy":  0.792,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_song_679db0",
+                       "title":  "Берём своё",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  179,
+                       "bpm":  140,
+                       "palette":  [
+                                       "0xFFECB739",
+                                       "0xFF00F0D8",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  2916,
+                       "file":  "songs/u_song_679db0.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4313195,
+                       "image":  "covers/u_song_679db0.jpg",
+                       "tempo":  139.64,
+                       "beatOffset":  0.026,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.824,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_fuel_for_the_sail_584ed9",
+                       "title":  "Fuel for the Sail",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  180,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFFA5A37",
+                                       "0xFFE63794",
+                                       "0xFF9537E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  12991,
+                       "file":  "songs/u_fuel_for_the_sail_584ed9.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4318211,
+                       "image":  "covers/u_fuel_for_the_sail_584ed9.jpg",
+                       "tempo":  123,
+                       "beatOffset":  0.008,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.724,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_o_kalabalikta_a88601",
+                       "title":  "O Kalabalıkta",
+                       "artist":  "Aura",
+                       "genre":  "World",
+                       "seconds":  179,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFE63799",
+                                       "0xFF37CEE6",
+                                       "0xFF9737E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  65447,
+                       "file":  "songs/u_o_kalabalikta_a88601.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4310224,
+                       "image":  "covers/u_o_kalabalikta_a88601.jpg",
+                       "tempo":  123.06,
+                       "beatOffset":  0.422,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.769,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_heat_in_the_cold_617ca0",
+                       "title":  "Heat in the Cold",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  179,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFFA9A23",
+                                       "0xFF24AEF9",
+                                       "0xFF3235EB"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  44886,
+                       "file":  "songs/u_heat_in_the_cold_617ca0.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4293131,
+                       "image":  "covers/u_heat_in_the_cold_617ca0.jpg",
+                       "tempo":  123.01,
+                       "beatOffset":  0.111,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.725,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_haloes_in_the_blue_hour_ca4202",
+                       "title":  "Haloes in the Blue Hour",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  175,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF37ACE6",
+                                       "0xFFFFE14D",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  25304,
+                       "file":  "songs/u_haloes_in_the_blue_hour_ca4202.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4211002,
+                       "image":  "covers/u_haloes_in_the_blue_hour_ca4202.jpg",
+                       "tempo":  120.11,
+                       "beatOffset":  0.112,
+                       "moods":  [
+                                     "Energize",
+                                     "Party",
+                                     "Happy"
+                                 ],
+                       "energy":  0.61,
+                       "key":  "F major"
+                   },
+                   {
+                       "id":  "u_electric_fire_7cd2be",
+                       "title":  "Electric Fire",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  180,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFE64C37",
+                                       "0xFF37DBE6",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  26028,
+                       "file":  "songs/u_electric_fire_7cd2be.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4328866,
+                       "image":  "covers/u_electric_fire_7cd2be.jpg",
+                       "tempo":  123.05,
+                       "beatOffset":  0.202,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.797,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_bogaz_da_bir_gece_f93dba",
+                       "title":  "Boğaz da Bir Gece",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  181,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFF3746E6",
+                                       "0xFFB237E6",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  53343,
+                       "file":  "songs/u_bogaz_da_bir_gece_f93dba.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4354571,
+                       "image":  "covers/u_bogaz_da_bir_gece_f93dba.jpg",
+                       "tempo":  123.02,
+                       "beatOffset":  0.153,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.822,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_batan_gunesin_altinda_de7cd5",
+                       "title":  "Batan Güneşin Altında",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  181,
+                       "bpm":  148,
+                       "palette":  [
+                                       "0xFFF84A5F",
+                                       "0xFFF8D459",
+                                       "0xFFE637C3"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  37098,
+                       "file":  "songs/u_batan_gunesin_altinda_de7cd5.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4343913,
+                       "image":  "covers/u_batan_gunesin_altinda_de7cd5.jpg",
+                       "tempo":  147.64,
+                       "beatOffset":  0.047,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.647,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_song_b67421",
+                       "title":  "В свете фар",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  180,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFE63796",
+                                       "0xFF8F37E6",
+                                       "0xFF3754E6"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  21849,
+                       "file":  "songs/u_song_b67421.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4337644,
+                       "image":  "covers/u_song_b67421.jpg",
+                       "tempo":  123.02,
+                       "beatOffset":  0.183,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout"
+                                 ],
+                       "energy":  0.706,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_burning_paradise_408bcb",
+                       "title":  "Burning Paradise",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFFFA6A2B",
+                                       "0xFF3D6BFF",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  15172,
+                       "file":  "songs/u_burning_paradise_408bcb.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4348929,
+                       "image":  "covers/u_burning_paradise_408bcb.jpg",
+                       "tempo":  120.3,
+                       "beatOffset":  0.21,
+                       "moods":  [
+                                     "Energize",
+                                     "Workout",
+                                     "Party"
+                                 ],
+                       "energy":  0.754,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_permanent_threat_29f3e4",
+                       "title":  "Permanent Threat",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  162,
+                       "bpm":  97,
+                       "palette":  [
+                                       "0xFFF35D80",
+                                       "0xFFFF8A00",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  11551,
+                       "file":  "songs/u_permanent_threat_29f3e4.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3886248,
+                       "image":  "covers/u_permanent_threat_29f3e4.jpg",
+                       "tempo":  97.46,
+                       "beatOffset":  0.216,
+                       "moods":  [
+                                     "Energize",
+                                     "Late night"
+                                 ],
+                       "energy":  0.746,
+                       "key":  "D minor"
+                   },
+                   {
+                       "id":  "u_song_179492",
+                       "title":  "Московский холод",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  182,
+                       "bpm":  94,
+                       "palette":  [
+                                       "0xFF3765E6",
+                                       "0xFF00F0D8",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  34727,
+                       "file":  "songs/u_song_179492.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4365229,
+                       "image":  "covers/u_song_179492.jpg",
+                       "tempo":  93.94,
+                       "beatOffset":  0.1,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.838,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_song_fb2199",
+                       "title":  "Закон бетона",
+                       "artist":  "Aura",
+                       "genre":  "Hip-Hop",
+                       "seconds":  127,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFF0606B",
+                                       "0xFFFF8A00",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  37755,
+                       "file":  "songs/u_song_fb2199.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3045523,
+                       "image":  "covers/u_song_fb2199.jpg",
+                       "tempo":  122.99,
+                       "beatOffset":  0.015,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.844,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_midnight_alignment_be1ef2",
+                       "title":  "Midnight Alignment",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  181,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFF9A3BE7",
+                                       "0xFFE63784",
+                                       "0xFFEAD157"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  42915,
+                       "file":  "songs/u_midnight_alignment_be1ef2.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4347675,
+                       "image":  "covers/u_midnight_alignment_be1ef2.jpg",
+                       "tempo":  120.17,
+                       "beatOffset":  0.149,
+                       "moods":  [
+                                     "Energize",
+                                     "Party",
+                                     "Happy"
+                                 ],
+                       "energy":  0.594,
+                       "key":  "G# major"
+                   },
+                   {
+                       "id":  "u_golden_motion_b1346b",
+                       "title":  "Golden Motion",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  180,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFFF9A32B",
+                                       "0xFF8037E6",
+                                       "0xFFE63765"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  14871,
+                       "file":  "songs/u_golden_motion_b1346b.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4328240,
+                       "image":  "covers/u_golden_motion_b1346b.jpg",
+                       "tempo":  120.17,
+                       "beatOffset":  0.2,
+                       "moods":  [
+                                     "Party"
+                                 ],
+                       "energy":  0.668,
+                       "key":  "G# major"
+                   },
+                   {
+                       "id":  "u_king_of_the_empty_town_ad5f5c",
+                       "title":  "King of the Empty Town",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  182,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFF4E37E6",
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  59313,
+                       "file":  "songs/u_king_of_the_empty_town_ad5f5c.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4377768,
+                       "image":  "covers/u_king_of_the_empty_town_ad5f5c.jpg",
+                       "tempo":  123.08,
+                       "beatOffset":  0.127,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.73,
+                       "key":  "G# major"
+                   },
+                   {
+                       "id":  "u_before_the_world_wakes_5d8163",
+                       "title":  "Before the World Wakes",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  179,
+                       "bpm":  81,
+                       "palette":  [
+                                       "0xFFF4AD5C",
+                                       "0xFF3747E6",
+                                       "0xFFA037E6"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  25314,
+                       "file":  "songs/u_before_the_world_wakes_5d8163.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4308177,
+                       "image":  "covers/u_before_the_world_wakes_5d8163.jpg",
+                       "tempo":  80.83,
+                       "beatOffset":  0.145,
+                       "moods":  [
+                                     "Happy"
+                                 ],
+                       "energy":  0.662,
+                       "key":  "D# major"
+                   },
+                   {
+                       "id":  "u_song_dab241",
+                       "title":  "오늘 밤의 주인공",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  126,
+                       "palette":  [
+                                       "0xFF9837E6",
+                                       "0xFFFF7AD9",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  29544,
+                       "file":  "songs/u_song_dab241.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4352690,
+                       "image":  "covers/u_song_dab241.jpg",
+                       "tempo":  126.09,
+                       "beatOffset":  0.125,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.706,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_glavnyy_znak_cb5d46",
+                       "title":  "Glavnyy znak",
+                       "artist":  "Aura",
+                       "genre":  "Dance",
+                       "seconds":  182,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFFFAE74E",
+                                       "0xFFF954C6",
+                                       "0xFFF3745D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  34147,
+                       "file":  "songs/u_glavnyy_znak_cb5d46.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4375887,
+                       "image":  "covers/u_glavnyy_znak_cb5d46.jpg",
+                       "tempo":  120.24,
+                       "beatOffset":  0.15,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.698,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_sunrise_masters_6f50c6",
+                       "title":  "Sunrise Masters",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  120,
+                       "palette":  [
+                                       "0xFFF7BA5A",
+                                       "0xFF37DAE6",
+                                       "0xFF4959E9"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  42373,
+                       "file":  "songs/u_sunrise_masters_6f50c6.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4345167,
+                       "image":  "covers/u_sunrise_masters_6f50c6.jpg",
+                       "tempo":  120.07,
+                       "beatOffset":  0.078,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.71,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_the_emptiness_we_are_c77ab4",
+                       "title":  "The Emptiness We Are",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  181,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF3737E6",
+                                       "0xFF3DF5FF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  56958,
+                       "file":  "songs/u_the_emptiness_we_are_c77ab4.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4355825,
+                       "image":  "covers/u_the_emptiness_we_are_c77ab4.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Happy",
+                                     "Chill"
+                                 ],
+                       "energy":  0.562,
+                       "key":  "F# major"
+                   },
+                   {
+                       "id":  "u_avenues_of_chrome_7fe046",
+                       "title":  "Avenues of Chrome",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  181,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFF6493EC",
+                                       "0xFF4FD8FF",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  64129,
+                       "file":  "songs/u_avenues_of_chrome_7fe046.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4358333,
+                       "image":  "covers/u_avenues_of_chrome_7fe046.jpg",
+                       "tempo":  123.01,
+                       "beatOffset":  0.044,
+                       "moods":  [
+                                     "Energize",
+                                     "Party",
+                                     "Late night"
+                                 ],
+                       "energy":  0.605,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_velvet_midnight_f23880",
+                       "title":  "Velvet Midnight",
+                       "artist":  "Aura",
+                       "genre":  "Pop",
+                       "seconds":  182,
+                       "bpm":  123,
+                       "palette":  [
+                                       "0xFFD758F9",
+                                       "0xFFFFE14D",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  51945,
+                       "file":  "songs/u_velvet_midnight_f23880.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4375887,
+                       "image":  "covers/u_velvet_midnight_f23880.jpg",
+                       "tempo":  123.12,
+                       "beatOffset":  0.167,
+                       "moods":  [
+                                     "Energize",
+                                     "Party"
+                                 ],
+                       "energy":  0.676,
+                       "key":  "A# minor"
+                   },
+                   {
+                       "id":  "u_solace_in_the_grove_06a4e8",
+                       "title":  "Solace in the Grove",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  176,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF98557",
+                                       "0xFFE6379B",
+                                       "0xFF9537E6"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  12486,
+                       "file":  "songs/u_solace_in_the_grove_06a4e8.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  7056240,
+                       "image":  "covers/u_solace_in_the_grove_06a4e8.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.348,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_the_morning_canopy_72f6d3",
+                       "title":  "The Morning Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF5CAEF5",
+                                       "0xFFECB465",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  64241,
+                       "file":  "songs/u_the_morning_canopy_72f6d3.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  6960109,
+                       "image":  "covers/u_the_morning_canopy_72f6d3.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.367,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_where_the_water_rests_72a14b",
+                       "title":  "Where the Water Rests",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  173,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF3754E6",
+                                       "0xFF3D6BFF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  64716,
+                       "file":  "songs/u_where_the_water_rests_72a14b.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  6918313,
+                       "image":  "covers/u_where_the_water_rests_72a14b.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.347,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_stillness_at_daybreak_ab7211",
+                       "title":  "Stillness at Daybreak",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  180,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF75A6E",
+                                       "0xFFF0AD61",
+                                       "0xFF9337E6"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  64182,
+                       "file":  "songs/u_stillness_at_daybreak_ab7211.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4323850,
+                       "image":  "covers/u_stillness_at_daybreak_ab7211.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Late night"
+                                 ],
+                       "energy":  0.372,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_light_through_the_canopy_87f641",
+                       "title":  "Light Through The Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  178,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF65DFEC",
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  16035,
+                       "file":  "songs/u_light_through_the_canopy_87f641.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4266799,
+                       "image":  "covers/u_light_through_the_canopy_87f641.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus"
+                                 ],
+                       "energy":  0.418,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_dawn_in_the_tall_pines_ce5894",
+                       "title":  "Dawn in the Tall Pines",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  173,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF85973",
+                                       "0xFFF3A75E",
+                                       "0xFF8237E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  22183,
+                       "file":  "songs/u_dawn_in_the_tall_pines_ce5894.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4165861,
+                       "image":  "covers/u_dawn_in_the_tall_pines_ce5894.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.342,
+                       "key":  "F major"
+                   },
+                   {
+                       "id":  "u_breath_of_the_ancient_grove_9e1aac",
+                       "title":  "Breath of the Ancient Grove",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  180,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF65EC98",
+                                       "0xFFFF7AD9",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  195,
+                       "file":  "songs/u_breath_of_the_ancient_grove_9e1aac.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4327612,
+                       "image":  "covers/u_breath_of_the_ancient_grove_9e1aac.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.329,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_dawn_in_the_high_valley_bb8c6a",
+                       "title":  "Dawn in the High Valley",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  179,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFEB7460",
+                                       "0xFF3758E6",
+                                       "0xFFE6378F"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  62009,
+                       "file":  "songs/u_dawn_in_the_high_valley_bb8c6a.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4291249,
+                       "image":  "covers/u_dawn_in_the_high_valley_bb8c6a.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.348,
+                       "key":  "G major"
+                   },
+                   {
+                       "id":  "u_where_the_river_bends_5f92f3",
+                       "title":  "Where the River Bends",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  178,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF61A0F0",
+                                       "0xFFCAEC65",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  51193,
+                       "file":  "songs/u_where_the_river_bends_5f92f3.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4272441,
+                       "image":  "covers/u_where_the_river_bends_5f92f3.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.379,
+                       "key":  "G major"
+                   },
+                   {
+                       "id":  "u_where_the_river_meets_stone_ab3fe3",
+                       "title":  "Where the River Meets Stone",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  179,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF4267E8",
+                                       "0xFFECEC65",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  40780,
+                       "file":  "songs/u_where_the_river_meets_stone_ab3fe3.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4305669,
+                       "image":  "covers/u_where_the_river_meets_stone_ab3fe3.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.407,
+                       "key":  "D major"
+                   },
+                   {
+                       "id":  "u_canopy_at_dawn_ad5f29",
+                       "title":  "Canopy at Dawn",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF87E58",
+                                       "0xFFF0E161",
+                                       "0xFF3786E6"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  58133,
+                       "file":  "songs/u_canopy_at_dawn_ad5f29.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4174639,
+                       "image":  "covers/u_canopy_at_dawn_ad5f29.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus"
+                                 ],
+                       "energy":  0.451,
+                       "key":  "G major"
+                   },
+                   {
+                       "id":  "u_where_the_stream_bends_8c677d",
+                       "title":  "Where the Stream Bends",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF65ECD5",
+                                       "0xFFECEC65",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  52503,
+                       "file":  "songs/u_where_the_stream_bends_8c677d.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4174639,
+                       "image":  "covers/u_where_the_stream_bends_8c677d.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.375,
+                       "key":  "C major"
+                   },
+                   {
+                       "id":  "u_where_the_light_meets_water_19d646",
+                       "title":  "Where the Light Meets Water",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  173,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF85D59",
+                                       "0xFF9837E6",
+                                       "0xFFE637AF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  17133,
+                       "file":  "songs/u_where_the_light_meets_water_19d646.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4158338,
+                       "image":  "covers/u_where_the_light_meets_water_19d646.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.376,
+                       "key":  "F minor"
+                   },
+                   {
+                       "id":  "u_canopy_awakening_a708e7",
+                       "title":  "Canopy Awakening",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  161,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF95874",
+                                       "0xFFF7A85A",
+                                       "0xFF9C37E6"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  45804,
+                       "file":  "songs/u_canopy_awakening_a708e7.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3879350,
+                       "image":  "covers/u_canopy_awakening_a708e7.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.369,
+                       "key":  "D# major"
+                   },
+                   {
+                       "id":  "u_first_light_in_the_canopy_63bdd3",
+                       "title":  "First Light In The Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  180,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFB9F75A",
+                                       "0xFF37E695",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  46806,
+                       "file":  "songs/u_first_light_in_the_canopy_63bdd3.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4317581,
+                       "image":  "covers/u_first_light_in_the_canopy_63bdd3.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.361,
+                       "key":  "G# major"
+                   },
+                   {
+                       "id":  "u_derin_bir_nefes_d2b427",
+                       "title":  "Derin Bir Nefes",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  181,
+                       "bpm":  81,
+                       "palette":  [
+                                       "0xFF5BABF6",
+                                       "0xFFBFEC65",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  13406,
+                       "file":  "songs/u_derin_bir_nefes_d2b427.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4350181,
+                       "image":  "covers/u_derin_bir_nefes_d2b427.jpg",
+                       "tempo":  80.78,
+                       "beatOffset":  0.25,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.582,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_rare_sea_friends_c07689",
+                       "title":  "Rare Sea Friends",
+                       "artist":  "Aura",
+                       "genre":  "Electronic",
+                       "seconds":  179,
+                       "bpm":  136,
+                       "palette":  [
+                                       "0xFF33CCEB",
+                                       "0xFF3757E6",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  21740,
+                       "file":  "songs/u_rare_sea_friends_c07689.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4295638,
+                       "image":  "covers/u_rare_sea_friends_c07689.jpg",
+                       "tempo":  135.94,
+                       "beatOffset":  0.423,
+                       "moods":  [
+                                     "Energize"
+                                 ],
+                       "energy":  0.669,
+                       "key":  "G# major"
+                   },
+                   {
+                       "id":  "u_anin_siginagi_9c509a",
+                       "title":  "Anin Siginagi",
+                       "artist":  "Aura",
+                       "genre":  "R\u0026B",
+                       "seconds":  170,
+                       "bpm":  86,
+                       "palette":  [
+                                       "0xFFE3EC65",
+                                       "0xFF8237E6",
+                                       "0xFFE67537"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  32058,
+                       "file":  "songs/u_anin_siginagi_9c509a.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  6785611,
+                       "image":  "covers/u_anin_siginagi_9c509a.jpg",
+                       "tempo":  86.07,
+                       "beatOffset":  0.665,
+                       "moods":  [
+                                     "Late night"
+                                 ],
+                       "energy":  0.708,
+                       "key":  "G minor"
+                   },
+                   {
+                       "id":  "u_morning_at_the_forest_edge_99d99f",
+                       "title":  "Morning At The Forest Edge",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  178,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF845FF2",
+                                       "0xFFE865EC",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  37144,
+                       "file":  "songs/u_morning_at_the_forest_edge_99d99f.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  7105350,
+                       "image":  "covers/u_morning_at_the_forest_edge_99d99f.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.336,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_breath_of_the_horizon_d2a176",
+                       "title":  "Breath of the Horizon",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF6296EF",
+                                       "0xFF9665EC",
+                                       "0xFFEC65EC"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  25775,
+                       "file":  "songs/u_breath_of_the_horizon_d2a176.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  6975782,
+                       "image":  "covers/u_breath_of_the_horizon_d2a176.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.284,
+                       "key":  "A# major"
+                   },
+                   {
+                       "id":  "u_sonsuz_dinginlik_9e7fc5",
+                       "title":  "Sonsuz Dinginlik",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  176,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF37AAE6",
+                                       "0xFF65ECA8",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  36885,
+                       "file":  "songs/u_sonsuz_dinginlik_9e7fc5.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  7028027,
+                       "image":  "covers/u_sonsuz_dinginlik_9e7fc5.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Late night"
+                                 ],
+                       "energy":  0.46,
+                       "key":  "D# minor"
+                   },
+                   {
+                       "id":  "u_beneath_the_alpine_canopy_caa4fa",
+                       "title":  "Beneath the Alpine Canopy",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  174,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF5CA8F5",
+                                       "0xFFDBEC65",
+                                       "0xFF65ECBB"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  49500,
+                       "file":  "songs/u_beneath_the_alpine_canopy_caa4fa.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4191566,
+                       "image":  "covers/u_beneath_the_alpine_canopy_caa4fa.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus"
+                                 ],
+                       "energy":  0.421,
+                       "key":  "F major"
+                   },
+                   {
+                       "id":  "u_where_the_pines_sigh_a601de",
+                       "title":  "Where the Pines Sigh",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  173,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF657BEC",
+                                       "0xFFB14DFF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  57292,
+                       "file":  "songs/u_where_the_pines_sigh_a601de.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4146426,
+                       "image":  "covers/u_where_the_pines_sigh_a601de.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Sleep"
+                                 ],
+                       "energy":  0.338,
+                       "key":  "F major"
+                   },
+                   {
+                       "id":  "u_where_moss_meets_water_b5d720",
+                       "title":  "Where Moss Meets Water",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  161,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF65EC88",
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  50627,
+                       "file":  "songs/u_where_moss_meets_water_b5d720.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  3878096,
+                       "image":  "covers/u_where_moss_meets_water_b5d720.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus"
+                                 ],
+                       "energy":  0.4,
+                       "key":  "F major"
+                   },
+                   {
+                       "id":  "u_slow_tide_rising_efaca4",
+                       "title":  "Slow Tide Rising",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  173,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFFF5715B",
+                                       "0xFF7237E6",
+                                       "0xFFE63791"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  46693,
+                       "file":  "songs/u_slow_tide_rising_efaca4.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4157711,
+                       "image":  "covers/u_slow_tide_rising_efaca4.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill"
+                                 ],
+                       "energy":  0.452,
+                       "key":  "B major"
+                   },
+                   {
+                       "id":  "u_blue_hour_drift_5bc9fd",
+                       "title":  "Blue Hour Drift",
+                       "artist":  "Aura",
+                       "genre":  "Ambient",
+                       "seconds":  180,
+                       "bpm":  64,
+                       "palette":  [
+                                       "0xFF6389EE",
+                                       "0xFFD1EC65",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  17228,
+                       "file":  "songs/u_blue_hour_drift_5bc9fd.mp3",
+                       "genreSource":  "auto",
+                       "bpmSource":  "default",
+                       "size":  4336389,
+                       "image":  "covers/u_blue_hour_drift_5bc9fd.jpg",
+                       "tempo":  64,
+                       "beatOffset":  0,
+                       "moods":  [
+                                     "Chill",
+                                     "Focus",
+                                     "Late night"
+                                 ],
+                       "energy":  0.406,
+                       "key":  "G# minor"
+                   }
+               ]
 }
