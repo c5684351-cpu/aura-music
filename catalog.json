@@ -1,7 +1,273 @@
 {
     "app":  "Aura",
-    "updated":  "2026-10-25T13:30:43.2560424Z",
+    "updated":  "2026-10-26T10:25:14.9166131Z",
     "tracks":  [
+                   {
+                       "id":  "u_the_choice_i_didn_t_make_4f3d98",
+                       "title":  "The Choice I Didn t Make",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFF8A00",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  2193,
+                       "file":  "songs/u_the_choice_i_didn_t_make_4f3d98.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4273071
+                   },
+                   {
+                       "id":  "u_blueprint_scheme_aaa3f7",
+                       "title":  "Blueprint Scheme",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  172,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFF00F0D8",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  45376,
+                       "file":  "songs/u_blueprint_scheme_aaa3f7.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4140787
+                   },
+                   {
+                       "id":  "u_midnight_pavement_daaccd",
+                       "title":  "Midnight Pavement",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFFFE14D",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  35618,
+                       "file":  "songs/u_midnight_pavement_daaccd.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4321972
+                   },
+                   {
+                       "id":  "u_tracing_the_outline_b8f37c",
+                       "title":  "Tracing the Outline",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF00F0D8",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  10128,
+                       "file":  "songs/u_tracing_the_outline_b8f37c.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3991575
+                   },
+                   {
+                       "id":  "u_i_own_the_earth_9097cb",
+                       "title":  "I Own The Earth",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF8A00",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  10785,
+                       "file":  "songs/u_i_own_the_earth_9097cb.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4327615
+                   },
+                   {
+                       "id":  "u_song_248890",
+                       "title":  "Закалённый в огне",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  25773,
+                       "file":  "songs/u_song_248890.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4335765
+                   },
+                   {
+                       "id":  "u_sehir_alev_alev_32f8bc",
+                       "title":  "Şehir Alev Alev",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFFF7AD9",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  49118,
+                       "file":  "songs/u_sehir_alev_alev_32f8bc.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4375262
+                   },
+                   {
+                       "id":  "u_ayni_yerdeyim_30bfe1",
+                       "title":  "Aynı Yerdeyim",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  7383,
+                       "file":  "songs/u_ayni_yerdeyim_30bfe1.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4345169
+                   },
+                   {
+                       "id":  "u_kaldirimin_krali_c939c1",
+                       "title":  "Kaldırımın Kralı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  165,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFF4FD8FF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  33710,
+                       "file":  "songs/u_kaldirimin_krali_c939c1.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3954586
+                   },
+                   {
+                       "id":  "u_gurbet_elde_sonen_efkar_b2b751",
+                       "title":  "Gurbet Elde Sönen Efkar",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  163,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFF00F0D8",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  58435,
+                       "file":  "songs/u_gurbet_elde_sonen_efkar_b2b751.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3915716
+                   },
+                   {
+                       "id":  "u_yalan_dunya_el_aman_83d7cb",
+                       "title":  "Yalan Dünya El Aman",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  93,
+                       "file":  "songs/u_yalan_dunya_el_aman_83d7cb.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3994710
+                   },
+                   {
+                       "id":  "u_kok_tengri_asra_801e65",
+                       "title":  "Kok Tengri Asra",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  184,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFFF2E88",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  2389,
+                       "file":  "songs/u_kok_tengri_asra_801e65.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4431059
+                   },
+                   {
+                       "id":  "u_ocagimda_tuten_duman_cd71be",
+                       "title":  "Ocağımda Tüten Duman",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  161,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFF00F0D8",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  49569,
+                       "file":  "songs/u_ocagimda_tuten_duman_cd71be.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3865561
+                   },
+                   {
+                       "id":  "u_kok_tengri_bizge_bar_41f6c1",
+                       "title":  "Kok Tengri bizge bar",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  6933,
+                       "file":  "songs/u_kok_tengri_bizge_bar_41f6c1.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4290625
+                   },
                    {
                        "id":  "u_sensizlik_bir_sehir_gibi_3e26fe",
                        "title":  "Sensizlik Bir Şehir Gibi",
