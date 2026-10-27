@@ -8426,6 +8426,1104 @@
       "size": 4204108,
       "title": "Выше всех звезд",
       "analysed": "2026-10-26 16:11"
+    },
+    "u_rearview_motion_f608de": {
+      "genre": "Dance",
+      "genreConfidence": 0.085,
+      "genreTop": [
+        [
+          "Dance",
+          0.085
+        ],
+        [
+          "Electronic",
+          0.075
+        ],
+        [
+          "Pop",
+          0.049
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.561,
+        "Late night": 0.541,
+        "Party": 0.497,
+        "Melancholy": 0.331,
+        "Happy": 0.184
+      },
+      "bpm": 123,
+      "tempo": 123.02,
+      "beatOffset": 0.053,
+      "hasBeat": true,
+      "energy": 0.664,
+      "key": "C minor",
+      "vocals": 0.029,
+      "signals": {
+        "g:Pop": 0.049,
+        "g:Rock": 0.0021,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0034,
+        "g:R&B": 0.0257,
+        "g:Electronic": 0.0754,
+        "g:Dance": 0.0849,
+        "g:Jazz": 0.0039,
+        "g:Blues": 0.0053,
+        "g:Classical": 0.0018,
+        "g:Ambient": 0.0043,
+        "g:Soundtrack": 0.0196,
+        "g:Folk": 0.0027,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0015,
+        "g:World": 0.0066,
+        "vocal": 0.0286,
+        "nature": 0.0035,
+        "happy": 0.0126,
+        "sad": 0.0016,
+        "tender": 0.0059,
+        "exciting": 0.0213,
+        "angry": 0.0002,
+        "lullaby": 0.0034
+      },
+      "nature": 0.004,
+      "model": true,
+      "features": {
+        "seconds": 158.616,
+        "db": -15.096,
+        "dynamics": 8.166,
+        "perc": 0.136,
+        "onsetRate": 5.359,
+        "pulse": 0.681,
+        "beatiness": 0.464,
+        "tempo": 123.019,
+        "beatOffset": 0.053,
+        "centroid": 2383.328,
+        "flatness": 0.041,
+        "energy": 0.664,
+        "major": 0.077,
+        "key": "C minor",
+        "keyConf": 0.818
+      },
+      "v": 5,
+      "size": 3812897,
+      "title": "Rearview Motion",
+      "analysed": "2026-10-27 05:25"
+    },
+    "u_the_sweater_you_left_cabcdd": {
+      "genre": "Pop",
+      "genreConfidence": 0.039,
+      "genreTop": [
+        [
+          "Ambient",
+          0.039
+        ],
+        [
+          "R&B",
+          0.023
+        ],
+        [
+          "Electronic",
+          0.021
+        ]
+      ],
+      "moods": [
+        "Chill"
+      ],
+      "moodScores": {
+        "Chill": 0.553,
+        "Focus": 0.479,
+        "Happy": 0.405,
+        "Late night": 0.306,
+        "Energize": 0.284
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.508,
+      "key": "F major",
+      "vocals": 0.044,
+      "signals": {
+        "g:Pop": 0.0188,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.002,
+        "g:R&B": 0.0227,
+        "g:Electronic": 0.0213,
+        "g:Dance": 0.0083,
+        "g:Jazz": 0.0019,
+        "g:Blues": 0.0029,
+        "g:Classical": 0.0044,
+        "g:Ambient": 0.0385,
+        "g:Soundtrack": 0.01,
+        "g:Folk": 0.0011,
+        "g:Latin": 0.0001,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0059,
+        "vocal": 0.0444,
+        "nature": 0.0003,
+        "happy": 0.0069,
+        "sad": 0.0767,
+        "tender": 0.0657,
+        "exciting": 0.0028,
+        "angry": 0.0,
+        "lullaby": 0.082
+      },
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 168.359,
+        "db": -16.152,
+        "dynamics": 18.595,
+        "perc": 0.105,
+        "onsetRate": 2.738,
+        "pulse": 0.338,
+        "beatiness": 0.178,
+        "tempo": 147.642,
+        "beatOffset": 0.068,
+        "centroid": 1603.411,
+        "flatness": 0.017,
+        "energy": 0.508,
+        "major": 1.0,
+        "key": "F major",
+        "keyConf": 0.842
+      },
+      "v": 5,
+      "size": 4046745,
+      "title": "The Sweater You Left",
+      "analysed": "2026-10-27 05:25"
+    },
+    "u_the_final_bow_c421f8": {
+      "genre": "R&B",
+      "genreConfidence": 0.066,
+      "genreTop": [
+        [
+          "R&B",
+          0.066
+        ],
+        [
+          "Ambient",
+          0.041
+        ],
+        [
+          "Pop",
+          0.038
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.437,
+        "Chill": 0.385,
+        "Energize": 0.333,
+        "Melancholy": 0.293,
+        "Focus": 0.292
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.575,
+      "key": "G# major",
+      "vocals": 0.044,
+      "signals": {
+        "g:Pop": 0.0379,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0101,
+        "g:R&B": 0.0657,
+        "g:Electronic": 0.0342,
+        "g:Dance": 0.0173,
+        "g:Jazz": 0.0052,
+        "g:Blues": 0.0054,
+        "g:Classical": 0.0012,
+        "g:Ambient": 0.041,
+        "g:Soundtrack": 0.0164,
+        "g:Folk": 0.0014,
+        "g:Latin": 0.0004,
+        "g:Reggae": 0.0012,
+        "g:World": 0.006,
+        "vocal": 0.0435,
+        "nature": 0.0012,
+        "happy": 0.0091,
+        "sad": 0.0367,
+        "tender": 0.0395,
+        "exciting": 0.0098,
+        "angry": 0.0003,
+        "lullaby": 0.0509
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 168.62,
+        "db": -15.82,
+        "dynamics": 17.912,
+        "perc": 0.119,
+        "onsetRate": 3.813,
+        "pulse": 0.355,
+        "beatiness": 0.21,
+        "tempo": 99.419,
+        "beatOffset": 0.13,
+        "centroid": 1918.372,
+        "flatness": 0.022,
+        "energy": 0.575,
+        "major": 0.505,
+        "key": "G# major",
+        "keyConf": 0.785
+      },
+      "v": 5,
+      "size": 4053014,
+      "title": "The Final Bow",
+      "analysed": "2026-10-27 05:25"
+    },
+    "u_song_2723a5": {
+      "genre": "Electronic",
+      "genreConfidence": 0.078,
+      "genreTop": [
+        [
+          "Electronic",
+          0.078
+        ],
+        [
+          "Dance",
+          0.07
+        ],
+        [
+          "Hip-Hop",
+          0.058
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.565,
+        "Energize": 0.545,
+        "Late night": 0.374,
+        "Happy": 0.27,
+        "Melancholy": 0.231
+      },
+      "bpm": 99,
+      "tempo": 99.38,
+      "beatOffset": 0.121,
+      "hasBeat": true,
+      "energy": 0.801,
+      "key": "C minor",
+      "vocals": 0.065,
+      "signals": {
+        "g:Pop": 0.0414,
+        "g:Rock": 0.007,
+        "g:Metal": 0.0034,
+        "g:Hip-Hop": 0.0578,
+        "g:R&B": 0.0195,
+        "g:Electronic": 0.078,
+        "g:Dance": 0.07,
+        "g:Jazz": 0.0069,
+        "g:Blues": 0.007,
+        "g:Classical": 0.0004,
+        "g:Ambient": 0.0027,
+        "g:Soundtrack": 0.0292,
+        "g:Folk": 0.0009,
+        "g:Latin": 0.0014,
+        "g:Reggae": 0.0109,
+        "g:World": 0.0232,
+        "vocal": 0.065,
+        "nature": 0.0033,
+        "happy": 0.0061,
+        "sad": 0.0002,
+        "tender": 0.0014,
+        "exciting": 0.0476,
+        "angry": 0.0019,
+        "lullaby": 0.0002
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 156.813,
+        "db": -15.235,
+        "dynamics": 17.442,
+        "perc": 0.241,
+        "onsetRate": 4.413,
+        "pulse": 0.642,
+        "beatiness": 0.642,
+        "tempo": 99.38,
+        "beatOffset": 0.121,
+        "centroid": 2771.478,
+        "flatness": 0.054,
+        "energy": 0.801,
+        "major": 0.333,
+        "key": "C minor",
+        "keyConf": 0.666
+      },
+      "v": 5,
+      "size": 3769638,
+      "title": "Лед на губах",
+      "analysed": "2026-10-27 05:25"
+    },
+    "u_kendi_imparatorlugum_e3dcb3": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.144,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.144
+        ],
+        [
+          "Electronic",
+          0.058
+        ],
+        [
+          "Dance",
+          0.045
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.69,
+        "Energize": 0.566,
+        "Late night": 0.306,
+        "Happy": 0.292,
+        "Melancholy": 0.202
+      },
+      "bpm": 99,
+      "tempo": 99.29,
+      "beatOffset": 0.016,
+      "hasBeat": true,
+      "energy": 0.868,
+      "key": "C minor",
+      "vocals": 0.206,
+      "signals": {
+        "g:Pop": 0.0286,
+        "g:Rock": 0.0061,
+        "g:Metal": 0.0027,
+        "g:Hip-Hop": 0.1441,
+        "g:R&B": 0.0219,
+        "g:Electronic": 0.0584,
+        "g:Dance": 0.0449,
+        "g:Jazz": 0.0084,
+        "g:Blues": 0.009,
+        "g:Classical": 0.0032,
+        "g:Ambient": 0.0016,
+        "g:Soundtrack": 0.0179,
+        "g:Folk": 0.0027,
+        "g:Latin": 0.0015,
+        "g:Reggae": 0.0237,
+        "g:World": 0.0155,
+        "vocal": 0.2058,
+        "nature": 0.0017,
+        "happy": 0.0034,
+        "sad": 0.0006,
+        "tender": 0.0037,
+        "exciting": 0.0385,
+        "angry": 0.0007,
+        "lullaby": 0.0003
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 181.864,
+        "db": -15.208,
+        "dynamics": 13.652,
+        "perc": 0.273,
+        "onsetRate": 5.037,
+        "pulse": 0.531,
+        "beatiness": 0.531,
+        "tempo": 99.287,
+        "beatOffset": 0.016,
+        "centroid": 2905.779,
+        "flatness": 0.056,
+        "energy": 0.868,
+        "major": 0.398,
+        "key": "C minor",
+        "keyConf": 0.682
+      },
+      "v": 5,
+      "size": 4370872,
+      "title": "Kendi İmparatorluğum",
+      "analysed": "2026-10-27 05:25"
+    },
+    "u_umay_in_cagrisi_5cfe06": {
+      "genre": "Pop",
+      "genreConfidence": 0.036,
+      "genreTop": [
+        [
+          "Ambient",
+          0.036
+        ],
+        [
+          "Soundtrack",
+          0.027
+        ],
+        [
+          "Electronic",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.606,
+        "Energize": 0.459,
+        "Melancholy": 0.376,
+        "Focus": 0.26,
+        "Party": 0.257
+      },
+      "bpm": 118,
+      "tempo": 117.51,
+      "beatOffset": 0.307,
+      "hasBeat": true,
+      "energy": 0.577,
+      "key": "F minor",
+      "vocals": 0.037,
+      "signals": {
+        "g:Pop": 0.0076,
+        "g:Rock": 0.0017,
+        "g:Metal": 0.0012,
+        "g:Hip-Hop": 0.0044,
+        "g:R&B": 0.0072,
+        "g:Electronic": 0.0195,
+        "g:Dance": 0.0109,
+        "g:Jazz": 0.0021,
+        "g:Blues": 0.0029,
+        "g:Classical": 0.0066,
+        "g:Ambient": 0.0358,
+        "g:Soundtrack": 0.0273,
+        "g:Folk": 0.0052,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.001,
+        "g:World": 0.0121,
+        "vocal": 0.0368,
+        "nature": 0.0074,
+        "happy": 0.0024,
+        "sad": 0.0156,
+        "tender": 0.0108,
+        "exciting": 0.0079,
+        "angry": 0.002,
+        "lullaby": 0.0044
+      },
+      "nature": 0.007,
+      "model": true,
+      "features": {
+        "seconds": 166.165,
+        "db": -15.626,
+        "dynamics": 15.698,
+        "perc": 0.135,
+        "onsetRate": 3.472,
+        "pulse": 0.536,
+        "beatiness": 0.362,
+        "tempo": 117.512,
+        "beatOffset": 0.307,
+        "centroid": 1606.905,
+        "flatness": 0.008,
+        "energy": 0.577,
+        "major": 0.073,
+        "key": "F minor",
+        "keyConf": 0.741
+      },
+      "v": 5,
+      "size": 3994082,
+      "title": "Umay ın Çağrısı",
+      "analysed": "2026-10-27 05:26"
+    },
+    "u_mangu_tengri_yoli_f2b897": {
+      "genre": "Pop",
+      "genreConfidence": 0.031,
+      "genreTop": [
+        [
+          "Ambient",
+          0.031
+        ],
+        [
+          "Soundtrack",
+          0.018
+        ],
+        [
+          "Pop",
+          0.016
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.645,
+        "Chill": 0.546,
+        "Melancholy": 0.495,
+        "Focus": 0.406,
+        "Energize": 0.283
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.509,
+      "key": "C minor",
+      "vocals": 0.071,
+      "signals": {
+        "g:Pop": 0.0163,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.001,
+        "g:R&B": 0.015,
+        "g:Electronic": 0.0031,
+        "g:Dance": 0.0007,
+        "g:Jazz": 0.0027,
+        "g:Blues": 0.0034,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0314,
+        "g:Soundtrack": 0.018,
+        "g:Folk": 0.0057,
+        "g:Latin": 0.0006,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0105,
+        "vocal": 0.0714,
+        "nature": 0.0034,
+        "happy": 0.0135,
+        "sad": 0.0553,
+        "tender": 0.0586,
+        "exciting": 0.002,
+        "angry": 0.0001,
+        "lullaby": 0.0183
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 164.206,
+        "db": -15.466,
+        "dynamics": 10.604,
+        "perc": 0.1,
+        "onsetRate": 2.716,
+        "pulse": 0.423,
+        "beatiness": 0.212,
+        "tempo": 143.538,
+        "beatOffset": 0.091,
+        "centroid": 1595.992,
+        "flatness": 0.007,
+        "energy": 0.509,
+        "major": 0.0,
+        "key": "C minor",
+        "keyConf": 0.856
+      },
+      "v": 5,
+      "size": 3947062,
+      "title": "Mangu Tengri Yoli",
+      "analysed": "2026-10-27 05:26"
+    },
+    "u_kok_tengri_kukredi_ec7a00": {
+      "genre": "Electronic",
+      "genreConfidence": 0.051,
+      "genreTop": [
+        [
+          "Pop",
+          0.051
+        ],
+        [
+          "World",
+          0.047
+        ],
+        [
+          "Electronic",
+          0.017
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.578,
+        "Party": 0.438,
+        "Late night": 0.402,
+        "Happy": 0.288,
+        "Melancholy": 0.217
+      },
+      "bpm": 136,
+      "tempo": 135.95,
+      "beatOffset": 0.031,
+      "hasBeat": true,
+      "energy": 0.635,
+      "key": "C minor",
+      "vocals": 0.065,
+      "signals": {
+        "g:Pop": 0.0514,
+        "g:Rock": 0.0025,
+        "g:Metal": 0.0011,
+        "g:Hip-Hop": 0.013,
+        "g:R&B": 0.0165,
+        "g:Electronic": 0.0167,
+        "g:Dance": 0.0136,
+        "g:Jazz": 0.0041,
+        "g:Blues": 0.0049,
+        "g:Classical": 0.0017,
+        "g:Ambient": 0.0109,
+        "g:Soundtrack": 0.0161,
+        "g:Folk": 0.0132,
+        "g:Latin": 0.0029,
+        "g:Reggae": 0.0114,
+        "g:World": 0.0475,
+        "vocal": 0.0649,
+        "nature": 0.0015,
+        "happy": 0.0127,
+        "sad": 0.0018,
+        "tender": 0.0053,
+        "exciting": 0.017,
+        "angry": 0.0003,
+        "lullaby": 0.0006
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 176.509,
+        "db": -15.466,
+        "dynamics": 10.722,
+        "perc": 0.148,
+        "onsetRate": 4.062,
+        "pulse": 0.666,
+        "beatiness": 0.493,
+        "tempo": 135.946,
+        "beatOffset": 0.031,
+        "centroid": 2112.841,
+        "flatness": 0.019,
+        "energy": 0.635,
+        "major": 0.472,
+        "key": "C minor",
+        "keyConf": 0.747
+      },
+      "v": 5,
+      "size": 4242350,
+      "title": "Kök Tengri Kükredi",
+      "analysed": "2026-10-27 05:26"
+    },
+    "u_song_d13298": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.099,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.099
+        ],
+        [
+          "Electronic",
+          0.042
+        ],
+        [
+          "Pop",
+          0.037
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.547,
+        "Energize": 0.453,
+        "Late night": 0.433,
+        "Melancholy": 0.26,
+        "Happy": 0.228
+      },
+      "bpm": 99,
+      "tempo": 99.33,
+      "beatOffset": 0.102,
+      "hasBeat": true,
+      "energy": 0.71,
+      "key": "C minor",
+      "vocals": 0.087,
+      "signals": {
+        "g:Pop": 0.0366,
+        "g:Rock": 0.004,
+        "g:Metal": 0.0022,
+        "g:Hip-Hop": 0.0989,
+        "g:R&B": 0.0286,
+        "g:Electronic": 0.0424,
+        "g:Dance": 0.0355,
+        "g:Jazz": 0.0071,
+        "g:Blues": 0.0061,
+        "g:Classical": 0.0042,
+        "g:Ambient": 0.004,
+        "g:Soundtrack": 0.0144,
+        "g:Folk": 0.0018,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0135,
+        "g:World": 0.0191,
+        "vocal": 0.0875,
+        "nature": 0.0009,
+        "happy": 0.003,
+        "sad": 0.0011,
+        "tender": 0.0038,
+        "exciting": 0.0226,
+        "angry": 0.0021,
+        "lullaby": 0.0005
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 148.689,
+        "db": -15.247,
+        "dynamics": 11.458,
+        "perc": 0.193,
+        "onsetRate": 4.055,
+        "pulse": 0.599,
+        "beatiness": 0.577,
+        "tempo": 99.333,
+        "beatOffset": 0.102,
+        "centroid": 2388.524,
+        "flatness": 0.027,
+        "energy": 0.71,
+        "major": 0.285,
+        "key": "C minor",
+        "keyConf": 0.804
+      },
+      "v": 5,
+      "size": 3574660,
+      "title": "Назло небесам",
+      "analysed": "2026-10-27 05:26"
+    },
+    "u_sokaklar_sahidimdir_1bea17": {
+      "genre": "World",
+      "genreConfidence": 0.075,
+      "genreTop": [
+        [
+          "World",
+          0.075
+        ],
+        [
+          "Electronic",
+          0.067
+        ],
+        [
+          "Hip-Hop",
+          0.066
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.497,
+        "Energize": 0.472,
+        "Late night": 0.394,
+        "Happy": 0.262,
+        "Melancholy": 0.244
+      },
+      "bpm": 99,
+      "tempo": 99.35,
+      "beatOffset": 0.037,
+      "hasBeat": true,
+      "energy": 0.739,
+      "key": "G minor",
+      "vocals": 0.058,
+      "signals": {
+        "g:Pop": 0.0404,
+        "g:Rock": 0.0031,
+        "g:Metal": 0.0012,
+        "g:Hip-Hop": 0.0663,
+        "g:R&B": 0.0198,
+        "g:Electronic": 0.0665,
+        "g:Dance": 0.0382,
+        "g:Jazz": 0.0059,
+        "g:Blues": 0.0059,
+        "g:Classical": 0.0029,
+        "g:Ambient": 0.0016,
+        "g:Soundtrack": 0.0182,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.003,
+        "g:Reggae": 0.0136,
+        "g:World": 0.0745,
+        "vocal": 0.0582,
+        "nature": 0.0023,
+        "happy": 0.0044,
+        "sad": 0.0006,
+        "tender": 0.0024,
+        "exciting": 0.0242,
+        "angry": 0.0006,
+        "lullaby": 0.0002
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 159.765,
+        "db": -15.177,
+        "dynamics": 10.644,
+        "perc": 0.186,
+        "onsetRate": 4.813,
+        "pulse": 0.657,
+        "beatiness": 0.611,
+        "tempo": 99.353,
+        "beatOffset": 0.037,
+        "centroid": 2744.417,
+        "flatness": 0.05,
+        "energy": 0.739,
+        "major": 0.322,
+        "key": "G minor",
+        "keyConf": 0.733
+      },
+      "v": 5,
+      "size": 3840482,
+      "title": "Sokaklar Şahidimdir",
+      "analysed": "2026-10-27 05:27"
+    },
+    "u_dumanli_yuregim_2aaa91": {
+      "genre": "Pop",
+      "genreConfidence": 0.033,
+      "genreTop": [
+        [
+          "Folk",
+          0.033
+        ],
+        [
+          "R&B",
+          0.025
+        ],
+        [
+          "Pop",
+          0.017
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.563,
+        "Melancholy": 0.409,
+        "Chill": 0.368,
+        "Energize": 0.324,
+        "Focus": 0.309
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.583,
+      "key": "C minor",
+      "vocals": 0.129,
+      "signals": {
+        "g:Pop": 0.017,
+        "g:Rock": 0.0005,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0003,
+        "g:R&B": 0.0249,
+        "g:Electronic": 0.0015,
+        "g:Dance": 0.0009,
+        "g:Jazz": 0.0049,
+        "g:Blues": 0.0036,
+        "g:Classical": 0.0046,
+        "g:Ambient": 0.0082,
+        "g:Soundtrack": 0.0062,
+        "g:Folk": 0.0325,
+        "g:Latin": 0.0057,
+        "g:Reggae": 0.0003,
+        "g:World": 0.0114,
+        "vocal": 0.1293,
+        "nature": 0.0004,
+        "happy": 0.0379,
+        "sad": 0.0313,
+        "tender": 0.0417,
+        "exciting": 0.0018,
+        "angry": 0.0,
+        "lullaby": 0.068
+      },
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 173.61,
+        "db": -15.307,
+        "dynamics": 10.895,
+        "perc": 0.104,
+        "onsetRate": 4.424,
+        "pulse": 0.5,
+        "beatiness": 0.259,
+        "tempo": 99.289,
+        "beatOffset": 0.001,
+        "centroid": 1977.441,
+        "flatness": 0.01,
+        "energy": 0.583,
+        "major": 0.075,
+        "key": "C minor",
+        "keyConf": 0.842
+      },
+      "v": 5,
+      "size": 4172760,
+      "title": "Dumanlı Yüreğim",
+      "analysed": "2026-10-27 05:27"
+    },
+    "u_bu_sevdaluk_bitmez_3e5ee2": {
+      "genre": "Electronic",
+      "genreConfidence": 0.027,
+      "genreTop": [
+        [
+          "Folk",
+          0.027
+        ],
+        [
+          "Pop",
+          0.025
+        ],
+        [
+          "R&B",
+          0.017
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.516,
+        "Energize": 0.494,
+        "Melancholy": 0.375,
+        "Party": 0.323,
+        "Happy": 0.191
+      },
+      "bpm": 110,
+      "tempo": 109.88,
+      "beatOffset": 0.081,
+      "hasBeat": true,
+      "energy": 0.704,
+      "key": "G minor",
+      "vocals": 0.077,
+      "signals": {
+        "g:Pop": 0.0252,
+        "g:Rock": 0.0013,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0023,
+        "g:R&B": 0.0174,
+        "g:Electronic": 0.0071,
+        "g:Dance": 0.0048,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.0047,
+        "g:Classical": 0.0064,
+        "g:Ambient": 0.0116,
+        "g:Soundtrack": 0.0096,
+        "g:Folk": 0.027,
+        "g:Latin": 0.0033,
+        "g:Reggae": 0.0008,
+        "g:World": 0.017,
+        "vocal": 0.0766,
+        "nature": 0.0012,
+        "happy": 0.0271,
+        "sad": 0.0156,
+        "tender": 0.0277,
+        "exciting": 0.0132,
+        "angry": 0.0,
+        "lullaby": 0.0152
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 164.598,
+        "db": -15.215,
+        "dynamics": 8.822,
+        "perc": 0.169,
+        "onsetRate": 5.122,
+        "pulse": 0.539,
+        "beatiness": 0.455,
+        "tempo": 109.885,
+        "beatOffset": 0.081,
+        "centroid": 2319.698,
+        "flatness": 0.02,
+        "energy": 0.704,
+        "major": 0.013,
+        "key": "G minor",
+        "keyConf": 0.84
+      },
+      "v": 5,
+      "size": 3956466,
+      "title": "Bu Sevdaluk Bitmez",
+      "analysed": "2026-10-27 05:27"
+    },
+    "u_gonlumun_ince_sizisi_74c881": {
+      "genre": "Pop",
+      "genreConfidence": 0.03,
+      "genreTop": [
+        [
+          "World",
+          0.03
+        ],
+        [
+          "Folk",
+          0.029
+        ],
+        [
+          "Pop",
+          0.021
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.438,
+        "Late night": 0.432,
+        "Party": 0.339,
+        "Melancholy": 0.312,
+        "Happy": 0.306
+      },
+      "bpm": 108,
+      "tempo": 107.53,
+      "beatOffset": 0.514,
+      "hasBeat": true,
+      "energy": 0.653,
+      "key": "C minor",
+      "vocals": 0.098,
+      "signals": {
+        "g:Pop": 0.0206,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0004,
+        "g:R&B": 0.0116,
+        "g:Electronic": 0.0014,
+        "g:Dance": 0.0023,
+        "g:Jazz": 0.0059,
+        "g:Blues": 0.0029,
+        "g:Classical": 0.0107,
+        "g:Ambient": 0.0062,
+        "g:Soundtrack": 0.0063,
+        "g:Folk": 0.0293,
+        "g:Latin": 0.0124,
+        "g:Reggae": 0.0004,
+        "g:World": 0.03,
+        "vocal": 0.0982,
+        "nature": 0.0006,
+        "happy": 0.0406,
+        "sad": 0.0277,
+        "tender": 0.0225,
+        "exciting": 0.0042,
+        "angry": 0.0,
+        "lullaby": 0.0154
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 161.75,
+        "db": -15.507,
+        "dynamics": 13.168,
+        "perc": 0.141,
+        "onsetRate": 4.94,
+        "pulse": 0.581,
+        "beatiness": 0.408,
+        "tempo": 107.529,
+        "beatOffset": 0.514,
+        "centroid": 2165.631,
+        "flatness": 0.013,
+        "energy": 0.653,
+        "major": 0.336,
+        "key": "C minor",
+        "keyConf": 0.722
+      },
+      "v": 5,
+      "size": 3888130,
+      "title": "Gönlümün İnce Sızısı",
+      "analysed": "2026-10-27 05:27"
     }
   }
 }
