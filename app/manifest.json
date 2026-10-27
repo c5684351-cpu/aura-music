@@ -1,0 +1,66 @@
+{
+  "id": "./",
+  "name": "Aura Music: Songs & Shorts",
+  "short_name": "Aura",
+  "description": "Original songs, 15-second Shorts and a daily mix that learns your taste.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E0628",
+  "theme_color": "#0E0628",
+  "orientation": "any",
+  "lang": "en",
+  "dir": "auto",
+  "categories": [
+    "music",
+    "entertainment"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/Icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/Icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/wide-1.jpg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Aura on a computer"
+    },
+    {
+      "src": "screenshots/phone-1.jpg",
+      "sizes": "540x960",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Music in every colour"
+    },
+    {
+      "src": "screenshots/phone-2.jpg",
+      "sizes": "540x960",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Swipe through Shorts"
+    }
+  ]
+}

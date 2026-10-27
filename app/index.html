@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base href="/aura-music/app/">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Aura Music: original songs, 15-second Shorts and a daily mix that learns your taste.">
+  <meta name="theme-color" content="#0E0628">
+  <meta name="color-scheme" content="dark">
+
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Aura">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <title>Aura Music</title>
+  <style>
+    html, body { margin: 0; height: 100%; background: #0E0628; }
+    /* Shown while the app loads: the brand record, gently spinning. */
+    #aura-loading { position: fixed; inset: 0; display: grid; place-items: center; background: #0E0628; transition: opacity .4s ease; }
+    #aura-loading .disc { width: 34vmin; height: 34vmin; max-width: 220px; max-height: 220px; border-radius: 50%;
+      background: conic-gradient(from 200deg, #FF2E88, #FF8A00, #FFE14D, #00F0D8, #3D6BFF, #B14DFF, #FF2E88);
+      box-shadow: 0 0 60px rgba(255, 46, 136, .45); animation: spin 1.6s linear infinite; position: relative; }
+    #aura-loading .disc::after { content: ""; position: absolute; inset: 30%; border-radius: 50%; background: #0E0628;
+      box-shadow: inset 0 0 0 6px rgba(255,255,255,.08); }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @media (prefers-reduced-motion: reduce) { #aura-loading .disc { animation: none; } }
+  </style>
+</head>
+<body>
+  <div id="aura-loading" aria-label="Loading Aura"><div class="disc"></div></div>
+  <script>
+    // Hide the loading record as soon as Flutter draws its first frame.
+    window.addEventListener('flutter-first-frame', function () {
+      var el = document.getElementById('aura-loading');
+      if (!el) return;
+      el.style.opacity = '0';
+      setTimeout(function () { el.remove(); }, 450);
+    });
+  </script>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
