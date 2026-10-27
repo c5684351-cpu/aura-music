@@ -1,7 +1,254 @@
 {
     "app":  "Aura",
-    "updated":  "2026-10-26T16:17:34.2859133Z",
+    "updated":  "2026-10-27T05:21:11.3994809Z",
     "tracks":  [
+                   {
+                       "id":  "u_rearview_motion_f608de",
+                       "title":  "Rearview Motion",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  159,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF7AD9",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  1723,
+                       "file":  "songs/u_rearview_motion_f608de.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3812897
+                   },
+                   {
+                       "id":  "u_the_sweater_you_left_cabcdd",
+                       "title":  "The Sweater You Left",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  168,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF7AD9",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  17275,
+                       "file":  "songs/u_the_sweater_you_left_cabcdd.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4046745
+                   },
+                   {
+                       "id":  "u_the_final_bow_c421f8",
+                       "title":  "The Final Bow",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  169,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFF00F0D8",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  45002,
+                       "file":  "songs/u_the_final_bow_c421f8.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4053014
+                   },
+                   {
+                       "id":  "u_song_2723a5",
+                       "title":  "Лед на губах",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  157,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  62752,
+                       "file":  "songs/u_song_2723a5.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3769638
+                   },
+                   {
+                       "id":  "u_kendi_imparatorlugum_e3dcb3",
+                       "title":  "Kendi İmparatorluğum",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFFF2E88",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  949,
+                       "file":  "songs/u_kendi_imparatorlugum_e3dcb3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4370872
+                   },
+                   {
+                       "id":  "u_umay_in_cagrisi_5cfe06",
+                       "title":  "Umay ın Çağrısı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  10704,
+                       "file":  "songs/u_umay_in_cagrisi_5cfe06.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3994082
+                   },
+                   {
+                       "id":  "u_mangu_tengri_yoli_f2b897",
+                       "title":  "Mangu Tengri Yoli",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  164,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  7494,
+                       "file":  "songs/u_mangu_tengri_yoli_f2b897.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3947062
+                   },
+                   {
+                       "id":  "u_kok_tengri_kukredi_ec7a00",
+                       "title":  "Kök Tengri Kükredi",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  177,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  37048,
+                       "file":  "songs/u_kok_tengri_kukredi_ec7a00.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4242350
+                   },
+                   {
+                       "id":  "u_song_d13298",
+                       "title":  "Назло небесам",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  149,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFF2E88",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  18358,
+                       "file":  "songs/u_song_d13298.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3574660
+                   },
+                   {
+                       "id":  "u_sokaklar_sahidimdir_1bea17",
+                       "title":  "Sokaklar Şahidimdir",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  160,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFF3D6BFF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  62279,
+                       "file":  "songs/u_sokaklar_sahidimdir_1bea17.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3840482
+                   },
+                   {
+                       "id":  "u_dumanli_yuregim_2aaa91",
+                       "title":  "Dumanlı Yüreğim",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  17056,
+                       "file":  "songs/u_dumanli_yuregim_2aaa91.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4172760
+                   },
+                   {
+                       "id":  "u_bu_sevdaluk_bitmez_3e5ee2",
+                       "title":  "Bu Sevdaluk Bitmez",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  165,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF",
+                                       "0xFFB14DFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  41755,
+                       "file":  "songs/u_bu_sevdaluk_bitmez_3e5ee2.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3956466
+                   },
+                   {
+                       "id":  "u_gonlumun_ince_sizisi_74c881",
+                       "title":  "Gönlümün İnce Sızısı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  162,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF2E88",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  36292,
+                       "file":  "songs/u_gonlumun_ince_sizisi_74c881.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3888130
+                   },
                    {
                        "id":  "u_alp_er_korkmas_2e31e6",
                        "title":  "Alp Er Korkmas",
