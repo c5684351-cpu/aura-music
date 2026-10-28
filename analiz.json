@@ -9524,6 +9524,1019 @@
       "size": 3888130,
       "title": "Gönlümün İnce Sızısı",
       "analysed": "2026-10-27 05:27"
+    },
+    "u_song_d4d223": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.12,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.12
+        ],
+        [
+          "Electronic",
+          0.036
+        ],
+        [
+          "Pop",
+          0.032
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.61,
+        "Energize": 0.581,
+        "Late night": 0.324,
+        "Happy": 0.317,
+        "Melancholy": 0.181
+      },
+      "bpm": 120,
+      "tempo": 120.19,
+      "beatOffset": 0.15,
+      "hasBeat": true,
+      "energy": 0.72,
+      "key": "D# major",
+      "vocals": 0.149,
+      "signals": {
+        "g:Pop": 0.032,
+        "g:Rock": 0.0045,
+        "g:Metal": 0.0017,
+        "g:Hip-Hop": 0.1195,
+        "g:R&B": 0.0253,
+        "g:Electronic": 0.036,
+        "g:Dance": 0.0304,
+        "g:Jazz": 0.0073,
+        "g:Blues": 0.0055,
+        "g:Classical": 0.0038,
+        "g:Ambient": 0.0034,
+        "g:Soundtrack": 0.0158,
+        "g:Folk": 0.0014,
+        "g:Latin": 0.002,
+        "g:Reggae": 0.0287,
+        "g:World": 0.0112,
+        "vocal": 0.1485,
+        "nature": 0.0024,
+        "happy": 0.0044,
+        "sad": 0.0016,
+        "tender": 0.0044,
+        "exciting": 0.0246,
+        "angry": 0.0003,
+        "lullaby": 0.0004
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 177.136,
+        "db": -15.144,
+        "dynamics": 11.601,
+        "perc": 0.195,
+        "onsetRate": 4.115,
+        "pulse": 0.479,
+        "beatiness": 0.466,
+        "tempo": 120.19,
+        "beatOffset": 0.15,
+        "centroid": 2501.782,
+        "flatness": 0.03,
+        "energy": 0.72,
+        "major": 0.55,
+        "key": "D# major",
+        "keyConf": 0.762
+      },
+      "v": 5,
+      "size": 4257396,
+      "title": "След на грешной земле",
+      "analysed": "2026-10-28 09:21"
+    },
+    "u_song_3c138f": {
+      "genre": "R&B",
+      "genreConfidence": 0.075,
+      "genreTop": [
+        [
+          "R&B",
+          0.075
+        ],
+        [
+          "Hip-Hop",
+          0.072
+        ],
+        [
+          "Pop",
+          0.047
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.439,
+        "Happy": 0.386,
+        "Late night": 0.235,
+        "Focus": 0.15,
+        "Romantic": 0.1
+      },
+      "bpm": 92,
+      "tempo": 92.17,
+      "beatOffset": 0.018,
+      "hasBeat": true,
+      "energy": 0.74,
+      "key": "D major",
+      "vocals": 0.043,
+      "signals": {
+        "g:Pop": 0.0474,
+        "g:Rock": 0.005,
+        "g:Metal": 0.0011,
+        "g:Hip-Hop": 0.0723,
+        "g:R&B": 0.0752,
+        "g:Electronic": 0.0142,
+        "g:Dance": 0.0138,
+        "g:Jazz": 0.0076,
+        "g:Blues": 0.008,
+        "g:Classical": 0.0022,
+        "g:Ambient": 0.0049,
+        "g:Soundtrack": 0.0165,
+        "g:Folk": 0.0022,
+        "g:Latin": 0.0006,
+        "g:Reggae": 0.0064,
+        "g:World": 0.0155,
+        "vocal": 0.0433,
+        "nature": 0.0025,
+        "happy": 0.0067,
+        "sad": 0.0032,
+        "tender": 0.0064,
+        "exciting": 0.0195,
+        "angry": 0.0002,
+        "lullaby": 0.0009
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 179.043,
+        "db": -15.193,
+        "dynamics": 12.009,
+        "perc": 0.234,
+        "onsetRate": 3.53,
+        "pulse": 0.64,
+        "beatiness": 0.64,
+        "tempo": 92.173,
+        "beatOffset": 0.018,
+        "centroid": 2151.234,
+        "flatness": 0.019,
+        "energy": 0.74,
+        "major": 0.834,
+        "key": "D major",
+        "keyConf": 0.798
+      },
+      "v": 5,
+      "size": 4303163,
+      "title": "折れた翼で",
+      "analysed": "2026-10-28 09:21"
+    },
+    "u_bukulmez_bilek_a455dc": {
+      "genre": "Pop",
+      "genreConfidence": 0.047,
+      "genreTop": [
+        [
+          "Pop",
+          0.047
+        ],
+        [
+          "Folk",
+          0.032
+        ],
+        [
+          "World",
+          0.022
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.574,
+        "Melancholy": 0.376,
+        "Energize": 0.358,
+        "Chill": 0.306,
+        "Focus": 0.239
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.608,
+      "key": "B minor",
+      "vocals": 0.104,
+      "signals": {
+        "g:Pop": 0.0471,
+        "g:Rock": 0.0037,
+        "g:Metal": 0.0019,
+        "g:Hip-Hop": 0.008,
+        "g:R&B": 0.0129,
+        "g:Electronic": 0.0123,
+        "g:Dance": 0.0054,
+        "g:Jazz": 0.0081,
+        "g:Blues": 0.0111,
+        "g:Classical": 0.0041,
+        "g:Ambient": 0.0068,
+        "g:Soundtrack": 0.0105,
+        "g:Folk": 0.0317,
+        "g:Latin": 0.0036,
+        "g:Reggae": 0.0055,
+        "g:World": 0.0221,
+        "vocal": 0.1036,
+        "nature": 0.0035,
+        "happy": 0.0158,
+        "sad": 0.0102,
+        "tender": 0.0137,
+        "exciting": 0.0142,
+        "angry": 0.0002,
+        "lullaby": 0.0059
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 182.779,
+        "db": -14.98,
+        "dynamics": 7.555,
+        "perc": 0.143,
+        "onsetRate": 3.283,
+        "pulse": 0.303,
+        "beatiness": 0.216,
+        "tempo": 99.335,
+        "beatOffset": 0.228,
+        "centroid": 2033.972,
+        "flatness": 0.028,
+        "energy": 0.608,
+        "major": 0.017,
+        "key": "B minor",
+        "keyConf": 0.861
+      },
+      "v": 5,
+      "size": 4392815,
+      "title": "Bükülmez Bilek",
+      "analysed": "2026-10-28 09:21"
+    },
+    "u_celik_bilek_68b205": {
+      "genre": "Electronic",
+      "genreConfidence": 0.059,
+      "genreTop": [
+        [
+          "Pop",
+          0.059
+        ],
+        [
+          "Folk",
+          0.034
+        ],
+        [
+          "R&B",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.669,
+        "Workout": 0.548,
+        "Party": 0.479,
+        "Late night": 0.358,
+        "Happy": 0.345
+      },
+      "bpm": 120,
+      "tempo": 120.3,
+      "beatOffset": 0.142,
+      "hasBeat": true,
+      "energy": 0.832,
+      "key": "E minor",
+      "vocals": 0.04,
+      "signals": {
+        "g:Pop": 0.0588,
+        "g:Rock": 0.0162,
+        "g:Metal": 0.0043,
+        "g:Hip-Hop": 0.0009,
+        "g:R&B": 0.0201,
+        "g:Electronic": 0.0026,
+        "g:Dance": 0.0108,
+        "g:Jazz": 0.0135,
+        "g:Blues": 0.0056,
+        "g:Classical": 0.0047,
+        "g:Ambient": 0.0051,
+        "g:Soundtrack": 0.0142,
+        "g:Folk": 0.0342,
+        "g:Latin": 0.0036,
+        "g:Reggae": 0.008,
+        "g:World": 0.0064,
+        "vocal": 0.04,
+        "nature": 0.002,
+        "happy": 0.0553,
+        "sad": 0.0015,
+        "tender": 0.0042,
+        "exciting": 0.04,
+        "angry": 0.0002,
+        "lullaby": 0.0007
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 170.527,
+        "db": -15.008,
+        "dynamics": 6.758,
+        "perc": 0.255,
+        "onsetRate": 5.266,
+        "pulse": 0.51,
+        "beatiness": 0.51,
+        "tempo": 120.298,
+        "beatOffset": 0.142,
+        "centroid": 2580.787,
+        "flatness": 0.041,
+        "energy": 0.832,
+        "major": 0.289,
+        "key": "E minor",
+        "keyConf": 0.727
+      },
+      "v": 5,
+      "size": 4098781,
+      "title": "Çelik Bilek",
+      "analysed": "2026-10-28 09:22"
+    },
+    "u_colliding_in_the_dark_d6b053": {
+      "genre": "Pop",
+      "genreConfidence": 0.094,
+      "genreTop": [
+        [
+          "Pop",
+          0.094
+        ],
+        [
+          "Dance",
+          0.074
+        ],
+        [
+          "Electronic",
+          0.05
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.569,
+        "Late night": 0.534,
+        "Party": 0.448,
+        "Melancholy": 0.356,
+        "Happy": 0.183
+      },
+      "bpm": 126,
+      "tempo": 126.04,
+      "beatOffset": 0.125,
+      "hasBeat": true,
+      "energy": 0.647,
+      "key": "B minor",
+      "vocals": 0.063,
+      "signals": {
+        "g:Pop": 0.0937,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0053,
+        "g:R&B": 0.0342,
+        "g:Electronic": 0.0499,
+        "g:Dance": 0.0738,
+        "g:Jazz": 0.0045,
+        "g:Blues": 0.007,
+        "g:Classical": 0.001,
+        "g:Ambient": 0.0043,
+        "g:Soundtrack": 0.0159,
+        "g:Folk": 0.0021,
+        "g:Latin": 0.0013,
+        "g:Reggae": 0.0024,
+        "g:World": 0.0259,
+        "vocal": 0.063,
+        "nature": 0.0048,
+        "happy": 0.0152,
+        "sad": 0.0013,
+        "tender": 0.006,
+        "exciting": 0.0213,
+        "angry": 0.0001,
+        "lullaby": 0.0017
+      },
+      "nature": 0.005,
+      "model": true,
+      "features": {
+        "seconds": 178.625,
+        "db": -15.167,
+        "dynamics": 8.968,
+        "perc": 0.139,
+        "onsetRate": 3.924,
+        "pulse": 0.62,
+        "beatiness": 0.432,
+        "tempo": 126.037,
+        "beatOffset": 0.125,
+        "centroid": 2666.057,
+        "flatness": 0.041,
+        "energy": 0.647,
+        "major": 0.0,
+        "key": "B minor",
+        "keyConf": 0.91
+      },
+      "v": 5,
+      "size": 4293132,
+      "title": "Colliding in the Dark",
+      "analysed": "2026-10-28 09:22"
+    },
+    "u_beyond_the_peak_b64ea2": {
+      "genre": "Pop",
+      "genreConfidence": 0.071,
+      "genreTop": [
+        [
+          "Pop",
+          0.071
+        ],
+        [
+          "World",
+          0.06
+        ],
+        [
+          "Hip-Hop",
+          0.053
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.575,
+        "Party": 0.464,
+        "Late night": 0.403,
+        "Melancholy": 0.258,
+        "Happy": 0.255
+      },
+      "bpm": 120,
+      "tempo": 120.09,
+      "beatOffset": 0.07,
+      "hasBeat": true,
+      "energy": 0.701,
+      "key": "G# minor",
+      "vocals": 0.053,
+      "signals": {
+        "g:Pop": 0.0709,
+        "g:Rock": 0.0029,
+        "g:Metal": 0.0011,
+        "g:Hip-Hop": 0.0531,
+        "g:R&B": 0.0297,
+        "g:Electronic": 0.0332,
+        "g:Dance": 0.0521,
+        "g:Jazz": 0.0079,
+        "g:Blues": 0.0067,
+        "g:Classical": 0.0024,
+        "g:Ambient": 0.0021,
+        "g:Soundtrack": 0.0163,
+        "g:Folk": 0.0012,
+        "g:Latin": 0.0018,
+        "g:Reggae": 0.019,
+        "g:World": 0.0599,
+        "vocal": 0.0533,
+        "nature": 0.003,
+        "happy": 0.0068,
+        "sad": 0.0007,
+        "tender": 0.0028,
+        "exciting": 0.0274,
+        "angry": 0.0002,
+        "lullaby": 0.0005
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.428,
+        "db": -15.136,
+        "dynamics": 9.741,
+        "perc": 0.171,
+        "onsetRate": 4.279,
+        "pulse": 0.544,
+        "beatiness": 0.466,
+        "tempo": 120.091,
+        "beatOffset": 0.07,
+        "centroid": 2670.492,
+        "flatness": 0.032,
+        "energy": 0.701,
+        "major": 0.294,
+        "key": "G# minor",
+        "keyConf": 0.656
+      },
+      "v": 5,
+      "size": 4336391,
+      "title": "Beyond The Peak",
+      "analysed": "2026-10-28 09:22"
+    },
+    "u_pressed_in_yellow_eaf083": {
+      "genre": "R&B",
+      "genreConfidence": 0.182,
+      "genreTop": [
+        [
+          "R&B",
+          0.182
+        ],
+        [
+          "Pop",
+          0.045
+        ],
+        [
+          "Rock",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Happy"
+      ],
+      "moodScores": {
+        "Happy": 0.475,
+        "Energize": 0.414,
+        "Late night": 0.217,
+        "Romantic": 0.142,
+        "Focus": 0.123
+      },
+      "bpm": 92,
+      "tempo": 92.31,
+      "beatOffset": 0.122,
+      "hasBeat": true,
+      "energy": 0.724,
+      "key": "D major",
+      "vocals": 0.038,
+      "signals": {
+        "g:Pop": 0.045,
+        "g:Rock": 0.0196,
+        "g:Metal": 0.0045,
+        "g:Hip-Hop": 0.0157,
+        "g:R&B": 0.1817,
+        "g:Electronic": 0.0038,
+        "g:Dance": 0.004,
+        "g:Jazz": 0.0055,
+        "g:Blues": 0.0172,
+        "g:Classical": 0.0005,
+        "g:Ambient": 0.0134,
+        "g:Soundtrack": 0.0163,
+        "g:Folk": 0.0054,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0028,
+        "g:World": 0.0025,
+        "vocal": 0.0381,
+        "nature": 0.0008,
+        "happy": 0.039,
+        "sad": 0.0242,
+        "tender": 0.0489,
+        "exciting": 0.0096,
+        "angry": 0.0002,
+        "lullaby": 0.0166
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 167.941,
+        "db": -15.685,
+        "dynamics": 17.276,
+        "perc": 0.245,
+        "onsetRate": 3.412,
+        "pulse": 0.687,
+        "beatiness": 0.687,
+        "tempo": 92.314,
+        "beatOffset": 0.122,
+        "centroid": 1695.674,
+        "flatness": 0.014,
+        "energy": 0.724,
+        "major": 1.0,
+        "key": "D major",
+        "keyConf": 0.91
+      },
+      "v": 5,
+      "size": 4036714,
+      "title": "Pressed In Yellow",
+      "analysed": "2026-10-28 09:23"
+    },
+    "u_colors_only_we_see_5547f5": {
+      "genre": "Pop",
+      "genreConfidence": 0.054,
+      "genreTop": [
+        [
+          "Ambient",
+          0.054
+        ],
+        [
+          "Soundtrack",
+          0.023
+        ],
+        [
+          "R&B",
+          0.02
+        ]
+      ],
+      "moods": [
+        "Chill"
+      ],
+      "moodScores": {
+        "Chill": 0.535,
+        "Happy": 0.42,
+        "Focus": 0.402,
+        "Late night": 0.311,
+        "Melancholy": 0.303
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.52,
+      "key": "D major",
+      "vocals": 0.057,
+      "signals": {
+        "g:Pop": 0.0114,
+        "g:Rock": 0.0007,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0005,
+        "g:R&B": 0.0196,
+        "g:Electronic": 0.0059,
+        "g:Dance": 0.0023,
+        "g:Jazz": 0.0023,
+        "g:Blues": 0.0026,
+        "g:Classical": 0.0043,
+        "g:Ambient": 0.0535,
+        "g:Soundtrack": 0.0231,
+        "g:Folk": 0.0055,
+        "g:Latin": 0.003,
+        "g:Reggae": 0.0002,
+        "g:World": 0.0043,
+        "vocal": 0.0572,
+        "nature": 0.0005,
+        "happy": 0.0248,
+        "sad": 0.0864,
+        "tender": 0.0908,
+        "exciting": 0.0029,
+        "angry": 0.0,
+        "lullaby": 0.0642
+      },
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 179.122,
+        "db": -16.122,
+        "dynamics": 17.587,
+        "perc": 0.096,
+        "onsetRate": 3.082,
+        "pulse": 0.442,
+        "beatiness": 0.212,
+        "tempo": 99.422,
+        "beatOffset": 0.522,
+        "centroid": 1941.279,
+        "flatness": 0.008,
+        "energy": 0.52,
+        "major": 0.864,
+        "key": "D major",
+        "keyConf": 0.882
+      },
+      "v": 5,
+      "size": 4305044,
+      "title": "Colors Only We See",
+      "analysed": "2026-10-28 09:23"
+    },
+    "u_ulu_daglar_basi_boranli_836cd4": {
+      "genre": "Ambient",
+      "genreConfidence": 0.051,
+      "genreTop": [
+        [
+          "Folk",
+          0.051
+        ],
+        [
+          "World",
+          0.017
+        ],
+        [
+          "Latin",
+          0.009
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.649,
+        "Chill": 0.612,
+        "Focus": 0.512,
+        "Melancholy": 0.432,
+        "Energize": 0.243
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.441,
+      "key": "C minor",
+      "vocals": 0.148,
+      "signals": {
+        "g:Pop": 0.0022,
+        "g:Rock": 0.0005,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0004,
+        "g:R&B": 0.0054,
+        "g:Electronic": 0.0006,
+        "g:Dance": 0.0003,
+        "g:Jazz": 0.0077,
+        "g:Blues": 0.0039,
+        "g:Classical": 0.0085,
+        "g:Ambient": 0.0066,
+        "g:Soundtrack": 0.0024,
+        "g:Folk": 0.051,
+        "g:Latin": 0.0092,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0173,
+        "vocal": 0.148,
+        "nature": 0.0014,
+        "happy": 0.0054,
+        "sad": 0.0219,
+        "tender": 0.0174,
+        "exciting": 0.0004,
+        "angry": 0.0,
+        "lullaby": 0.0131
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 181.995,
+        "db": -15.161,
+        "dynamics": 11.41,
+        "perc": 0.049,
+        "onsetRate": 2.291,
+        "pulse": 0.143,
+        "beatiness": 0.035,
+        "tempo": 135.974,
+        "beatOffset": 0.264,
+        "centroid": 1780.729,
+        "flatness": 0.016,
+        "energy": 0.441,
+        "major": 0.0,
+        "key": "C minor",
+        "keyConf": 0.859
+      },
+      "v": 5,
+      "size": 4374007,
+      "title": "Ulu Dağlar Başı Boranlı",
+      "analysed": "2026-10-28 09:24"
+    },
+    "u_toprak_olur_benim_efkarim_cc6153": {
+      "genre": "Pop",
+      "genreConfidence": 0.042,
+      "genreTop": [
+        [
+          "Folk",
+          0.042
+        ],
+        [
+          "World",
+          0.025
+        ],
+        [
+          "R&B",
+          0.011
+        ]
+      ],
+      "moods": [
+        "Chill",
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.582,
+        "Chill": 0.541,
+        "Focus": 0.423,
+        "Melancholy": 0.407,
+        "Energize": 0.279
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.505,
+      "key": "G minor",
+      "vocals": 0.105,
+      "signals": {
+        "g:Pop": 0.005,
+        "g:Rock": 0.0008,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0004,
+        "g:R&B": 0.0114,
+        "g:Electronic": 0.0012,
+        "g:Dance": 0.0005,
+        "g:Jazz": 0.0058,
+        "g:Blues": 0.0064,
+        "g:Classical": 0.0061,
+        "g:Ambient": 0.0052,
+        "g:Soundtrack": 0.003,
+        "g:Folk": 0.0422,
+        "g:Latin": 0.0107,
+        "g:Reggae": 0.0004,
+        "g:World": 0.0252,
+        "vocal": 0.1049,
+        "nature": 0.0197,
+        "happy": 0.0116,
+        "sad": 0.0329,
+        "tender": 0.0321,
+        "exciting": 0.0008,
+        "angry": 0.0,
+        "lullaby": 0.0187
+      },
+      "nature": 0.02,
+      "model": true,
+      "features": {
+        "seconds": 181.603,
+        "db": -15.025,
+        "dynamics": 8.697,
+        "perc": 0.06,
+        "onsetRate": 3.838,
+        "pulse": 0.189,
+        "beatiness": 0.057,
+        "tempo": 132.525,
+        "beatOffset": 0.083,
+        "centroid": 1829.798,
+        "flatness": 0.016,
+        "energy": 0.505,
+        "major": 0.133,
+        "key": "G minor",
+        "keyConf": 0.753
+      },
+      "v": 5,
+      "size": 4364603,
+      "title": "Toprak Olur Benim Efkarım",
+      "analysed": "2026-10-28 09:24"
+    },
+    "u_yuce_daglar_basinda_cd428c": {
+      "genre": "Ambient",
+      "genreConfidence": 0.021,
+      "genreTop": [
+        [
+          "Ambient",
+          0.021
+        ],
+        [
+          "R&B",
+          0.015
+        ],
+        [
+          "Folk",
+          0.014
+        ]
+      ],
+      "moods": [
+        "Chill"
+      ],
+      "moodScores": {
+        "Chill": 0.622,
+        "Focus": 0.453,
+        "Happy": 0.423,
+        "Late night": 0.31,
+        "Romantic": 0.269
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.467,
+      "key": "D major",
+      "vocals": 0.12,
+      "signals": {
+        "g:Pop": 0.0044,
+        "g:Rock": 0.0007,
+        "g:Metal": 0.0001,
+        "g:Hip-Hop": 0.0002,
+        "g:R&B": 0.015,
+        "g:Electronic": 0.0012,
+        "g:Dance": 0.0003,
+        "g:Jazz": 0.006,
+        "g:Blues": 0.0037,
+        "g:Classical": 0.0045,
+        "g:Ambient": 0.0211,
+        "g:Soundtrack": 0.004,
+        "g:Folk": 0.0136,
+        "g:Latin": 0.0071,
+        "g:Reggae": 0.0002,
+        "g:World": 0.0042,
+        "vocal": 0.1199,
+        "nature": 0.0009,
+        "happy": 0.0153,
+        "sad": 0.0409,
+        "tender": 0.0572,
+        "exciting": 0.0004,
+        "angry": 0.0,
+        "lullaby": 0.0643
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 181.812,
+        "db": -15.245,
+        "dynamics": 8.964,
+        "perc": 0.061,
+        "onsetRate": 2.948,
+        "pulse": 0.333,
+        "beatiness": 0.101,
+        "tempo": 129.149,
+        "beatOffset": 0.43,
+        "centroid": 1610.215,
+        "flatness": 0.012,
+        "energy": 0.467,
+        "major": 1.0,
+        "key": "D major",
+        "keyConf": 0.861
+      },
+      "v": 5,
+      "size": 4369618,
+      "title": "Yüce Dağlar Başında",
+      "analysed": "2026-10-28 09:24"
+    },
+    "u_suskun_menzil_31456e": {
+      "genre": "Pop",
+      "genreConfidence": 0.025,
+      "genreTop": [
+        [
+          "Ambient",
+          0.025
+        ],
+        [
+          "Soundtrack",
+          0.021
+        ],
+        [
+          "Pop",
+          0.019
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.619,
+        "Melancholy": 0.509,
+        "Chill": 0.478,
+        "Focus": 0.366,
+        "Energize": 0.301
+      },
+      "bpm": 64,
+      "tempo": 64.0,
+      "beatOffset": 0.0,
+      "hasBeat": false,
+      "energy": 0.541,
+      "key": "D minor",
+      "vocals": 0.074,
+      "signals": {
+        "g:Pop": 0.0188,
+        "g:Rock": 0.0008,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0005,
+        "g:R&B": 0.009,
+        "g:Electronic": 0.0048,
+        "g:Dance": 0.0008,
+        "g:Jazz": 0.0022,
+        "g:Blues": 0.0036,
+        "g:Classical": 0.003,
+        "g:Ambient": 0.0246,
+        "g:Soundtrack": 0.0206,
+        "g:Folk": 0.0119,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0001,
+        "g:World": 0.0166,
+        "vocal": 0.0738,
+        "nature": 0.0013,
+        "happy": 0.015,
+        "sad": 0.0636,
+        "tender": 0.0762,
+        "exciting": 0.0023,
+        "angry": 0.0,
+        "lullaby": 0.017
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 178.338,
+        "db": -15.323,
+        "dynamics": 7.568,
+        "perc": 0.075,
+        "onsetRate": 4.548,
+        "pulse": 0.254,
+        "beatiness": 0.095,
+        "tempo": 129.228,
+        "beatOffset": 0.113,
+        "centroid": 1794.92,
+        "flatness": 0.008,
+        "energy": 0.541,
+        "major": 0.0,
+        "key": "D minor",
+        "keyConf": 0.867
+      },
+      "v": 5,
+      "size": 4286236,
+      "title": "Suskun Menzil",
+      "analysed": "2026-10-28 09:25"
     }
   }
 }
