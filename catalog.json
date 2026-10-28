@@ -1,7 +1,235 @@
 {
     "app":  "Aura",
-    "updated":  "2026-10-27T13:43:47.6348558Z",
+    "updated":  "2026-10-28T09:15:26.1525992Z",
     "tracks":  [
+                   {
+                       "id":  "u_song_d4d223",
+                       "title":  "След на грешной земле",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  177,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  30234,
+                       "file":  "songs/u_song_d4d223.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4257396
+                   },
+                   {
+                       "id":  "u_song_3c138f",
+                       "title":  "折れた翼で",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFF3DF5FF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  13624,
+                       "file":  "songs/u_song_3c138f.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4303163
+                   },
+                   {
+                       "id":  "u_bukulmez_bilek_a455dc",
+                       "title":  "Bükülmez Bilek",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  183,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFA8FF3E",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  42511,
+                       "file":  "songs/u_bukulmez_bilek_a455dc.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4392815
+                   },
+                   {
+                       "id":  "u_celik_bilek_68b205",
+                       "title":  "Çelik Bilek",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  171,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF7AD9",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  4572,
+                       "file":  "songs/u_celik_bilek_68b205.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4098781
+                   },
+                   {
+                       "id":  "u_colliding_in_the_dark_d6b053",
+                       "title":  "Colliding in the Dark",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFB14DFF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  43213,
+                       "file":  "songs/u_colliding_in_the_dark_d6b053.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4293132
+                   },
+                   {
+                       "id":  "u_beyond_the_peak_b64ea2",
+                       "title":  "Beyond The Peak",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF7AD9",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  9128,
+                       "file":  "songs/u_beyond_the_peak_b64ea2.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4336391
+                   },
+                   {
+                       "id":  "u_pressed_in_yellow_eaf083",
+                       "title":  "Pressed In Yellow",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  168,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  36267,
+                       "file":  "songs/u_pressed_in_yellow_eaf083.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4036714
+                   },
+                   {
+                       "id":  "u_colors_only_we_see_5547f5",
+                       "title":  "Colors Only We See",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFFF8A00",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  23398,
+                       "file":  "songs/u_colors_only_we_see_5547f5.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4305044
+                   },
+                   {
+                       "id":  "u_ulu_daglar_basi_boranli_836cd4",
+                       "title":  "Ulu Dağlar Başı Boranlı",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFFFF7AD9",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  16056,
+                       "file":  "songs/u_ulu_daglar_basi_boranli_836cd4.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4374007
+                   },
+                   {
+                       "id":  "u_toprak_olur_benim_efkarim_cc6153",
+                       "title":  "Toprak Olur Benim Efkarım",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF4FD8FF",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  58225,
+                       "file":  "songs/u_toprak_olur_benim_efkarim_cc6153.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4364603
+                   },
+                   {
+                       "id":  "u_yuce_daglar_basinda_cd428c",
+                       "title":  "Yüce Dağlar Başında",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  182,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFB14DFF",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  11274,
+                       "file":  "songs/u_yuce_daglar_basinda_cd428c.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4369618
+                   },
+                   {
+                       "id":  "u_suskun_menzil_31456e",
+                       "title":  "Suskun Menzil",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFF2E88",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  5946,
+                       "file":  "songs/u_suskun_menzil_31456e.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4286236
+                   },
                    {
                        "id":  "u_rearview_motion_f608de",
                        "title":  "Rearview Motion",
