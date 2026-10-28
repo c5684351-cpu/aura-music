@@ -11811,6 +11811,260 @@
       "size": 4294386,
       "title": "Кричи моё имя",
       "analysed": "2026-10-28 15:08"
+    },
+    "u_against_the_glow_826b46": {
+      "genre": "Pop",
+      "genreConfidence": 0.154,
+      "genreTop": [
+        [
+          "Pop",
+          0.154
+        ],
+        [
+          "R&B",
+          0.064
+        ],
+        [
+          "Dance",
+          0.059
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.74,
+        "Energize": 0.543,
+        "Workout": 0.492,
+        "Happy": 0.459,
+        "Late night": 0.218
+      },
+      "bpm": 120,
+      "tempo": 120.0,
+      "beatOffset": 0.059,
+      "hasBeat": true,
+      "energy": 0.665,
+      "key": "B major",
+      "vocals": 0.062,
+      "signals": {
+        "g:Pop": 0.1537,
+        "g:Rock": 0.0029,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.005,
+        "g:R&B": 0.0641,
+        "g:Electronic": 0.0548,
+        "g:Dance": 0.0588,
+        "g:Jazz": 0.0061,
+        "g:Blues": 0.0052,
+        "g:Classical": 0.0007,
+        "g:Ambient": 0.0019,
+        "g:Soundtrack": 0.0106,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0009,
+        "g:Reggae": 0.004,
+        "g:World": 0.0464,
+        "vocal": 0.062,
+        "nature": 0.0017,
+        "happy": 0.0191,
+        "sad": 0.0013,
+        "tender": 0.0049,
+        "exciting": 0.0203,
+        "angry": 0.0004,
+        "lullaby": 0.0019
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 163.239,
+        "db": -15.346,
+        "dynamics": 10.071,
+        "perc": 0.158,
+        "onsetRate": 3.853,
+        "pulse": 0.702,
+        "beatiness": 0.553,
+        "tempo": 120.001,
+        "beatOffset": 0.059,
+        "centroid": 2624.184,
+        "flatness": 0.036,
+        "energy": 0.665,
+        "major": 0.904,
+        "key": "B major",
+        "keyConf": 0.875
+      },
+      "v": 5,
+      "size": 3923865,
+      "title": "Against the Glow",
+      "analysed": "2026-10-28 16:19"
+    },
+    "u_aramizda_koca_sehir_e1bc07": {
+      "genre": "Electronic",
+      "genreConfidence": 0.047,
+      "genreTop": [
+        [
+          "R&B",
+          0.047
+        ],
+        [
+          "Pop",
+          0.035
+        ],
+        [
+          "World",
+          0.023
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party",
+        "Happy"
+      ],
+      "moodScores": {
+        "Happy": 0.532,
+        "Party": 0.492,
+        "Energize": 0.486,
+        "Late night": 0.193,
+        "Romantic": 0.154
+      },
+      "bpm": 110,
+      "tempo": 109.99,
+      "beatOffset": 0.477,
+      "hasBeat": true,
+      "energy": 0.696,
+      "key": "G# major",
+      "vocals": 0.095,
+      "signals": {
+        "g:Pop": 0.035,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0027,
+        "g:R&B": 0.0471,
+        "g:Electronic": 0.0027,
+        "g:Dance": 0.0036,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.0056,
+        "g:Classical": 0.0026,
+        "g:Ambient": 0.0146,
+        "g:Soundtrack": 0.0083,
+        "g:Folk": 0.0059,
+        "g:Latin": 0.0056,
+        "g:Reggae": 0.0016,
+        "g:World": 0.0228,
+        "vocal": 0.0951,
+        "nature": 0.0004,
+        "happy": 0.057,
+        "sad": 0.0245,
+        "tender": 0.0421,
+        "exciting": 0.0106,
+        "angry": 0.0,
+        "lullaby": 0.026
+      },
+      "nature": 0.0,
+      "model": true,
+      "features": {
+        "seconds": 184.372,
+        "db": -15.292,
+        "dynamics": 9.459,
+        "perc": 0.185,
+        "onsetRate": 4.437,
+        "pulse": 0.507,
+        "beatiness": 0.468,
+        "tempo": 109.986,
+        "beatOffset": 0.477,
+        "centroid": 2073.299,
+        "flatness": 0.017,
+        "energy": 0.696,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.83
+      },
+      "v": 5,
+      "size": 4431058,
+      "title": "Aramızda Koca Şehir",
+      "analysed": "2026-10-28 16:19"
+    },
+    "u_summer_and_rain_b90af9": {
+      "genre": "Pop",
+      "genreConfidence": 0.124,
+      "genreTop": [
+        [
+          "Pop",
+          0.124
+        ],
+        [
+          "Electronic",
+          0.063
+        ],
+        [
+          "Dance",
+          0.059
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.647,
+        "Energize": 0.558,
+        "Happy": 0.39,
+        "Late night": 0.293,
+        "Melancholy": 0.13
+      },
+      "bpm": 120,
+      "tempo": 120.13,
+      "beatOffset": 0.05,
+      "hasBeat": true,
+      "energy": 0.69,
+      "key": "C major",
+      "vocals": 0.061,
+      "signals": {
+        "g:Pop": 0.1244,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0069,
+        "g:R&B": 0.04,
+        "g:Electronic": 0.0627,
+        "g:Dance": 0.0589,
+        "g:Jazz": 0.0044,
+        "g:Blues": 0.0063,
+        "g:Classical": 0.0008,
+        "g:Ambient": 0.0042,
+        "g:Soundtrack": 0.0162,
+        "g:Folk": 0.0022,
+        "g:Latin": 0.0011,
+        "g:Reggae": 0.0021,
+        "g:World": 0.0413,
+        "vocal": 0.0606,
+        "nature": 0.0023,
+        "happy": 0.0166,
+        "sad": 0.0015,
+        "tender": 0.0064,
+        "exciting": 0.0207,
+        "angry": 0.0001,
+        "lullaby": 0.0023
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 172.173,
+        "db": -15.195,
+        "dynamics": 9.107,
+        "perc": 0.163,
+        "onsetRate": 4.681,
+        "pulse": 0.608,
+        "beatiness": 0.496,
+        "tempo": 120.135,
+        "beatOffset": 0.05,
+        "centroid": 2403.697,
+        "flatness": 0.038,
+        "energy": 0.69,
+        "major": 0.732,
+        "key": "C major",
+        "keyConf": 0.769
+      },
+      "v": 5,
+      "size": 4138280,
+      "title": "Summer And Rain",
+      "analysed": "2026-10-28 16:20"
     }
   }
 }
