@@ -1,7 +1,330 @@
 {
     "app":  "Aura",
-    "updated":  "2026-11-05T13:45:35.2546033Z",
+    "updated":  "2026-11-08T12:51:37.5200212Z",
     "tracks":  [
+                   {
+                       "id":  "u_song_bd1043",
+                       "title":  "Ни шагу назад",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFB14DFF",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  23005,
+                       "file":  "songs/u_song_bd1043.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3988442
+                   },
+                   {
+                       "id":  "u_geri_vites_yok_556690",
+                       "title":  "Geri Vites Yok",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  154,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFFFE14D",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  51460,
+                       "file":  "songs/u_geri_vites_yok_556690.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3701304
+                   },
+                   {
+                       "id":  "u_keine_bremse_36fa4b",
+                       "title":  "Keine Bremse",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  164,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  8061,
+                       "file":  "songs/u_keine_bremse_36fa4b.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3943302
+                   },
+                   {
+                       "id":  "u_son_soz_benim_d2102a",
+                       "title":  "Son Söz Benim",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  155,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFB14DFF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  58215,
+                       "file":  "songs/u_son_soz_benim_d2102a.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3724500
+                   },
+                   {
+                       "id":  "u_song_103d59",
+                       "title":  "東京の果て",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  168,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFF8A00",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  64979,
+                       "file":  "songs/u_song_103d59.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4044866
+                   },
+                   {
+                       "id":  "u_ozgurluge_dogru_c593df",
+                       "title":  "Özgürlüğe Doğru",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  56023,
+                       "file":  "songs/u_ozgurluge_dogru_c593df.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4311315
+                   },
+                   {
+                       "id":  "u_bana_dunya_dar_36f90c",
+                       "title":  "Bana Dünya Dar",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF3DF5FF",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  54303,
+                       "file":  "songs/u_bana_dunya_dar_36f90c.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4302538
+                   },
+                   {
+                       "id":  "u_kullerimden_dogdum_a7a3f3",
+                       "title":  "Küllerimden Doğdum",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFF00F0D8",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  48185,
+                       "file":  "songs/u_kullerimden_dogdum_a7a3f3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4337647
+                   },
+                   {
+                       "id":  "u_yansin_bu_sehir_5edfe4",
+                       "title":  "Yansın Bu Şehir",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  181,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFF00F0D8",
+                                       "0xFFFF7AD9"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  57323,
+                       "file":  "songs/u_yansin_bu_sehir_5edfe4.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4352693
+                   },
+                   {
+                       "id":  "u_midnight_at_the_summit_8569d4",
+                       "title":  "Midnight at the Summit",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  167,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E",
+                                       "0xFFFFE14D"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  16505,
+                       "file":  "songs/u_midnight_at_the_summit_8569d4.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4021669
+                   },
+                   {
+                       "id":  "u_buralar_benden_sorulur_ee0b36",
+                       "title":  "Buralar Benden Sorulur",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  170,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFFF8A00",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  21566,
+                       "file":  "songs/u_buralar_benden_sorulur_ee0b36.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4093140
+                   },
+                   {
+                       "id":  "u_los_isiklar_altinda_ca8e99",
+                       "title":  "Loş Işıklar Altında",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  163,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFF00F0D8",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  23083,
+                       "file":  "songs/u_los_isiklar_altinda_ca8e99.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3911328
+                   },
+                   {
+                       "id":  "u_sokaklar_dilsiz_7dca14",
+                       "title":  "Sokaklar Dilsiz",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  42368,
+                       "file":  "songs/u_sokaklar_dilsiz_7dca14.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4288745
+                   },
+                   {
+                       "id":  "u_bu_yalan_dunya_d5e685",
+                       "title":  "Bu Yalan Dünya",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  179,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFFFF2E88",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  20317,
+                       "file":  "songs/u_bu_yalan_dunya_d5e685.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4293134
+                   },
+                   {
+                       "id":  "u_gecenin_kollarinda_4ccaaf",
+                       "title":  "Gecenin Kollarında",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  172,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFB14DFF",
+                                       "0xFFFFE14D",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  44222,
+                       "file":  "songs/u_gecenin_kollarinda_4ccaaf.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4140788
+                   },
+                   {
+                       "id":  "u_gravity_off_d084aa",
+                       "title":  "Gravity Off",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF7AD9",
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  19179,
+                       "file":  "songs/u_gravity_off_d084aa.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4275580
+                   },
+                   {
+                       "id":  "u_touching_the_sky_ae6e35",
+                       "title":  "Touching The Sky",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  180,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3D6BFF",
+                                       "0xFFFF2E88",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  7682,
+                       "file":  "songs/u_touching_the_sky_ae6e35.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4329496
+                   },
                    {
                        "id":  "u_arc_of_blue_70cd94",
                        "title":  "Arc Of Blue",
