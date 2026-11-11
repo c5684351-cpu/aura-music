@@ -1,7 +1,197 @@
 {
     "app":  "Aura",
-    "updated":  "2026-11-08T12:51:37.5200212Z",
+    "updated":  "2026-11-11T06:25:27.0931384Z",
     "tracks":  [
+                   {
+                       "id":  "u_bu_gece_bitmesin_df052b",
+                       "title":  "Bu Gece Bitmesin",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  171,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF00F0D8",
+                                       "0xFFA8FF3E",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  60054,
+                       "file":  "songs/u_bu_gece_bitmesin_df052b.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4105051
+                   },
+                   {
+                       "id":  "u_heavy_is_the_head_4d3dcd",
+                       "title":  "Heavy Is the Head",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  164,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFFF8A00",
+                                       "0xFFA8FF3E"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  20727,
+                       "file":  "songs/u_heavy_is_the_head_4d3dcd.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3942674
+                   },
+                   {
+                       "id":  "u_gravel_and_gold_b3da96",
+                       "title":  "Gravel and Gold",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  162,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF3DF5FF",
+                                       "0xFFFF7AD9",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  30636,
+                       "file":  "songs/u_gravel_and_gold_b3da96.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3897535
+                   },
+                   {
+                       "id":  "u_song_e12302",
+                       "title":  "Закон ночи",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  174,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFFFFE14D",
+                                       "0xFF00F0D8"
+                                   ],
+                       "coverStyle":  1,
+                       "seed":  24078,
+                       "file":  "songs/u_song_e12302.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4187180
+                   },
+                   {
+                       "id":  "u_zirve_tek_hedefimiz_e7cf31",
+                       "title":  "Zirve Tek Hedefimiz",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  166,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF8A00",
+                                       "0xFF4FD8FF",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  15290,
+                       "file":  "songs/u_zirve_tek_hedefimiz_e7cf31.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4001944
+                   },
+                   {
+                       "id":  "u_ruhum_hala_sokaklarda_be4f57",
+                       "title":  "Ruhum Hâlâ Sokaklarda",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  163,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFF3DF5FF",
+                                       "0xFF4FD8FF"
+                                   ],
+                       "coverStyle":  3,
+                       "seed":  60042,
+                       "file":  "songs/u_ruhum_hala_sokaklarda_be4f57.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3908193
+                   },
+                   {
+                       "id":  "u_askin_bilmecesi_8edcd3",
+                       "title":  "Aşkın Bilmecesi",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  170,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFFE14D",
+                                       "0xFFFF2E88",
+                                       "0xFFFF8A00"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  60152,
+                       "file":  "songs/u_askin_bilmecesi_8edcd3.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4093139
+                   },
+                   {
+                       "id":  "u_smiling_through_the_glass_50502d",
+                       "title":  "Smiling Through The Glass",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  177,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFFF2E88",
+                                       "0xFFA8FF3E",
+                                       "0xFF3DF5FF"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  25507,
+                       "file":  "songs/u_smiling_through_the_glass_50502d.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4244232
+                   },
+                   {
+                       "id":  "u_beautiful_debris_119ef0",
+                       "title":  "Beautiful Debris",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  178,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFF4FD8FF",
+                                       "0xFFFF7AD9",
+                                       "0xFFFF2E88"
+                                   ],
+                       "coverStyle":  0,
+                       "seed":  51907,
+                       "file":  "songs/u_beautiful_debris_119ef0.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  4276833
+                   },
+                   {
+                       "id":  "u_make_our_own_light_afadcb",
+                       "title":  "Make Our Own Light",
+                       "artist":  "Aura",
+                       "genre":  "Music",
+                       "seconds":  164,
+                       "bpm":  110,
+                       "palette":  [
+                                       "0xFFA8FF3E",
+                                       "0xFF00F0D8",
+                                       "0xFF3D6BFF"
+                                   ],
+                       "coverStyle":  2,
+                       "seed":  27499,
+                       "file":  "songs/u_make_our_own_light_afadcb.mp3",
+                       "genreSource":  "default",
+                       "bpmSource":  "default",
+                       "size":  3947690
+                   },
                    {
                        "id":  "u_song_bd1043",
                        "title":  "Ни шагу назад",
