@@ -14696,6 +14696,2302 @@
       "size": 3866188,
       "title": "Silver Stream Avenue",
       "analysed": "2026-11-01 11:38"
+    },
+    "u_bu_gece_bitmesin_df052b": {
+      "genre": "Pop",
+      "genreConfidence": 0.102,
+      "genreTop": [
+        [
+          "Pop",
+          0.102
+        ],
+        [
+          "Dance",
+          0.066
+        ],
+        [
+          "Electronic",
+          0.048
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.596,
+        "Workout": 0.558,
+        "Party": 0.557,
+        "Late night": 0.421,
+        "Melancholy": 0.293
+      },
+      "bpm": 120,
+      "tempo": 120.1,
+      "beatOffset": 0.083,
+      "hasBeat": true,
+      "energy": 0.771,
+      "key": "C minor",
+      "vocals": 0.06,
+      "signals": {
+        "g:Pop": 0.1017,
+        "g:Rock": 0.0009,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0064,
+        "g:R&B": 0.0378,
+        "g:Electronic": 0.0482,
+        "g:Dance": 0.0658,
+        "g:Jazz": 0.0047,
+        "g:Blues": 0.0043,
+        "g:Classical": 0.0006,
+        "g:Ambient": 0.0013,
+        "g:Soundtrack": 0.0124,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0038,
+        "g:Reggae": 0.0097,
+        "g:World": 0.0458,
+        "vocal": 0.0598,
+        "nature": 0.0048,
+        "happy": 0.015,
+        "sad": 0.001,
+        "tender": 0.0031,
+        "exciting": 0.017,
+        "angry": 0.0,
+        "lullaby": 0.0009
+      },
+      "nature": 0.005,
+      "model": true,
+      "features": {
+        "seconds": 170.789,
+        "db": -15.185,
+        "dynamics": 9.756,
+        "perc": 0.21,
+        "onsetRate": 4.585,
+        "pulse": 0.629,
+        "beatiness": 0.629,
+        "tempo": 120.102,
+        "beatOffset": 0.083,
+        "centroid": 2902.571,
+        "flatness": 0.056,
+        "energy": 0.771,
+        "major": 0.145,
+        "key": "C minor",
+        "keyConf": 0.67
+      },
+      "v": 5,
+      "size": 4105051,
+      "title": "Bu Gece Bitmesin",
+      "analysed": "2026-11-11 06:30"
+    },
+    "u_heavy_is_the_head_4d3dcd": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.086,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.086
+        ],
+        [
+          "World",
+          0.075
+        ],
+        [
+          "Pop",
+          0.058
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.705,
+        "Energize": 0.698,
+        "Party": 0.564,
+        "Late night": 0.309,
+        "Happy": 0.301
+      },
+      "bpm": 140,
+      "tempo": 139.73,
+      "beatOffset": 0.165,
+      "hasBeat": true,
+      "energy": 0.797,
+      "key": "C minor",
+      "vocals": 0.053,
+      "signals": {
+        "g:Pop": 0.0577,
+        "g:Rock": 0.0031,
+        "g:Metal": 0.0013,
+        "g:Hip-Hop": 0.0857,
+        "g:R&B": 0.0482,
+        "g:Electronic": 0.0307,
+        "g:Dance": 0.0286,
+        "g:Jazz": 0.0068,
+        "g:Blues": 0.0078,
+        "g:Classical": 0.0012,
+        "g:Ambient": 0.003,
+        "g:Soundtrack": 0.0211,
+        "g:Folk": 0.0011,
+        "g:Latin": 0.0021,
+        "g:Reggae": 0.0253,
+        "g:World": 0.0747,
+        "vocal": 0.0531,
+        "nature": 0.0021,
+        "happy": 0.0057,
+        "sad": 0.0009,
+        "tender": 0.0039,
+        "exciting": 0.0357,
+        "angry": 0.0002,
+        "lullaby": 0.0004
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 164.023,
+        "db": -15.838,
+        "dynamics": 20.697,
+        "perc": 0.248,
+        "onsetRate": 4.103,
+        "pulse": 0.595,
+        "beatiness": 0.595,
+        "tempo": 139.733,
+        "beatOffset": 0.165,
+        "centroid": 2866.278,
+        "flatness": 0.041,
+        "energy": 0.797,
+        "major": 0.419,
+        "key": "C minor",
+        "keyConf": 0.732
+      },
+      "v": 5,
+      "size": 3942674,
+      "title": "Heavy Is the Head",
+      "analysed": "2026-11-11 06:31"
+    },
+    "u_gravel_and_gold_b3da96": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.079,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.079
+        ],
+        [
+          "Pop",
+          0.054
+        ],
+        [
+          "R&B",
+          0.054
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.67,
+        "Energize": 0.644,
+        "Party": 0.568,
+        "Happy": 0.372,
+        "Late night": 0.261
+      },
+      "bpm": 140,
+      "tempo": 139.55,
+      "beatOffset": 0.075,
+      "hasBeat": true,
+      "energy": 0.704,
+      "key": "C major",
+      "vocals": 0.055,
+      "signals": {
+        "g:Pop": 0.0539,
+        "g:Rock": 0.0045,
+        "g:Metal": 0.0014,
+        "g:Hip-Hop": 0.0788,
+        "g:R&B": 0.0536,
+        "g:Electronic": 0.0347,
+        "g:Dance": 0.026,
+        "g:Jazz": 0.0107,
+        "g:Blues": 0.007,
+        "g:Classical": 0.01,
+        "g:Ambient": 0.003,
+        "g:Soundtrack": 0.0168,
+        "g:Folk": 0.0011,
+        "g:Latin": 0.0007,
+        "g:Reggae": 0.0141,
+        "g:World": 0.0164,
+        "vocal": 0.0554,
+        "nature": 0.002,
+        "happy": 0.0047,
+        "sad": 0.002,
+        "tender": 0.0054,
+        "exciting": 0.0345,
+        "angry": 0.0007,
+        "lullaby": 0.0007
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 162.142,
+        "db": -15.267,
+        "dynamics": 11.308,
+        "perc": 0.192,
+        "onsetRate": 3.392,
+        "pulse": 0.63,
+        "beatiness": 0.606,
+        "tempo": 139.552,
+        "beatOffset": 0.075,
+        "centroid": 2730.263,
+        "flatness": 0.05,
+        "energy": 0.704,
+        "major": 0.688,
+        "key": "C major",
+        "keyConf": 0.82
+      },
+      "v": 5,
+      "size": 3897535,
+      "title": "Gravel and Gold",
+      "analysed": "2026-11-11 06:31"
+    },
+    "u_song_e12302": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.1,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.1
+        ],
+        [
+          "Dance",
+          0.039
+        ],
+        [
+          "Electronic",
+          0.038
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.664,
+        "Party": 0.542,
+        "Late night": 0.395,
+        "Happy": 0.251,
+        "Melancholy": 0.251
+      },
+      "bpm": 136,
+      "tempo": 136.04,
+      "beatOffset": 0.141,
+      "hasBeat": true,
+      "energy": 0.745,
+      "key": "C minor",
+      "vocals": 0.092,
+      "signals": {
+        "g:Pop": 0.0331,
+        "g:Rock": 0.0034,
+        "g:Metal": 0.0015,
+        "g:Hip-Hop": 0.0995,
+        "g:R&B": 0.0299,
+        "g:Electronic": 0.0385,
+        "g:Dance": 0.039,
+        "g:Jazz": 0.01,
+        "g:Blues": 0.0068,
+        "g:Classical": 0.0068,
+        "g:Ambient": 0.0047,
+        "g:Soundtrack": 0.0191,
+        "g:Folk": 0.0021,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0168,
+        "g:World": 0.019,
+        "vocal": 0.0921,
+        "nature": 0.0012,
+        "happy": 0.0059,
+        "sad": 0.0015,
+        "tender": 0.0054,
+        "exciting": 0.0326,
+        "angry": 0.0008,
+        "lullaby": 0.0008
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 174.211,
+        "db": -15.789,
+        "dynamics": 16.264,
+        "perc": 0.229,
+        "onsetRate": 3.576,
+        "pulse": 0.488,
+        "beatiness": 0.488,
+        "tempo": 136.036,
+        "beatOffset": 0.141,
+        "centroid": 2601.951,
+        "flatness": 0.033,
+        "energy": 0.745,
+        "major": 0.303,
+        "key": "C minor",
+        "keyConf": 0.816
+      },
+      "v": 5,
+      "size": 4187180,
+      "title": "Закон ночи",
+      "analysed": "2026-11-11 06:31"
+    },
+    "u_zirve_tek_hedefimiz_e7cf31": {
+      "genre": "Pop",
+      "genreConfidence": 0.075,
+      "genreTop": [
+        [
+          "Pop",
+          0.075
+        ],
+        [
+          "Hip-Hop",
+          0.074
+        ],
+        [
+          "World",
+          0.05
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.428,
+        "Late night": 0.383,
+        "Happy": 0.267,
+        "Melancholy": 0.253,
+        "Romantic": 0.129
+      },
+      "bpm": 96,
+      "tempo": 95.63,
+      "beatOffset": 0.003,
+      "hasBeat": true,
+      "energy": 0.712,
+      "key": "C minor",
+      "vocals": 0.072,
+      "signals": {
+        "g:Pop": 0.0746,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0008,
+        "g:Hip-Hop": 0.0737,
+        "g:R&B": 0.035,
+        "g:Electronic": 0.0392,
+        "g:Dance": 0.0327,
+        "g:Jazz": 0.0068,
+        "g:Blues": 0.0062,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.0039,
+        "g:Soundtrack": 0.016,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0025,
+        "g:Reggae": 0.0114,
+        "g:World": 0.0501,
+        "vocal": 0.0724,
+        "nature": 0.0059,
+        "happy": 0.0056,
+        "sad": 0.002,
+        "tender": 0.0052,
+        "exciting": 0.0198,
+        "angry": 0.0004,
+        "lullaby": 0.0008
+      },
+      "nature": 0.006,
+      "model": true,
+      "features": {
+        "seconds": 166.426,
+        "db": -15.289,
+        "dynamics": 10.977,
+        "perc": 0.194,
+        "onsetRate": 3.503,
+        "pulse": 0.522,
+        "beatiness": 0.507,
+        "tempo": 95.626,
+        "beatOffset": 0.003,
+        "centroid": 2812.318,
+        "flatness": 0.046,
+        "energy": 0.712,
+        "major": 0.316,
+        "key": "C minor",
+        "keyConf": 0.758
+      },
+      "v": 5,
+      "size": 4001944,
+      "title": "Zirve Tek Hedefimiz",
+      "analysed": "2026-11-11 06:32"
+    },
+    "u_ruhum_hala_sokaklarda_be4f57": {
+      "genre": "Electronic",
+      "genreConfidence": 0.043,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.043
+        ],
+        [
+          "Electronic",
+          0.043
+        ],
+        [
+          "R&B",
+          0.042
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.61,
+        "Party": 0.43,
+        "Late night": 0.372,
+        "Happy": 0.289,
+        "Melancholy": 0.209
+      },
+      "bpm": 140,
+      "tempo": 139.58,
+      "beatOffset": 0.051,
+      "hasBeat": true,
+      "energy": 0.692,
+      "key": "C minor",
+      "vocals": 0.055,
+      "signals": {
+        "g:Pop": 0.0319,
+        "g:Rock": 0.0174,
+        "g:Metal": 0.007,
+        "g:Hip-Hop": 0.0429,
+        "g:R&B": 0.0418,
+        "g:Electronic": 0.0429,
+        "g:Dance": 0.0338,
+        "g:Jazz": 0.0052,
+        "g:Blues": 0.0128,
+        "g:Classical": 0.0014,
+        "g:Ambient": 0.0087,
+        "g:Soundtrack": 0.0146,
+        "g:Folk": 0.0034,
+        "g:Latin": 0.0009,
+        "g:Reggae": 0.0058,
+        "g:World": 0.0149,
+        "vocal": 0.0552,
+        "nature": 0.0011,
+        "happy": 0.0047,
+        "sad": 0.0022,
+        "tender": 0.0056,
+        "exciting": 0.0176,
+        "angry": 0.0008,
+        "lullaby": 0.0006
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 162.586,
+        "db": -15.322,
+        "dynamics": 10.963,
+        "perc": 0.173,
+        "onsetRate": 4.367,
+        "pulse": 0.545,
+        "beatiness": 0.471,
+        "tempo": 139.578,
+        "beatOffset": 0.051,
+        "centroid": 2405.305,
+        "flatness": 0.027,
+        "energy": 0.692,
+        "major": 0.473,
+        "key": "C minor",
+        "keyConf": 0.792
+      },
+      "v": 5,
+      "size": 3908193,
+      "title": "Ruhum Hâlâ Sokaklarda",
+      "analysed": "2026-11-11 06:32"
+    },
+    "u_askin_bilmecesi_8edcd3": {
+      "genre": "Pop",
+      "genreConfidence": 0.117,
+      "genreTop": [
+        [
+          "Pop",
+          0.117
+        ],
+        [
+          "Dance",
+          0.082
+        ],
+        [
+          "World",
+          0.054
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.576,
+        "Party": 0.536,
+        "Workout": 0.509,
+        "Late night": 0.507,
+        "Melancholy": 0.345
+      },
+      "bpm": 120,
+      "tempo": 120.14,
+      "beatOffset": 0.155,
+      "hasBeat": true,
+      "energy": 0.719,
+      "key": "F minor",
+      "vocals": 0.092,
+      "signals": {
+        "g:Pop": 0.1166,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0041,
+        "g:R&B": 0.0267,
+        "g:Electronic": 0.0432,
+        "g:Dance": 0.082,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.0064,
+        "g:Classical": 0.0014,
+        "g:Ambient": 0.0027,
+        "g:Soundtrack": 0.0144,
+        "g:Folk": 0.0027,
+        "g:Latin": 0.0035,
+        "g:Reggae": 0.0039,
+        "g:World": 0.0539,
+        "vocal": 0.0915,
+        "nature": 0.0015,
+        "happy": 0.0152,
+        "sad": 0.0015,
+        "tender": 0.0056,
+        "exciting": 0.0222,
+        "angry": 0.0,
+        "lullaby": 0.003
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 170.292,
+        "db": -15.327,
+        "dynamics": 11.969,
+        "perc": 0.193,
+        "onsetRate": 3.993,
+        "pulse": 0.555,
+        "beatiness": 0.536,
+        "tempo": 120.14,
+        "beatOffset": 0.155,
+        "centroid": 2665.237,
+        "flatness": 0.045,
+        "energy": 0.719,
+        "major": 0.0,
+        "key": "F minor",
+        "keyConf": 0.817
+      },
+      "v": 5,
+      "size": 4093139,
+      "title": "Aşkın Bilmecesi",
+      "analysed": "2026-11-11 06:32"
+    },
+    "u_smiling_through_the_glass_50502d": {
+      "genre": "Dance",
+      "genreConfidence": 0.065,
+      "genreTop": [
+        [
+          "Dance",
+          0.065
+        ],
+        [
+          "Electronic",
+          0.06
+        ],
+        [
+          "R&B",
+          0.059
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.55,
+        "Energize": 0.512,
+        "Party": 0.429,
+        "Melancholy": 0.333,
+        "Happy": 0.177
+      },
+      "bpm": 120,
+      "tempo": 120.0,
+      "beatOffset": 0.051,
+      "hasBeat": true,
+      "energy": 0.63,
+      "key": "C minor",
+      "vocals": 0.039,
+      "signals": {
+        "g:Pop": 0.0575,
+        "g:Rock": 0.0025,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0065,
+        "g:R&B": 0.0588,
+        "g:Electronic": 0.06,
+        "g:Dance": 0.0648,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.0055,
+        "g:Classical": 0.0016,
+        "g:Ambient": 0.0241,
+        "g:Soundtrack": 0.0153,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0003,
+        "g:Reggae": 0.0014,
+        "g:World": 0.0133,
+        "vocal": 0.0387,
+        "nature": 0.0037,
+        "happy": 0.0101,
+        "sad": 0.0045,
+        "tender": 0.0152,
+        "exciting": 0.0139,
+        "angry": 0.0003,
+        "lullaby": 0.0047
+      },
+      "nature": 0.004,
+      "model": true,
+      "features": {
+        "seconds": 176.588,
+        "db": -15.445,
+        "dynamics": 10.334,
+        "perc": 0.16,
+        "onsetRate": 3.234,
+        "pulse": 0.511,
+        "beatiness": 0.41,
+        "tempo": 119.995,
+        "beatOffset": 0.051,
+        "centroid": 2177.718,
+        "flatness": 0.022,
+        "energy": 0.63,
+        "major": 0.108,
+        "key": "C minor",
+        "keyConf": 0.798
+      },
+      "v": 5,
+      "size": 4244232,
+      "title": "Smiling Through The Glass",
+      "analysed": "2026-11-11 06:33"
+    },
+    "u_beautiful_debris_119ef0": {
+      "genre": "Pop",
+      "genreConfidence": 0.112,
+      "genreTop": [
+        [
+          "Pop",
+          0.112
+        ],
+        [
+          "R&B",
+          0.067
+        ],
+        [
+          "Dance",
+          0.041
+        ]
+      ],
+      "moods": [
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.673,
+        "Energize": 0.567,
+        "Workout": 0.505,
+        "Happy": 0.487,
+        "Late night": 0.168
+      },
+      "bpm": 120,
+      "tempo": 120.11,
+      "beatOffset": 0.216,
+      "hasBeat": true,
+      "energy": 0.703,
+      "key": "G# major",
+      "vocals": 0.058,
+      "signals": {
+        "g:Pop": 0.1119,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0057,
+        "g:R&B": 0.0675,
+        "g:Electronic": 0.0242,
+        "g:Dance": 0.0412,
+        "g:Jazz": 0.0058,
+        "g:Blues": 0.0065,
+        "g:Classical": 0.0012,
+        "g:Ambient": 0.0031,
+        "g:Soundtrack": 0.0152,
+        "g:Folk": 0.0021,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0046,
+        "g:World": 0.031,
+        "vocal": 0.058,
+        "nature": 0.0032,
+        "happy": 0.023,
+        "sad": 0.0019,
+        "tender": 0.0049,
+        "exciting": 0.0223,
+        "angry": 0.0001,
+        "lullaby": 0.0012
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 177.946,
+        "db": -15.255,
+        "dynamics": 10.568,
+        "perc": 0.173,
+        "onsetRate": 4.597,
+        "pulse": 0.627,
+        "beatiness": 0.543,
+        "tempo": 120.107,
+        "beatOffset": 0.216,
+        "centroid": 2470.649,
+        "flatness": 0.034,
+        "energy": 0.703,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.921
+      },
+      "v": 5,
+      "size": 4276833,
+      "title": "Beautiful Debris",
+      "analysed": "2026-11-11 06:33"
+    },
+    "u_make_our_own_light_afadcb": {
+      "genre": "R&B",
+      "genreConfidence": 0.065,
+      "genreTop": [
+        [
+          "R&B",
+          0.065
+        ],
+        [
+          "Pop",
+          0.058
+        ],
+        [
+          "Electronic",
+          0.054
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party",
+        "Happy"
+      ],
+      "moodScores": {
+        "Party": 0.537,
+        "Energize": 0.527,
+        "Happy": 0.474,
+        "Workout": 0.472,
+        "Late night": 0.199
+      },
+      "bpm": 120,
+      "tempo": 120.04,
+      "beatOffset": 0.089,
+      "hasBeat": true,
+      "energy": 0.647,
+      "key": "G# major",
+      "vocals": 0.042,
+      "signals": {
+        "g:Pop": 0.0579,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0086,
+        "g:R&B": 0.0648,
+        "g:Electronic": 0.0538,
+        "g:Dance": 0.0384,
+        "g:Jazz": 0.0052,
+        "g:Blues": 0.0054,
+        "g:Classical": 0.0018,
+        "g:Ambient": 0.0037,
+        "g:Soundtrack": 0.0172,
+        "g:Folk": 0.0022,
+        "g:Latin": 0.0017,
+        "g:Reggae": 0.0034,
+        "g:World": 0.013,
+        "vocal": 0.042,
+        "nature": 0.0031,
+        "happy": 0.0148,
+        "sad": 0.0017,
+        "tender": 0.0084,
+        "exciting": 0.0167,
+        "angry": 0.0002,
+        "lullaby": 0.0024
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 164.232,
+        "db": -15.174,
+        "dynamics": 7.133,
+        "perc": 0.158,
+        "onsetRate": 3.276,
+        "pulse": 0.644,
+        "beatiness": 0.51,
+        "tempo": 120.036,
+        "beatOffset": 0.089,
+        "centroid": 2521.452,
+        "flatness": 0.029,
+        "energy": 0.647,
+        "major": 1.0,
+        "key": "G# major",
+        "keyConf": 0.925
+      },
+      "v": 5,
+      "size": 3947690,
+      "title": "Make Our Own Light",
+      "analysed": "2026-11-11 06:33"
+    },
+    "u_song_bd1043": {
+      "genre": "Electronic",
+      "genreConfidence": 0.052,
+      "genreTop": [
+        [
+          "Electronic",
+          0.052
+        ],
+        [
+          "Hip-Hop",
+          0.048
+        ],
+        [
+          "Dance",
+          0.046
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Late night"
+      ],
+      "moodScores": {
+        "Energize": 0.615,
+        "Workout": 0.612,
+        "Late night": 0.57,
+        "Party": 0.381,
+        "Melancholy": 0.364
+      },
+      "bpm": 140,
+      "tempo": 139.69,
+      "beatOffset": 0.042,
+      "hasBeat": true,
+      "energy": 0.636,
+      "key": "D# minor",
+      "vocals": 0.045,
+      "signals": {
+        "g:Pop": 0.0458,
+        "g:Rock": 0.0041,
+        "g:Metal": 0.0015,
+        "g:Hip-Hop": 0.0478,
+        "g:R&B": 0.0221,
+        "g:Electronic": 0.052,
+        "g:Dance": 0.0458,
+        "g:Jazz": 0.0101,
+        "g:Blues": 0.0066,
+        "g:Classical": 0.0052,
+        "g:Ambient": 0.0172,
+        "g:Soundtrack": 0.0236,
+        "g:Folk": 0.0013,
+        "g:Latin": 0.0009,
+        "g:Reggae": 0.0081,
+        "g:World": 0.0106,
+        "vocal": 0.0449,
+        "nature": 0.0022,
+        "happy": 0.0038,
+        "sad": 0.0043,
+        "tender": 0.0081,
+        "exciting": 0.039,
+        "angry": 0.0009,
+        "lullaby": 0.0019
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 165.93,
+        "db": -15.466,
+        "dynamics": 12.357,
+        "perc": 0.154,
+        "onsetRate": 3.52,
+        "pulse": 0.649,
+        "beatiness": 0.5,
+        "tempo": 139.694,
+        "beatOffset": 0.042,
+        "centroid": 2304.324,
+        "flatness": 0.038,
+        "energy": 0.636,
+        "major": 0.0,
+        "key": "D# minor",
+        "keyConf": 0.949
+      },
+      "v": 5,
+      "size": 3988442,
+      "title": "Ни шагу назад",
+      "analysed": "2026-11-11 06:33"
+    },
+    "u_geri_vites_yok_556690": {
+      "genre": "World",
+      "genreConfidence": 0.083,
+      "genreTop": [
+        [
+          "World",
+          0.083
+        ],
+        [
+          "Dance",
+          0.079
+        ],
+        [
+          "Pop",
+          0.061
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.502,
+        "Late night": 0.324,
+        "Happy": 0.301,
+        "Melancholy": 0.198,
+        "Focus": 0.142
+      },
+      "bpm": 91,
+      "tempo": 90.7,
+      "beatOffset": 0.088,
+      "hasBeat": true,
+      "energy": 0.817,
+      "key": "C minor",
+      "vocals": 0.045,
+      "signals": {
+        "g:Pop": 0.0609,
+        "g:Rock": 0.0032,
+        "g:Metal": 0.0016,
+        "g:Hip-Hop": 0.0585,
+        "g:R&B": 0.0303,
+        "g:Electronic": 0.06,
+        "g:Dance": 0.0785,
+        "g:Jazz": 0.0091,
+        "g:Blues": 0.0084,
+        "g:Classical": 0.0026,
+        "g:Ambient": 0.0023,
+        "g:Soundtrack": 0.0212,
+        "g:Folk": 0.0014,
+        "g:Latin": 0.0039,
+        "g:Reggae": 0.0427,
+        "g:World": 0.0828,
+        "vocal": 0.0455,
+        "nature": 0.0015,
+        "happy": 0.0069,
+        "sad": 0.0008,
+        "tender": 0.0036,
+        "exciting": 0.0319,
+        "angry": 0.0008,
+        "lullaby": 0.0003
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 153.966,
+        "db": -15.386,
+        "dynamics": 12.966,
+        "perc": 0.25,
+        "onsetRate": 4.663,
+        "pulse": 0.652,
+        "beatiness": 0.652,
+        "tempo": 90.696,
+        "beatOffset": 0.088,
+        "centroid": 2738.799,
+        "flatness": 0.036,
+        "energy": 0.817,
+        "major": 0.437,
+        "key": "C minor",
+        "keyConf": 0.75
+      },
+      "v": 5,
+      "size": 3701304,
+      "title": "Geri Vites Yok",
+      "analysed": "2026-11-11 06:34"
+    },
+    "u_keine_bremse_36fa4b": {
+      "genre": "R&B",
+      "genreConfidence": 0.062,
+      "genreTop": [
+        [
+          "R&B",
+          0.062
+        ],
+        [
+          "Pop",
+          0.044
+        ],
+        [
+          "Electronic",
+          0.036
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.596,
+        "Party": 0.465,
+        "Happy": 0.409,
+        "Late night": 0.258,
+        "Chill": 0.146
+      },
+      "bpm": 140,
+      "tempo": 139.56,
+      "beatOffset": 0.025,
+      "hasBeat": true,
+      "energy": 0.642,
+      "key": "C major",
+      "vocals": 0.035,
+      "signals": {
+        "g:Pop": 0.0435,
+        "g:Rock": 0.0049,
+        "g:Metal": 0.0012,
+        "g:Hip-Hop": 0.0294,
+        "g:R&B": 0.0624,
+        "g:Electronic": 0.0364,
+        "g:Dance": 0.0364,
+        "g:Jazz": 0.0073,
+        "g:Blues": 0.0099,
+        "g:Classical": 0.006,
+        "g:Ambient": 0.0034,
+        "g:Soundtrack": 0.019,
+        "g:Folk": 0.0034,
+        "g:Latin": 0.0006,
+        "g:Reggae": 0.0061,
+        "g:World": 0.0149,
+        "vocal": 0.0346,
+        "nature": 0.0019,
+        "happy": 0.0101,
+        "sad": 0.0035,
+        "tender": 0.0101,
+        "exciting": 0.0261,
+        "angry": 0.0003,
+        "lullaby": 0.0017
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 164.049,
+        "db": -15.364,
+        "dynamics": 13.067,
+        "perc": 0.144,
+        "onsetRate": 3.968,
+        "pulse": 0.571,
+        "beatiness": 0.413,
+        "tempo": 139.559,
+        "beatOffset": 0.025,
+        "centroid": 2407.096,
+        "flatness": 0.022,
+        "energy": 0.642,
+        "major": 0.836,
+        "key": "C major",
+        "keyConf": 0.805
+      },
+      "v": 5,
+      "size": 3943302,
+      "title": "Keine Bremse",
+      "analysed": "2026-11-11 06:34"
+    },
+    "u_son_soz_benim_d2102a": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.098,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.098
+        ],
+        [
+          "Electronic",
+          0.055
+        ],
+        [
+          "World",
+          0.05
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Workout": 0.678,
+        "Energize": 0.663,
+        "Party": 0.569,
+        "Late night": 0.374,
+        "Happy": 0.274
+      },
+      "bpm": 140,
+      "tempo": 139.55,
+      "beatOffset": 0.022,
+      "hasBeat": true,
+      "energy": 0.762,
+      "key": "C minor",
+      "vocals": 0.12,
+      "signals": {
+        "g:Pop": 0.0366,
+        "g:Rock": 0.0027,
+        "g:Metal": 0.0013,
+        "g:Hip-Hop": 0.0983,
+        "g:R&B": 0.0288,
+        "g:Electronic": 0.0545,
+        "g:Dance": 0.0402,
+        "g:Jazz": 0.009,
+        "g:Blues": 0.0095,
+        "g:Classical": 0.0046,
+        "g:Ambient": 0.0074,
+        "g:Soundtrack": 0.0235,
+        "g:Folk": 0.0017,
+        "g:Latin": 0.0038,
+        "g:Reggae": 0.0186,
+        "g:World": 0.0497,
+        "vocal": 0.1196,
+        "nature": 0.0028,
+        "happy": 0.0065,
+        "sad": 0.002,
+        "tender": 0.0069,
+        "exciting": 0.0262,
+        "angry": 0.0005,
+        "lullaby": 0.0008
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 154.932,
+        "db": -15.627,
+        "dynamics": 16.54,
+        "perc": 0.218,
+        "onsetRate": 4.608,
+        "pulse": 0.556,
+        "beatiness": 0.556,
+        "tempo": 139.552,
+        "beatOffset": 0.022,
+        "centroid": 2553.314,
+        "flatness": 0.03,
+        "energy": 0.762,
+        "major": 0.383,
+        "key": "C minor",
+        "keyConf": 0.795
+      },
+      "v": 5,
+      "size": 3724500,
+      "title": "Son Söz Benim",
+      "analysed": "2026-11-11 06:34"
+    },
+    "u_song_103d59": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.075,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.075
+        ],
+        [
+          "Dance",
+          0.068
+        ],
+        [
+          "Electronic",
+          0.063
+        ]
+      ],
+      "moods": [
+        "Late night"
+      ],
+      "moodScores": {
+        "Late night": 0.514,
+        "Energize": 0.398,
+        "Melancholy": 0.332,
+        "Happy": 0.179,
+        "Chill": 0.164
+      },
+      "bpm": 94,
+      "tempo": 94.0,
+      "beatOffset": 0.149,
+      "hasBeat": true,
+      "energy": 0.664,
+      "key": "C minor",
+      "vocals": 0.076,
+      "signals": {
+        "g:Pop": 0.0215,
+        "g:Rock": 0.0033,
+        "g:Metal": 0.0015,
+        "g:Hip-Hop": 0.0746,
+        "g:R&B": 0.0169,
+        "g:Electronic": 0.0631,
+        "g:Dance": 0.0683,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.005,
+        "g:Classical": 0.0015,
+        "g:Ambient": 0.0058,
+        "g:Soundtrack": 0.0192,
+        "g:Folk": 0.0015,
+        "g:Latin": 0.0012,
+        "g:Reggae": 0.0123,
+        "g:World": 0.0087,
+        "vocal": 0.0761,
+        "nature": 0.0041,
+        "happy": 0.0035,
+        "sad": 0.0013,
+        "tender": 0.0046,
+        "exciting": 0.0198,
+        "angry": 0.0008,
+        "lullaby": 0.0006
+      },
+      "nature": 0.004,
+      "model": true,
+      "features": {
+        "seconds": 168.281,
+        "db": -15.631,
+        "dynamics": 16.444,
+        "perc": 0.166,
+        "onsetRate": 3.536,
+        "pulse": 0.407,
+        "beatiness": 0.337,
+        "tempo": 93.999,
+        "beatOffset": 0.149,
+        "centroid": 2642.246,
+        "flatness": 0.039,
+        "energy": 0.664,
+        "major": 0.07,
+        "key": "C minor",
+        "keyConf": 0.809
+      },
+      "v": 5,
+      "size": 4044866,
+      "title": "東京の果て",
+      "analysed": "2026-11-11 06:35"
+    },
+    "u_ozgurluge_dogru_c593df": {
+      "genre": "Pop",
+      "genreConfidence": 0.073,
+      "genreTop": [
+        [
+          "Pop",
+          0.073
+        ],
+        [
+          "World",
+          0.071
+        ],
+        [
+          "Dance",
+          0.057
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout"
+      ],
+      "moodScores": {
+        "Energize": 0.614,
+        "Workout": 0.567,
+        "Party": 0.494,
+        "Late night": 0.437,
+        "Melancholy": 0.284
+      },
+      "bpm": 123,
+      "tempo": 123.01,
+      "beatOffset": 0.336,
+      "hasBeat": true,
+      "energy": 0.755,
+      "key": "F minor",
+      "vocals": 0.06,
+      "signals": {
+        "g:Pop": 0.0734,
+        "g:Rock": 0.0016,
+        "g:Metal": 0.0005,
+        "g:Hip-Hop": 0.0098,
+        "g:R&B": 0.04,
+        "g:Electronic": 0.0462,
+        "g:Dance": 0.0567,
+        "g:Jazz": 0.0056,
+        "g:Blues": 0.0077,
+        "g:Classical": 0.001,
+        "g:Ambient": 0.0071,
+        "g:Soundtrack": 0.0134,
+        "g:Folk": 0.0026,
+        "g:Latin": 0.0047,
+        "g:Reggae": 0.0295,
+        "g:World": 0.0707,
+        "vocal": 0.0602,
+        "nature": 0.0013,
+        "happy": 0.0133,
+        "sad": 0.0011,
+        "tender": 0.0043,
+        "exciting": 0.0233,
+        "angry": 0.0001,
+        "lullaby": 0.001
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 179.383,
+        "db": -15.591,
+        "dynamics": 16.534,
+        "perc": 0.208,
+        "onsetRate": 4.699,
+        "pulse": 0.608,
+        "beatiness": 0.608,
+        "tempo": 123.005,
+        "beatOffset": 0.336,
+        "centroid": 2614.894,
+        "flatness": 0.036,
+        "energy": 0.755,
+        "major": 0.183,
+        "key": "F minor",
+        "keyConf": 0.764
+      },
+      "v": 5,
+      "size": 4311315,
+      "title": "Özgürlüğe Doğru",
+      "analysed": "2026-11-11 06:35"
+    },
+    "u_bana_dunya_dar_36f90c": {
+      "genre": "Pop",
+      "genreConfidence": 0.131,
+      "genreTop": [
+        [
+          "Pop",
+          0.131
+        ],
+        [
+          "Dance",
+          0.106
+        ],
+        [
+          "Electronic",
+          0.057
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.609,
+        "Party": 0.574,
+        "Workout": 0.533,
+        "Late night": 0.494,
+        "Melancholy": 0.335
+      },
+      "bpm": 123,
+      "tempo": 123.03,
+      "beatOffset": 0.066,
+      "hasBeat": true,
+      "energy": 0.733,
+      "key": "G minor",
+      "vocals": 0.049,
+      "signals": {
+        "g:Pop": 0.1309,
+        "g:Rock": 0.0011,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.0085,
+        "g:R&B": 0.0373,
+        "g:Electronic": 0.0569,
+        "g:Dance": 0.1063,
+        "g:Jazz": 0.0053,
+        "g:Blues": 0.0066,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0019,
+        "g:Soundtrack": 0.0153,
+        "g:Folk": 0.001,
+        "g:Latin": 0.0017,
+        "g:Reggae": 0.0044,
+        "g:World": 0.0308,
+        "vocal": 0.0492,
+        "nature": 0.0033,
+        "happy": 0.0104,
+        "sad": 0.0006,
+        "tender": 0.0029,
+        "exciting": 0.0271,
+        "angry": 0.0001,
+        "lullaby": 0.0007
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 179.017,
+        "db": -15.299,
+        "dynamics": 12.719,
+        "perc": 0.178,
+        "onsetRate": 5.1,
+        "pulse": 0.587,
+        "beatiness": 0.523,
+        "tempo": 123.029,
+        "beatOffset": 0.066,
+        "centroid": 2760.0,
+        "flatness": 0.034,
+        "energy": 0.733,
+        "major": 0.021,
+        "key": "G minor",
+        "keyConf": 0.641
+      },
+      "v": 5,
+      "size": 4302538,
+      "title": "Bana Dünya Dar",
+      "analysed": "2026-11-11 06:35"
+    },
+    "u_kullerimden_dogdum_a7a3f3": {
+      "genre": "World",
+      "genreConfidence": 0.134,
+      "genreTop": [
+        [
+          "World",
+          0.134
+        ],
+        [
+          "Dance",
+          0.108
+        ],
+        [
+          "Electronic",
+          0.051
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.707,
+        "Energize": 0.634,
+        "Workout": 0.613,
+        "Happy": 0.341,
+        "Late night": 0.28
+      },
+      "bpm": 123,
+      "tempo": 123.01,
+      "beatOffset": 0.084,
+      "hasBeat": true,
+      "energy": 0.796,
+      "key": "D# major",
+      "vocals": 0.039,
+      "signals": {
+        "g:Pop": 0.0506,
+        "g:Rock": 0.001,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0075,
+        "g:R&B": 0.0264,
+        "g:Electronic": 0.051,
+        "g:Dance": 0.1078,
+        "g:Jazz": 0.0054,
+        "g:Blues": 0.0065,
+        "g:Classical": 0.0019,
+        "g:Ambient": 0.002,
+        "g:Soundtrack": 0.0157,
+        "g:Folk": 0.0016,
+        "g:Latin": 0.0049,
+        "g:Reggae": 0.0111,
+        "g:World": 0.1339,
+        "vocal": 0.039,
+        "nature": 0.0025,
+        "happy": 0.0084,
+        "sad": 0.0005,
+        "tender": 0.0031,
+        "exciting": 0.0218,
+        "angry": 0.0,
+        "lullaby": 0.0004
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 180.48,
+        "db": -15.172,
+        "dynamics": 9.29,
+        "perc": 0.218,
+        "onsetRate": 5.369,
+        "pulse": 0.708,
+        "beatiness": 0.708,
+        "tempo": 123.013,
+        "beatOffset": 0.084,
+        "centroid": 2918.323,
+        "flatness": 0.044,
+        "energy": 0.796,
+        "major": 0.525,
+        "key": "D# major",
+        "keyConf": 0.558
+      },
+      "v": 5,
+      "size": 4337647,
+      "title": "Küllerimden Doğdum",
+      "analysed": "2026-11-11 06:36"
+    },
+    "u_yansin_bu_sehir_5edfe4": {
+      "genre": "World",
+      "genreConfidence": 0.084,
+      "genreTop": [
+        [
+          "World",
+          0.084
+        ],
+        [
+          "Pop",
+          0.071
+        ],
+        [
+          "Dance",
+          0.071
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.615,
+        "Workout": 0.608,
+        "Party": 0.582,
+        "Late night": 0.351,
+        "Happy": 0.293
+      },
+      "bpm": 123,
+      "tempo": 123.03,
+      "beatOffset": 0.013,
+      "hasBeat": true,
+      "energy": 0.77,
+      "key": "G minor",
+      "vocals": 0.04,
+      "signals": {
+        "g:Pop": 0.0714,
+        "g:Rock": 0.0012,
+        "g:Metal": 0.0004,
+        "g:Hip-Hop": 0.008,
+        "g:R&B": 0.0241,
+        "g:Electronic": 0.0561,
+        "g:Dance": 0.0713,
+        "g:Jazz": 0.0043,
+        "g:Blues": 0.006,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0044,
+        "g:Soundtrack": 0.0138,
+        "g:Folk": 0.0022,
+        "g:Latin": 0.0048,
+        "g:Reggae": 0.0081,
+        "g:World": 0.0838,
+        "vocal": 0.0404,
+        "nature": 0.0027,
+        "happy": 0.0099,
+        "sad": 0.0011,
+        "tender": 0.0042,
+        "exciting": 0.0189,
+        "angry": 0.0001,
+        "lullaby": 0.001
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 181.107,
+        "db": -15.337,
+        "dynamics": 13.318,
+        "perc": 0.213,
+        "onsetRate": 4.544,
+        "pulse": 0.723,
+        "beatiness": 0.723,
+        "tempo": 123.027,
+        "beatOffset": 0.013,
+        "centroid": 2873.404,
+        "flatness": 0.052,
+        "energy": 0.77,
+        "major": 0.365,
+        "key": "G minor",
+        "keyConf": 0.751
+      },
+      "v": 5,
+      "size": 4352693,
+      "title": "Yansın Bu Şehir",
+      "analysed": "2026-11-11 06:36"
+    },
+    "u_midnight_at_the_summit_8569d4": {
+      "genre": "Hip-Hop",
+      "genreConfidence": 0.111,
+      "genreTop": [
+        [
+          "Hip-Hop",
+          0.111
+        ],
+        [
+          "Electronic",
+          0.041
+        ],
+        [
+          "Pop",
+          0.04
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Workout": 0.695,
+        "Energize": 0.682,
+        "Party": 0.643,
+        "Happy": 0.349,
+        "Late night": 0.272
+      },
+      "bpm": 139,
+      "tempo": 139.45,
+      "beatOffset": 0.401,
+      "hasBeat": true,
+      "energy": 0.765,
+      "key": "C major",
+      "vocals": 0.142,
+      "signals": {
+        "g:Pop": 0.0402,
+        "g:Rock": 0.0042,
+        "g:Metal": 0.0016,
+        "g:Hip-Hop": 0.111,
+        "g:R&B": 0.0186,
+        "g:Electronic": 0.0409,
+        "g:Dance": 0.0234,
+        "g:Jazz": 0.0114,
+        "g:Blues": 0.0066,
+        "g:Classical": 0.0057,
+        "g:Ambient": 0.0033,
+        "g:Soundtrack": 0.0189,
+        "g:Folk": 0.0024,
+        "g:Latin": 0.0022,
+        "g:Reggae": 0.0183,
+        "g:World": 0.0174,
+        "vocal": 0.1425,
+        "nature": 0.0011,
+        "happy": 0.0053,
+        "sad": 0.0012,
+        "tender": 0.0045,
+        "exciting": 0.0365,
+        "angry": 0.0008,
+        "lullaby": 0.0004
+      },
+      "nature": 0.001,
+      "model": true,
+      "features": {
+        "seconds": 167.314,
+        "db": -15.521,
+        "dynamics": 14.838,
+        "perc": 0.223,
+        "onsetRate": 4.261,
+        "pulse": 0.611,
+        "beatiness": 0.611,
+        "tempo": 139.453,
+        "beatOffset": 0.401,
+        "centroid": 2677.828,
+        "flatness": 0.051,
+        "energy": 0.765,
+        "major": 0.619,
+        "key": "C major",
+        "keyConf": 0.802
+      },
+      "v": 5,
+      "size": 4021669,
+      "title": "Midnight at the Summit",
+      "analysed": "2026-11-11 06:36"
+    },
+    "u_buralar_benden_sorulur_ee0b36": {
+      "genre": "World",
+      "genreConfidence": 0.16,
+      "genreTop": [
+        [
+          "World",
+          0.16
+        ],
+        [
+          "Pop",
+          0.11
+        ],
+        [
+          "Dance",
+          0.041
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.596,
+        "Energize": 0.531,
+        "Late night": 0.379,
+        "Melancholy": 0.281,
+        "Happy": 0.246
+      },
+      "bpm": 101,
+      "tempo": 101.47,
+      "beatOffset": 0.182,
+      "hasBeat": true,
+      "energy": 0.822,
+      "key": "C# minor",
+      "vocals": 0.054,
+      "signals": {
+        "g:Pop": 0.1102,
+        "g:Rock": 0.0018,
+        "g:Metal": 0.0009,
+        "g:Hip-Hop": 0.0352,
+        "g:R&B": 0.0279,
+        "g:Electronic": 0.0399,
+        "g:Dance": 0.041,
+        "g:Jazz": 0.0066,
+        "g:Blues": 0.0066,
+        "g:Classical": 0.002,
+        "g:Ambient": 0.0026,
+        "g:Soundtrack": 0.0136,
+        "g:Folk": 0.0019,
+        "g:Latin": 0.0062,
+        "g:Reggae": 0.037,
+        "g:World": 0.1597,
+        "vocal": 0.0545,
+        "nature": 0.0025,
+        "happy": 0.0111,
+        "sad": 0.0006,
+        "tender": 0.0032,
+        "exciting": 0.0251,
+        "angry": 0.0001,
+        "lullaby": 0.0005
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 170.292,
+        "db": -15.37,
+        "dynamics": 12.866,
+        "perc": 0.235,
+        "onsetRate": 5.033,
+        "pulse": 0.657,
+        "beatiness": 0.657,
+        "tempo": 101.466,
+        "beatOffset": 0.182,
+        "centroid": 3093.384,
+        "flatness": 0.048,
+        "energy": 0.822,
+        "major": 0.157,
+        "key": "C# minor",
+        "keyConf": 0.748
+      },
+      "v": 5,
+      "size": 4093140,
+      "title": "Buralar Benden Sorulur",
+      "analysed": "2026-11-11 06:37"
+    },
+    "u_los_isiklar_altinda_ca8e99": {
+      "genre": "Pop",
+      "genreConfidence": 0.095,
+      "genreTop": [
+        [
+          "Pop",
+          0.095
+        ],
+        [
+          "World",
+          0.07
+        ],
+        [
+          "Dance",
+          0.05
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.559,
+        "Workout": 0.514,
+        "Party": 0.509,
+        "Late night": 0.484,
+        "Melancholy": 0.316
+      },
+      "bpm": 120,
+      "tempo": 120.03,
+      "beatOffset": 0.082,
+      "hasBeat": true,
+      "energy": 0.704,
+      "key": "G# minor",
+      "vocals": 0.068,
+      "signals": {
+        "g:Pop": 0.0949,
+        "g:Rock": 0.0007,
+        "g:Metal": 0.0003,
+        "g:Hip-Hop": 0.0053,
+        "g:R&B": 0.0324,
+        "g:Electronic": 0.0448,
+        "g:Dance": 0.0502,
+        "g:Jazz": 0.0036,
+        "g:Blues": 0.0051,
+        "g:Classical": 0.0015,
+        "g:Ambient": 0.0023,
+        "g:Soundtrack": 0.0121,
+        "g:Folk": 0.0027,
+        "g:Latin": 0.0051,
+        "g:Reggae": 0.0172,
+        "g:World": 0.0699,
+        "vocal": 0.068,
+        "nature": 0.0055,
+        "happy": 0.012,
+        "sad": 0.0015,
+        "tender": 0.0052,
+        "exciting": 0.0172,
+        "angry": 0.0,
+        "lullaby": 0.0012
+      },
+      "nature": 0.005,
+      "model": true,
+      "features": {
+        "seconds": 162.717,
+        "db": -15.109,
+        "dynamics": 9.905,
+        "perc": 0.186,
+        "onsetRate": 3.884,
+        "pulse": 0.617,
+        "beatiness": 0.572,
+        "tempo": 120.031,
+        "beatOffset": 0.082,
+        "centroid": 2567.429,
+        "flatness": 0.044,
+        "energy": 0.704,
+        "major": 0.105,
+        "key": "G# minor",
+        "keyConf": 0.613
+      },
+      "v": 5,
+      "size": 3911328,
+      "title": "Loş Işıklar Altında",
+      "analysed": "2026-11-11 06:37"
+    },
+    "u_sokaklar_dilsiz_7dca14": {
+      "genre": "Dance",
+      "genreConfidence": 0.094,
+      "genreTop": [
+        [
+          "Dance",
+          0.094
+        ],
+        [
+          "Pop",
+          0.07
+        ],
+        [
+          "Electronic",
+          0.07
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.603,
+        "Energize": 0.59,
+        "Workout": 0.529,
+        "Late night": 0.359,
+        "Happy": 0.314
+      },
+      "bpm": 123,
+      "tempo": 123.12,
+      "beatOffset": 0.174,
+      "hasBeat": true,
+      "energy": 0.718,
+      "key": "B minor",
+      "vocals": 0.066,
+      "signals": {
+        "g:Pop": 0.0698,
+        "g:Rock": 0.0017,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.004,
+        "g:R&B": 0.017,
+        "g:Electronic": 0.0697,
+        "g:Dance": 0.0944,
+        "g:Jazz": 0.0034,
+        "g:Blues": 0.0073,
+        "g:Classical": 0.0023,
+        "g:Ambient": 0.0016,
+        "g:Soundtrack": 0.0146,
+        "g:Folk": 0.0036,
+        "g:Latin": 0.0037,
+        "g:Reggae": 0.0058,
+        "g:World": 0.0183,
+        "vocal": 0.066,
+        "nature": 0.0023,
+        "happy": 0.0119,
+        "sad": 0.0012,
+        "tender": 0.0033,
+        "exciting": 0.0205,
+        "angry": 0.0001,
+        "lullaby": 0.0014
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 178.442,
+        "db": -15.177,
+        "dynamics": 8.237,
+        "perc": 0.168,
+        "onsetRate": 4.904,
+        "pulse": 0.628,
+        "beatiness": 0.527,
+        "tempo": 123.118,
+        "beatOffset": 0.174,
+        "centroid": 2746.501,
+        "flatness": 0.048,
+        "energy": 0.718,
+        "major": 0.445,
+        "key": "B minor",
+        "keyConf": 0.368
+      },
+      "v": 5,
+      "size": 4288745,
+      "title": "Sokaklar Dilsiz",
+      "analysed": "2026-11-11 06:37"
+    },
+    "u_bu_yalan_dunya_d5e685": {
+      "genre": "Pop",
+      "genreConfidence": 0.093,
+      "genreTop": [
+        [
+          "Pop",
+          0.093
+        ],
+        [
+          "Electronic",
+          0.072
+        ],
+        [
+          "Dance",
+          0.043
+        ]
+      ],
+      "moods": [
+        "Energize"
+      ],
+      "moodScores": {
+        "Energize": 0.578,
+        "Workout": 0.506,
+        "Party": 0.499,
+        "Late night": 0.476,
+        "Melancholy": 0.313
+      },
+      "bpm": 120,
+      "tempo": 120.09,
+      "beatOffset": 0.141,
+      "hasBeat": true,
+      "energy": 0.723,
+      "key": "B minor",
+      "vocals": 0.052,
+      "signals": {
+        "g:Pop": 0.0934,
+        "g:Rock": 0.0012,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0125,
+        "g:R&B": 0.0226,
+        "g:Electronic": 0.0725,
+        "g:Dance": 0.0434,
+        "g:Jazz": 0.0042,
+        "g:Blues": 0.0058,
+        "g:Classical": 0.0019,
+        "g:Ambient": 0.0026,
+        "g:Soundtrack": 0.0161,
+        "g:Folk": 0.002,
+        "g:Latin": 0.0052,
+        "g:Reggae": 0.0161,
+        "g:World": 0.039,
+        "vocal": 0.0523,
+        "nature": 0.0024,
+        "happy": 0.0091,
+        "sad": 0.0012,
+        "tender": 0.0037,
+        "exciting": 0.0218,
+        "angry": 0.0002,
+        "lullaby": 0.0012
+      },
+      "nature": 0.002,
+      "model": true,
+      "features": {
+        "seconds": 178.625,
+        "db": -15.158,
+        "dynamics": 8.659,
+        "perc": 0.177,
+        "onsetRate": 4.635,
+        "pulse": 0.588,
+        "beatiness": 0.519,
+        "tempo": 120.093,
+        "beatOffset": 0.141,
+        "centroid": 2780.424,
+        "flatness": 0.05,
+        "energy": 0.723,
+        "major": 0.103,
+        "key": "B minor",
+        "keyConf": 0.627
+      },
+      "v": 5,
+      "size": 4293134,
+      "title": "Bu Yalan Dünya",
+      "analysed": "2026-11-11 06:38"
+    },
+    "u_gecenin_kollarinda_4ccaaf": {
+      "genre": "Dance",
+      "genreConfidence": 0.112,
+      "genreTop": [
+        [
+          "Dance",
+          0.112
+        ],
+        [
+          "Electronic",
+          0.058
+        ],
+        [
+          "Pop",
+          0.05
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.635,
+        "Energize": 0.578,
+        "Late night": 0.388,
+        "Happy": 0.296,
+        "Melancholy": 0.245
+      },
+      "bpm": 123,
+      "tempo": 123.05,
+      "beatOffset": 0.041,
+      "hasBeat": true,
+      "energy": 0.687,
+      "key": "G# minor",
+      "vocals": 0.036,
+      "signals": {
+        "g:Pop": 0.0499,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.0018,
+        "g:R&B": 0.0182,
+        "g:Electronic": 0.0581,
+        "g:Dance": 0.1124,
+        "g:Jazz": 0.0038,
+        "g:Blues": 0.0062,
+        "g:Classical": 0.0011,
+        "g:Ambient": 0.0131,
+        "g:Soundtrack": 0.0244,
+        "g:Folk": 0.0017,
+        "g:Latin": 0.0007,
+        "g:Reggae": 0.0006,
+        "g:World": 0.0099,
+        "vocal": 0.0357,
+        "nature": 0.0028,
+        "happy": 0.0117,
+        "sad": 0.0118,
+        "tender": 0.014,
+        "exciting": 0.0239,
+        "angry": 0.0,
+        "lullaby": 0.0144
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 172.278,
+        "db": -15.331,
+        "dynamics": 11.129,
+        "perc": 0.154,
+        "onsetRate": 4.864,
+        "pulse": 0.65,
+        "beatiness": 0.499,
+        "tempo": 123.05,
+        "beatOffset": 0.041,
+        "centroid": 2537.703,
+        "flatness": 0.028,
+        "energy": 0.687,
+        "major": 0.426,
+        "key": "G# minor",
+        "keyConf": 0.595
+      },
+      "v": 5,
+      "size": 4140788,
+      "title": "Gecenin Kollarında",
+      "analysed": "2026-11-11 06:38"
+    },
+    "u_gravity_off_d084aa": {
+      "genre": "Dance",
+      "genreConfidence": 0.084,
+      "genreTop": [
+        [
+          "Dance",
+          0.084
+        ],
+        [
+          "Pop",
+          0.082
+        ],
+        [
+          "Electronic",
+          0.054
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Party"
+      ],
+      "moodScores": {
+        "Energize": 0.615,
+        "Party": 0.565,
+        "Late night": 0.343,
+        "Happy": 0.321,
+        "Melancholy": 0.216
+      },
+      "bpm": 123,
+      "tempo": 122.98,
+      "beatOffset": 0.142,
+      "hasBeat": true,
+      "energy": 0.742,
+      "key": "B minor",
+      "vocals": 0.039,
+      "signals": {
+        "g:Pop": 0.0821,
+        "g:Rock": 0.0029,
+        "g:Metal": 0.0006,
+        "g:Hip-Hop": 0.0026,
+        "g:R&B": 0.019,
+        "g:Electronic": 0.0545,
+        "g:Dance": 0.0838,
+        "g:Jazz": 0.0049,
+        "g:Blues": 0.0074,
+        "g:Classical": 0.0008,
+        "g:Ambient": 0.002,
+        "g:Soundtrack": 0.0177,
+        "g:Folk": 0.0038,
+        "g:Latin": 0.001,
+        "g:Reggae": 0.0016,
+        "g:World": 0.0167,
+        "vocal": 0.0385,
+        "nature": 0.0027,
+        "happy": 0.0163,
+        "sad": 0.0005,
+        "tender": 0.0027,
+        "exciting": 0.0283,
+        "angry": 0.0001,
+        "lullaby": 0.0011
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 177.894,
+        "db": -15.187,
+        "dynamics": 7.674,
+        "perc": 0.181,
+        "onsetRate": 4.936,
+        "pulse": 0.521,
+        "beatiness": 0.471,
+        "tempo": 122.984,
+        "beatOffset": 0.142,
+        "centroid": 2880.694,
+        "flatness": 0.048,
+        "energy": 0.742,
+        "major": 0.412,
+        "key": "B minor",
+        "keyConf": 0.708
+      },
+      "v": 5,
+      "size": 4275580,
+      "title": "Gravity Off",
+      "analysed": "2026-11-11 06:38"
+    },
+    "u_touching_the_sky_ae6e35": {
+      "genre": "Pop",
+      "genreConfidence": 0.078,
+      "genreTop": [
+        [
+          "Pop",
+          0.078
+        ],
+        [
+          "World",
+          0.047
+        ],
+        [
+          "Dance",
+          0.041
+        ]
+      ],
+      "moods": [
+        "Energize",
+        "Workout",
+        "Party"
+      ],
+      "moodScores": {
+        "Party": 0.655,
+        "Energize": 0.651,
+        "Workout": 0.634,
+        "Happy": 0.515,
+        "Late night": 0.128
+      },
+      "bpm": 126,
+      "tempo": 126.01,
+      "beatOffset": 0.118,
+      "hasBeat": true,
+      "energy": 0.798,
+      "key": "D major",
+      "vocals": 0.055,
+      "signals": {
+        "g:Pop": 0.078,
+        "g:Rock": 0.0006,
+        "g:Metal": 0.0002,
+        "g:Hip-Hop": 0.006,
+        "g:R&B": 0.0407,
+        "g:Electronic": 0.0161,
+        "g:Dance": 0.0414,
+        "g:Jazz": 0.0046,
+        "g:Blues": 0.0051,
+        "g:Classical": 0.0008,
+        "g:Ambient": 0.0042,
+        "g:Soundtrack": 0.0137,
+        "g:Folk": 0.0036,
+        "g:Latin": 0.0032,
+        "g:Reggae": 0.004,
+        "g:World": 0.0468,
+        "vocal": 0.0552,
+        "nature": 0.0028,
+        "happy": 0.0359,
+        "sad": 0.0008,
+        "tender": 0.0067,
+        "exciting": 0.0213,
+        "angry": 0.0,
+        "lullaby": 0.0028
+      },
+      "nature": 0.003,
+      "model": true,
+      "features": {
+        "seconds": 180.14,
+        "db": -15.605,
+        "dynamics": 12.435,
+        "perc": 0.24,
+        "onsetRate": 4.846,
+        "pulse": 0.7,
+        "beatiness": 0.7,
+        "tempo": 126.01,
+        "beatOffset": 0.118,
+        "centroid": 2540.808,
+        "flatness": 0.033,
+        "energy": 0.798,
+        "major": 0.992,
+        "key": "D major",
+        "keyConf": 0.787
+      },
+      "v": 5,
+      "size": 4329496,
+      "title": "Touching The Sky",
+      "analysed": "2026-11-11 06:38"
     }
   }
 }
